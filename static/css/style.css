@@ -1,0 +1,205 @@
+@media (min-width: 576px) {
+    main {
+        margin-left: 3em;
+        margin-right: 3em;
+    }
+
+    h1 {
+
+        font-weight: bold;
+        font-size: 2em;
+        margin-top: 0.5em;
+        margin-bottom: 0.5em;
+    }
+
+}
+
+@media (min-width: 768px) {
+    main {
+        margin-left: 3em;
+        margin-right: 3em;
+    }
+
+    h1 {
+        font-size: 2em;
+        margin-top: 0.5em;
+        margin-bottom: 0.5em;
+    }
+
+    h5 {
+        font-size: medium;
+    }
+}
+
+@media (min-width: 992px) {
+    main {
+        margin-left: 6em;
+        margin-right: 6em;
+    }
+
+    h5 {
+        font-size: medium;
+    }
+
+    h1 {
+        font-size: 2.5em;
+        margin-top: 1em;
+        margin-bottom: 1em
+    }
+
+}
+
+@media (min-width: 1200px) {
+    main {
+        margin-left: 12em;
+        margin-right: 12em;
+    }
+}
+
+article,
+figure,
+footer,
+header,
+main,
+nav,
+section {
+    display: block;
+    position: relative;
+}
+
+legend {
+    font-size: calc(1.275rem + 0.3vw);
+}
+
+h1,
+.h1 {
+    font-size: calc(1.375rem + 1.5vw);
+}
+
+h2,
+.h2 {
+    font-size: calc(1.325rem + 0.9vw);
+}
+
+h3,
+.h3 {
+    font-size: calc(1.3rem + 0.6vw);
+}
+
+h4,
+.h4 {
+    font-size: calc(1.275rem + 0.3vw);
+}
+
+.display-1 {
+    font-size: calc(1.725rem + 5.7vw);
+}
+
+.display-2 {
+    font-size: calc(1.675rem + 5.1vw);
+}
+
+.display-3 {
+    font-size: calc(1.575rem + 3.9vw);
+}
+
+.display-4 {
+    font-size: calc(1.475rem + 2.7vw);
+}
+
+.close {
+    font-size: calc(1.275rem + 0.3vw);
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    background-color: #97a5a8;
+    background-image: url(./../img/air-gray.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+main {
+    background-color: white;
+
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
+
+.carousel-slide {
+    justify-content: center;
+    background-size: cover;
+}
+
+.contacts {
+    color: #6cc7d3;
+    font-weight: bold;
+    font-size: 1.1em;
+    height: 4em;
+}
+
+.contacts-nav {
+    color: white;
+    font-weight: bold;
+    font-size: 1em;
+
+}
+
+.contacts a:hover {
+    color: #6cc7d3;
+}
+
+.contacts-nav a:hover {
+    color: navy;
+}
+
+.contacts a, .contacts-nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.contacts-nav a i, .contacts a i {
+    margin-right: 0.5em;
+    margin-left: 0.5em;
+}
+
+.navbar, .navbar ul {
+    /*background-color: #6cc7d3;*/
+}
+
+.nav-item {
+    margin-right: 3em;
+    margin-left: 3em;
+}
+
+h1, h5, h3 {
+    /*text-transform: uppercase;*/
+    font-weight: bold;
+}
+
+.carousel-slide {
+    display: flex;
+}
+
+footer .brand-social {
+    vertical-align: middle;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+footer .brand a {
+    display: block;
+    vertical-align: middle;
+}
+
+footer .brand a img {
+    margin: 1em;
+}
+

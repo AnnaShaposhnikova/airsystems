@@ -1,0 +1,104 @@
+.card{
+    background-color: #6cc7d3;
+}
+.card1{
+    margin-bottom : 2em;
+    height: auto;
+}
+
+.card1 ul li a{
+    color: black;
+    text-decoration:none;
+}
+.card1 ul li a:hover{
+    color: blue;
+    text-decoration:none;
+}
+.card h5{
+    font-weight: bold;
+    height: 4em;
+}
+.card1:hover{
+    box-shadow : 3px 3px 8px hsl(0, 0%, 70%);
+    -webkit-box-shadow: 3px 3px 8px hsl(0, 0%, 70%);
+}
+
+.card2 {
+    width: 100%;
+    max-width: 450px; /* опционально */
+    margin: 10px;
+    opacity: .99;
+    overflow: hidden;
+    position: relative;
+    border-radius: 3px;
+    cursor: pointer;
+    -webkit-box-shadow: 0 12px 15px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+    -moz-box-shadow: 0 12px 15px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 12px 15px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+.card2:before {
+    content: '';
+    background: -webkit-linear-gradient(top, transparent 0%, rgba(0, 0, 0, 0.7) 100%);
+    background: linear-gradient(to bottom, transparent 0%, rgba(0, 0, 0, 0.7) 100%);
+    width: 100%;
+    height: 50%;
+    opacity: 0;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 2;
+    -webkit-transition-property: top, opacity;
+    transition-property: top, opacity;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+}
+.card2 img {
+    display: block;
+    width: 100%; /* ширина картинки */
+    height: auto; /* высота картинки */
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+}
+.card2 .wrapper {
+    width: 100%;
+    /*padding: 20px;*/
+    color: #fff;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    z-index: 3;
+    text-align: start;
+}
+.card2 .wrapper {
+    display: block;
+    opacity: 0;
+    position: relative;
+    top: 100px;
+    -webkit-transition-property: top, opacity;
+    transition-property: top, opacity;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-delay: 0s;
+    transition-delay: 0s;
+}
+
+.card2:focus:before,
+.card2:focus .wrapper, .card2:hover:before,
+.card2:hover .wrapper {
+    opacity: 1;
+}
+.card2:focus:before, .card2:hover:before {
+    top: 50%;
+}
+.card2:focus .wrapper, .card2:hover .wrapper {
+    top: 0;
+}
+.card2 .wrapper ul li a{
+    color:white;
+    text-decoration: none;
+}
+.card2 .wrapper ul li a:hover{
+    color:blue;
+    text-decoration: none;
+}
+
