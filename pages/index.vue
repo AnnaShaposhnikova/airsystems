@@ -1,21 +1,20 @@
 <template>
-
       <div class="container-fluid">
           <section class="row justify-content-center pb-5 pt-5">
               <div class="col-12">
                   <div class="carousel slide" data-ride="carousel">
                       <div class="carousel-inner">
                           <div class="carousel-item active">
-                              <img src="img/1.jpg" class="d-block w-100">
+                              <img src="/img/1.jpg" class="d-block w-100">
                           </div>
                           <div class="carousel-item">
-                              <img src="img/2.jpg" class="d-block w-100" alt="...">
+                              <img src="/img/2.jpg" class="d-block w-100" alt="...">
                           </div>
                           <div class="carousel-item">
-                              <img src="img/3.jpg" class="d-block w-100" alt="...">
+                              <img src="/img/3.jpg" class="d-block w-100" alt="...">
                           </div>
                           <div class="carousel-item">
-                              <img src="img/4.jpg" class="d-block w-100" alt="...">
+                              <img src="/img/4.jpg" class="d-block w-100" alt="...">
                           </div>
                       </div>
                   </div>
@@ -26,142 +25,168 @@
           </h1>
           <section class="row justify-content-center">
               <div class="col-lg-3 col-md-6 d-flex">
+                  <Card>
+                      <CardTitle>Винтовые <br>компрессоры</CardTitle>
+                      <CardImage src="/img/a.jpg"/>
+                      <CardBody>
+                          <ul>
+                              <li>
+                                  <NuxtLink to="/vint-atlascopco">
+                                      Atlas Copco
+                                  </NuxtLink>
+                              </li>
+                              <li>
+                                  <NuxtLink to="/vint-tamsan">
+                                      Tamsan
+                                  </NuxtLink>
+                              </li>
+                          </ul>
+                      </CardBody>
+                  </Card>
+              </div>
+              <div class="col-lg-3 col-md-6  d-flex">
+                  <Card>
+                      <CardTitle>Безмасляные <br>компрессоры</CardTitle>
+                      <CardImage src="/img/b.jpg"/>
+                      <CardBody>
+                          <ul>
+                              <li>
+                                  <NuxtLink to="/withoutoil-atlascopco">
+                                      Atlas Copco
+                                  </NuxtLink>
+                              </li>
+                              <li>
+                                  <NuxtLink to="/withoutoil-tamsan">
+                                      Tamsan
+                                  </NuxtLink>
+                              </li>
+                          </ul>
+                      </CardBody>
+                  </Card>
+              </div>
+              <div class="col-lg-3 col-md-6 d-flex">
+                  <Card>
+                      <CardTitle>Высокобарные<br>компрессоры</CardTitle>
+                      <CardImage src="/img/c.jpg"/>
+                      <CardBody>
+                          <ul>
+                              <li>
+                                  <NuxtLink to="/high-atlascopco">
+                                      Atlas Copco
+                                  </NuxtLink>
+                              </li>
+                              <li>
+                                  <NuxtLink to="/high-tamsan">
+                                      Tamsan
+                                  </NuxtLink>
+                              </li>
+                          </ul>
+                      </CardBody>
+                  </Card>
+              </div>
+              <div class="col-lg-3 col-md-6 d-flex">
+                  <Card>
+                      <CardTitle>Осушители</CardTitle>
+                      <CardImage src="/img/c.jpg"/>
+                      <CardBody>
+                          <ul>
+                              <li>
+                                  <NuxtLink to="/drytec">
+                                      Осушители
+                                  </NuxtLink>
+                              </li>
+                          </ul>
+                      </CardBody>
+                  </Card>
+              </div>
+          </section>
+          <section class="row justify-content-center">
+              <div class="col-lg-3 col-md-6 d-flex">
                   <article class="card card1 flex-fill">
-                      <h5 class="card-title py-3 text-center"> Винтовые <br>компрессоры</h5>
+                      <h5 class="card-title py-3 text-center">Рекуперация</h5>
                       <figure class="card-img">
-                          <img src="img/a.jpg" class="card-img-top img-fluid ">
+                          <img src="/img/a.jpg" class="card-img-top img-fluid ">
                       </figure>
                       <div class="card-body">
                           <ul>
-                              <li><a href="vint_atlascopco.html">Atlas Copco</a></li>
-                              <li><a href="vint_tamsan.html">Tamsan</a></li>
+                              <li>
+                                  <NuxtLink to="/recuperation">
+                                     Рекуперация
+                                  </NuxtLink>
+                              </li>
                           </ul>
                       </div>
                   </article>
               </div>
               <div class="col-lg-3 col-md-6  d-flex">
                   <article class="card card1 flex-fill">
-                      <h5 class="card-title py-3 text-center"> Безмасляные <br>компрессоры</h5>
+                      <h5 class="card-title py-3 text-center">Ресиверы</h5>
                       <figure class="card-img">
-                          <img src="img/b.jpg" class="card-img-top img-fluid ">
+                          <img src="/img/b.jpg" class="card-img-top img-fluid ">
                       </figure>
                       <div class="card-body">
                           <ul>
-                              <li><a href="withoutoil_atlascopco.html">Atlas Copco</a></li>
-                              <li><a href="withoutoil_tamsan.html">Tamsan</a></li>
+                              <li>
+                                  <NuxtLink to="/reciver">
+                                      Ресиверы
+                                  </NuxtLink>
+                              </li>
                           </ul>
                       </div>
                   </article>
               </div>
               <div class="col-lg-3 col-md-6 d-flex">
                   <article class="card card1 flex-fill">
-                      <h5 class="card-title py-3 text-center">Высокобарные <br>компрессоры</h5>
+                      <h5 class="card-title py-3 text-center">Расходные<br>материалы</h5>
                       <figure class="card-img">
-                          <img src="img/c.jpg" class="card-img-top img-fluid ">
+                          <img src="/img/c.jpg" class="card-img-top img-fluid ">
                       </figure>
                       <div class="card-body">
                           <ul>
-                              <li><a href="high_atlascopco.html">Atlas Copco</a></li>
-                              <li><a href="high_tamsan.html">Tamsan</a></li>
+                              <li>
+                                  <NuxtLink to="/consumables">
+                                      Расходные материалы
+                                  </NuxtLink>
+                              </li>
                           </ul>
                       </div>
                   </article>
               </div>
               <div class="col-lg-3 col-md-6 d-flex">
                   <article class="card card1 flex-fill">
-                      <h5 class="card-title py-3 text-center">Осушители</h5>
+                      <h5 class="card-title py-3 text-center">Б/у оборудование</h5>
                       <figure class="card-img">
-                          <img src="img/d.jpg" class="card-img-top img-fluid ">
+                          <img src="/img/d.jpg" class="card-img-top img-fluid ">
                       </figure>
+                      <div class="card-body">
+                          <ul>
+                              <li>
+                                  <NuxtLink to="/second">
+                                     Б/у оборудование
+                                  </NuxtLink>
+                              </li>
+                          </ul>
+                      </div>
+                  </article>
+              </div>
+          </section>
 
-                      <div class="card-body">
-                          <ul>
-                              <li><a href="drytec.html">DRYTEC</a></li>
-                          </ul>
-                      </div>
-                  </article>
-              </div>
-          </section>
-          <section class="row justify-content-center pb-5">
-              <div class="col-lg-3 col-md-6 d-flex">
-                  <article class="card card2 flex-fill">
-                      <h5 class="card-title py-3 text-center"> Винтовые <br>комперессоры</h5>
-                      <figure class="card-img">
-                          <img src="img/a.jpg" class="card-img-top img-fluid ">
-                      </figure>
-                      <div class="card-body">
-                          <div class="wrapper">
-                              <ul>
-                                  <li><a href="vint_atlascopco.html">Atlas Copco</a></li>
-                                  <li><a href="vint_tamsan.html">Tamsan</a></li>
-                              </ul>
-                          </div>
-                      </div>
-                  </article>
-              </div>
-              <div class="col-lg-3 col-md-6 d-flex">
-                  <article class="card card2 flex-fill">
-                      <h5 class="card-title py-3 text-center"> Безмасляные <br>комперессоры</h5>
-                      <figure class="card-img">
-                          <img src="img/b.jpg" class="card-img-top img-fluid ">
-                      </figure>
-                      <div class="card-body">
-                          <div class="wrapper">
-                              <ul>
-                                  <li><a href="withoutoil_atlascopco.html">Atlas Copco</a></li>
-                                  <li><a href="withoutoil_tamsan.html">Tamsan</a></li>
-                              </ul>
-                          </div>
-                      </div>
-                  </article>
-              </div>
-              <div class="col-lg-3 col-md-6 d-flex">
-                  <article class="card card2 flex-fill">
-                      <h5 class="card-title py-3 text-center">Высокобарные <br>комперессоры</h5>
-                      <figure class="card-img">
-                          <img src="img/c.jpg" class="card-img-top img-fluid ">
-                      </figure>
-                      <div class="card-body">
-                          <div class="wrapper">
-                              <ul>
-                                  <li><a href="high_atlascopco.html">Atlas Copco</a></li>
-                                  <li><a href="high_tamsan.html">Tamsan</a></li>
-                              </ul>
-                          </div>
-                      </div>
-                  </article>
-              </div>
-              <div class="col-lg-3 col-md-6 d-flex">
-                  <article class="card card2 flex-fill">
-                      <h5 class="card-title py-3 text-center"> Осушители </h5>
-                      <figure class="card-img">
-                          <img src="img/d.jpg" class="card-img-top img-fluid ">
-                      </figure>
-                      <div class="card-body">
-                          <div class="wrapper">
-                              <ul>
-                                  <li><a href="drytec.html">DRYTEC</a></li>
-                              </ul>
-                          </div>
-                      </div>
-                  </article>
-              </div>
-          </section>
+
           <section class="row justify-content-center pb-5 pt-5">
               <div class="col-12">
                   <div class="carousel slide" data-ride="carousel">
                       <div class="carousel-inner">
                           <div class="carousel-item active">
-                              <img src="img/5.jpg" class="d-block  w-100">
+                              <img src="/img/5.jpg" class="d-block  w-100">
                           </div>
                           <div class="carousel-item">
-                              <img src="img/2.jpg" class="d-block  w-100" alt="...">
+                              <img src="/img/2.jpg" class="d-block  w-100" alt="...">
                           </div>
                           <div class="carousel-item">
-                              <img src="img/6.jpg" class="d-block  w-100" alt="...">
+                              <img src="/img/6.jpg" class="d-block  w-100" alt="...">
                           </div>
                           <div class="carousel-item">
-                              <img src="img/4.jpg" class="d-block  w-100" alt="...">
+                              <img src="/img/4.jpg" class="d-block  w-100" alt="...">
                           </div>
                       </div>
                   </div>
