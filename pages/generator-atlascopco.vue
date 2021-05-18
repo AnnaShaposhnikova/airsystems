@@ -1,11 +1,11 @@
 <template>
     <div class="container-fluid my-4">
-        <h3 class="text-center my-5">Винтовые компрессоры Atlas Copco</h3>
-        <ol>
-            <h3 class="text-left">Компрессоры серии В</h3>
+        <h3 class="text-center my-5">Генераторы азота и кислорода Atlas Copco</h3>
+
+            <h4 class="text-left">Генераторы азота</h4>
             <article>
                 <div class="row justify-content-center">
-                    <div class="col-lg-4 col-md-6 col-sm-12" >
+                    <div class="col-lg-4 col-md-6 col-sm-12">
                         <figure>
                             <img class="p-3 img-fluid" src="/img/a.jpg">
                         </figure>
@@ -49,10 +49,10 @@
                         </table>
                     </div>
                 </div>
+
             </article>
-            <h4 class="text-left">Компрессоры серии GA</h4>
-            <h4 class="text-left">Компрессоры серии GA VSD с частотным приводом</h4>
-        </ol>
+            <h4 class="text-left">Генераторы кислорода</h4>
+
     </div>
 </template>
 <script>

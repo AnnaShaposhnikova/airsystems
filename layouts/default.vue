@@ -63,11 +63,7 @@
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean suscipit eros vel diam
                         tincidunt,
                         ut consectetur neque porta. Quisque tempus, mauris tristique tempor venenatis, enim nisi
-                        imperdiet magna,
-                        vel lacinia purus justo commodo felis. Nullam diam neque, convallis vel pretium et, eleifend
-                        eget ex.
-                        Praesent sit amet molestie libero. Proin placerat dolor ipsum, ac tempor tortor tincidunt vel.
-                        Phasellus cursus a massa at tincidunt. Nullam feugiat massa in suscipit ullamcorper.
+                        imperdiet magna.
                     </p>
                     <div class="text-center">
                         <img src="/img/logo111.png" class="mx-auto my-3">
@@ -75,7 +71,7 @@
                 </div>
             </div>
             <div class="col-sm-4 text-center">
-                <h5>
+                <h5 class="mb-3">
                     Наши контакты
                 </h5>
                 <p>
@@ -87,7 +83,7 @@
             </div>
             <div class="col-sm-4 text-start">
                 <div>
-                    <h5 class="text-center">Мы в соцсетях</h5>
+                    <h5 class="text-center mb-3">Мы в соцсетях</h5>
                     <div class="brand-social p-3">
                         <a href="https://www.instagram.com">
                             <img src="/img/insagram.jpg" style="height: 50px">

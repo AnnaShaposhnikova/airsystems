@@ -5,9 +5,6 @@
     }
 
     h1 {
-
-        font-weight: bold;
-        font-size: 2em;
         margin-top: 0.5em;
         margin-bottom: 0.5em;
     }
@@ -21,13 +18,8 @@
     }
 
     h1 {
-        font-size: 2em;
         margin-top: 0.5em;
         margin-bottom: 0.5em;
-    }
-
-    h5 {
-        font-size: medium;
     }
 }
 
@@ -37,12 +29,7 @@
         margin-right: 6em;
     }
 
-    h5 {
-        font-size: medium;
-    }
-
     h1 {
-        font-size: 2.5em;
         margin-top: 1em;
         margin-bottom: 1em
     }
@@ -178,20 +165,15 @@ footer {
     margin-left: 3em;
 }
 
-h1, h5, h3 {
-    /*text-transform: uppercase;*/
-    font-weight: bold;
-}
-
 .carousel-slide {
     display: flex;
 }
 
 footer .brand-social {
     vertical-align: middle;
-    display: flex;
     flex-direction: row;
-    justify-content: center;
+
+    display: inline;
 }
 
 footer .brand a {
@@ -202,4 +184,10 @@ footer .brand a {
 footer .brand a img {
     margin: 1em;
 }
+
+a{
+    text-decoration: none;
+}
+
+
 
