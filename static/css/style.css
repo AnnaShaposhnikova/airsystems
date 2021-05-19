@@ -125,30 +125,11 @@ footer {
 }
 
 .contacts {
-    color: #6cc7d3;
-    font-weight: bold;
-    font-size: 1.1em;
-    height: 4em;
-}
-
-.contacts-nav {
     color: white;
-    font-weight: bold;
-    font-size: 1em;
-
 }
 
-.contacts a:hover {
+.contacts:hover {
     color: #6cc7d3;
-}
-
-.contacts-nav a:hover {
-    color: navy;
-}
-
-.contacts a, .contacts-nav a {
-    color: white;
-    text-decoration: none;
 }
 
 .contacts-nav a i, .contacts a i {
@@ -172,7 +153,6 @@ footer {
 footer .brand-social {
     vertical-align: middle;
     flex-direction: row;
-
     display: inline;
 }
 
@@ -185,7 +165,7 @@ footer .brand a img {
     margin: 1em;
 }
 
-a{
+a, a:hover{
     text-decoration: none;
 }
 
