@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <h1>Расходные материалы</h1>
+        <h1>Витратні матеріали та запасні частини</h1>
     </div>
 </template>
 <script>

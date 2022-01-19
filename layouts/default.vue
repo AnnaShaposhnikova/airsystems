@@ -56,18 +56,18 @@
     </section>
     <section class="container">
         <div class="row">
-            <div class="col-sm-4">
+            <div class="col-sm-5">
                 <h5 class="mb-3 text-center">О нас</h5>
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean suscipit eros vel diam
-                    tincidunt,
-                    ut consectetur neque porta. Quisque tempus, mauris tristique tempor venenatis, enim nisi
-                    imperdiet magna.
-                </p>
+                <p class="indent">
+             ПОВІТРЯНІ СИСТЕМИ - це енергійна та надійна компанія,
+              що працює на ринку компресорного обладнання з 1998 року і є 
+              офіційним дилером виробників компресорного обладнання: Atlas Copco (Бельгія), 
+              LMF (Австрія), Tamsan (Туреччина) на всій території України.              
+                </p>      
             </div>
             <div class="col-sm-4 text-center">
                 <h5 class="mb-3">
-                    Наши контакты
+                    Наші  контакти
                 </h5>
                 <div class="text-center">
                     <div>
@@ -79,10 +79,10 @@
                 </div>
 
             </div>
-            <div class="col-sm-4 text-center">
-                <h5 class="mb-3">Мы в соцсетях</h5>
+            <div class="col-sm-2 text-center">
+                <!-- <h5 class="mb-3">Ми у соцсетях</h5>
                 <b-icon-facebook class="h1 mx-2"></b-icon-facebook>
-                <b-icon-instagram class="h1 mx-2"></b-icon-instagram>
+                <b-icon-instagram class="h1 mx-2"></b-icon-instagram> -->
             </div>
         </div>
     </section>

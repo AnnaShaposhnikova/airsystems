@@ -8,16 +8,16 @@
       <b-collapse id="nav-collapse" is-nav>
         <b-navbar-nav class="mx-auto">
           <b-nav-item to="/about">О нас</b-nav-item>
-          <b-nav-item-dropdown text="Каталог оборудования">
+          <b-nav-item-dropdown text="Каталог обладнання">
             <b-dropdown-item to="/atlascopco">Atlas Copco</b-dropdown-item>
             <b-dropdown-item to="/tamsan">Tamsan</b-dropdown-item>
             <b-dropdown-item to="/drytec">Drytec</b-dropdown-item>
-            <b-dropdown-item to="/consumables">Расходные материалы</b-dropdown-item>
-            <b-dropdown-item to="recuperation">Рекуперация</b-dropdown-item>
+            <b-dropdown-item to="/consumables">Витратні матеріали та запасні частини</b-dropdown-item>
+            <b-dropdown-item to="recuperation">Системи рекуперації тепла</b-dropdown-item>
             <b-dropdown-item to="/second">Б/У оборудование</b-dropdown-item>
           </b-nav-item-dropdown>
-          <b-nav-item to="/services">Услуги</b-nav-item>
-          <b-nav-item to="/contacts">Контакты</b-nav-item>
+          <b-nav-item to="/services">Послуги</b-nav-item>
+          <b-nav-item to="/contacts">Контакти</b-nav-item>
         </b-navbar-nav>
       </b-collapse>
     </b-navbar>

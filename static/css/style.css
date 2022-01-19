@@ -45,9 +45,9 @@
 
 article,
 figure,
-footer,
+/* footer, */
 header,
-main,
+/* main, */
 nav,
 section {
     display: block;
@@ -98,8 +98,11 @@ h4,
     font-size: calc(1.275rem + 0.3vw);
 }
 
-body {
+body {    
+    min-height: 100vh;
     font-family: 'Poppins', sans-serif;
+    display:flex; 
+    flex-direction:column; 
 }
 
 header {
@@ -110,13 +113,22 @@ header {
 }
 
 main {
+    flex: 1 0 auto;
+    height: 100%;
     background-color: white;
-
 }
 
 footer {
+    flex-shrink: 0;
     background-color: black;
     color: white;
+  
+}
+.body{
+      
+    display:flex; 
+  flex-direction:column;  
+    min-height: 100%;
 }
 
 .carousel-slide {
@@ -137,8 +149,11 @@ footer {
     margin-left: 0.5em;
 }
 
-.navbar, .navbar ul {
-    /*background-color: #6cc7d3;*/
+.bg-info {
+   background-color: #6cc7d3 !important;
+}
+.navbar-nav li .dropdown-menu{
+    background-color: #6cc7d3;
 }
 
 .nav-item {
@@ -169,5 +184,11 @@ a, a:hover{
     text-decoration: none;
 }
 
+.indent{
+    text-indent: 25px;
+}
+li{
+    font-size: 120%;
+}
 
 
