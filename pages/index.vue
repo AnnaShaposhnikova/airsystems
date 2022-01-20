@@ -2,38 +2,25 @@
     <div class="container-fluid">
         <section class="row justify-content-center pb-5 pt-5">
             <div class="col-12">
-                <div class="carousel slide" data-ride="carousel">
-                    <div class="carousel-inner">
-                        <div class="carousel-item active">
-                            <img src="/img/1.jpg" class="d-block w-100" />
-                        </div>
-                        <div class="carousel-item">
-                            <img
-                                src="/img/2.jpg"
-                                class="d-block w-100"
-                                alt="..."
-                            />
-                        </div>
-                        <div class="carousel-item">
-                            <img
-                                src="/img/3.jpg"
-                                class="d-block w-100"
-                                alt="..."
-                            />
-                        </div>
-                        <div class="carousel-item">
-                            <img
-                                src="/img/4.jpg"
-                                class="d-block w-100"
-                                alt="..."
-                            />
-                        </div>
-                    </div>
-                </div>
+                <div>
+                    <b-carousel
+                        indicators
+                        img-width="1024"
+                        img-height="480"
+                    >
+                        <b-carousel-slide
+                            img-src="/img/car1.jpg"
+                        ></b-carousel-slide>
+                        <b-carousel-slide
+                            img-src="/img/car2.jpg"
+                        ></b-carousel-slide>
+                        
+                    </b-carousel>
+                </div>               
             </div>
         </section>
         <h1 class="text-center">
-            Каталог оборудования
+            Каталог обладнання
         </h1>
         <section class="row justify-content-center">
             <div class="col-lg-3 col-md-6 d-flex">
@@ -58,8 +45,10 @@
             </div>
             <div class="col-lg-3 col-md-6  d-flex">
                 <Card>
-                    <CardTitle>Безмасляные <br />компрессоры</CardTitle>
-                    <CardImage src="/img/b.jpg" />
+                    <CardTitle
+                        >Компресори для сипких <br />матерiалiв</CardTitle
+                    >
+                    <CardImage src="/img/silobas-yan-2.jpg" />
                     <CardBody>
                         <ul>
                             <li>
@@ -78,8 +67,8 @@
             </div>
             <div class="col-lg-3 col-md-6 d-flex">
                 <Card>
-                    <CardTitle>Высокобарные<br />компрессоры</CardTitle>
-                    <CardImage src="/img/c.jpg" />
+                    <CardTitle>Высокобарнi<br />компресори</CardTitle>
+                    <CardImage src="/img/highbarcompressor.jpg" />
                     <CardBody>
                         <ul>
                             <li>
@@ -98,13 +87,13 @@
             </div>
             <div class="col-lg-3 col-md-6 d-flex">
                 <Card>
-                    <CardTitle>Осушители</CardTitle>
-                    <CardImage src="/img/c.jpg" />
+                    <CardTitle>Осушувачі повітря</CardTitle>
+                    <CardImage src="/img/dry.jpg" />
                     <CardBody>
                         <ul>
                             <li>
                                 <NuxtLink to="/drytec">
-                                    Осушители
+                                    Осушувачі повітря
                                 </NuxtLink>
                             </li>
                         </ul>
@@ -112,18 +101,23 @@
                 </Card>
             </div>
         </section>
-        <section class="row justify-content-center">
+        <section class="row justify-content-left">
             <div class="col-lg-3 col-md-6 d-flex">
                 <article class="card card1 flex-fill">
-                    <h5 class="card-title py-3 text-center">Рекуперация</h5>
+                    <h5 class="card-title py-3 text-center">
+                        Системи <br />рекуперації тепла
+                    </h5>
                     <figure class="card-img">
-                        <img src="/img/a.jpg" class="card-img-top img-fluid " />
+                        <img
+                            src="/img/recup.jpg"
+                            class="card-img-top img-fluid "
+                        />
                     </figure>
                     <div class="card-body">
                         <ul>
                             <li>
                                 <NuxtLink to="/recuperation">
-                                    Рекуперация
+                                    Системи <br />рекуперації тепла
                                 </NuxtLink>
                             </li>
                         </ul>
@@ -132,15 +126,18 @@
             </div>
             <div class="col-lg-3 col-md-6  d-flex">
                 <article class="card card1 flex-fill">
-                    <h5 class="card-title py-3 text-center">Ресиверы</h5>
+                    <h5 class="card-title py-3 text-center">Ресiвери</h5>
                     <figure class="card-img">
-                        <img src="/img/b.jpg" class="card-img-top img-fluid " />
+                        <img
+                            src="/img/reciver.jpg"
+                            class="card-img-top img-fluid "
+                        />
                     </figure>
                     <div class="card-body">
                         <ul>
                             <li>
                                 <NuxtLink to="/reciver">
-                                    Ресиверы
+                                    Ресiвери
                                 </NuxtLink>
                             </li>
                         </ul>
@@ -150,35 +147,19 @@
             <div class="col-lg-3 col-md-6 d-flex">
                 <article class="card card1 flex-fill">
                     <h5 class="card-title py-3 text-center">
-                        Расходные<br />материалы
+                        Витратні матеріали <br />та запасні частини
                     </h5>
                     <figure class="card-img">
-                        <img src="/img/c.jpg" class="card-img-top img-fluid " />
+                        <img
+                            src="/img/consumables.jpg"
+                            class="card-img-top img-fluid "
+                        />
                     </figure>
                     <div class="card-body">
                         <ul>
                             <li>
                                 <NuxtLink to="/consumables">
-                                    Расходные материалы
-                                </NuxtLink>
-                            </li>
-                        </ul>
-                    </div>
-                </article>
-            </div>
-            <div class="col-lg-3 col-md-6 d-flex">
-                <article class="card card1 flex-fill">
-                    <h5 class="card-title py-3 text-center">
-                        Б/у оборудование
-                    </h5>
-                    <figure class="card-img">
-                        <img src="/img/d.jpg" class="card-img-top img-fluid " />
-                    </figure>
-                    <div class="card-body">
-                        <ul>
-                            <li>
-                                <NuxtLink to="/second">
-                                    Б/у оборудование
+                                    Витратні матеріали <br />та запасні частини
                                 </NuxtLink>
                             </li>
                         </ul>
@@ -189,34 +170,10 @@
 
         <section class="row justify-content-center pb-5 pt-5">
             <div class="col-12">
-                <div class="carousel slide" data-ride="carousel">
-                    <div class="carousel-inner">
-                        <div class="carousel-item active">
-                            <img src="/img/5.jpg" class="d-block  w-100" />
-                        </div>
-                        <div class="carousel-item">
-                            <img
-                                src="/img/2.jpg"
-                                class="d-block  w-100"
-                                alt="..."
-                            />
-                        </div>
-                        <div class="carousel-item">
-                            <img
-                                src="/img/6.jpg"
-                                class="d-block  w-100"
-                                alt="..."
-                            />
-                        </div>
-                        <div class="carousel-item">
-                            <img
-                                src="/img/4.jpg"
-                                class="d-block  w-100"
-                                alt="..."
-                            />
-                        </div>
-                    </div>
-                </div>
+                <img
+                    src="/img/atlas-copco-compressor.jpg"
+                    class="d-block  w-100"
+                />
             </div>
         </section>
         <article class="row justify-content-center">

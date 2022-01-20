@@ -5,18 +5,18 @@
             ТОВ “Повітряні Системи”
         </h5>
 
-        <p>
+        <div class="pt-3">
             01015, м.Київ, ВУЛИЦЯ ЛЕЙПЦИЗЬКА, будинок 5, офіс 1/7
-        </p>
-        <p>
+        </div>
+        <div class="pt-3">
             Телефон: +380500866274
-        </p>
-        <p>
+        </div>
+        <div class="pt-3">
             mail: info@airsystems.com.ua
-        </p>
-        <p>
+        </div>
+        <div class=" pt-3">
             www. airsystems.com.ua
-        </p>
+        </div>
     </div>
 </template>
 <script>
