@@ -7,6 +7,7 @@
 
       <b-collapse id="nav-collapse" is-nav>
         <b-navbar-nav class="mx-auto">
+          <b-nav-item to="/"><b-icon icon="house-door-fill"></b-icon></b-nav-item>          
           <b-nav-item to="/about">О нас</b-nav-item>
           <b-nav-item-dropdown text="Каталог обладнання">
             <b-dropdown-item to="/atlascopco">Atlas Copco</b-dropdown-item>
@@ -25,6 +26,7 @@
 </template>
 
 <script>
+import {HouseDoorFill} from 'bootstrap-vue';
 export default {
   name: "NavBar"
 }
