@@ -1,7 +1,7 @@
 <template>
     <div class="container-fluid">
         <section class="row justify-content-center pb-5 pt-5">
-            <div class="col-12">
+            <div class="col-lg-10">
                 <div class="carousel-wrapper">           
                  
                     <b-carousel
@@ -171,7 +171,7 @@
         </section>
 
         <section class="row justify-content-center pb-5 pt-5">
-            <div class="col-12">
+            <div class="col-lg-10">
                 <img
                     src="/img/atlas-copco-compressor.jpg"
                     class="d-block  w-100"
