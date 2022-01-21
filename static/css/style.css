@@ -8,7 +8,6 @@
         margin-top: 0.5em;
         margin-bottom: 0.5em;
     }
-
 }
 
 @media (min-width: 768px) {
@@ -33,7 +32,6 @@
         margin-top: 1em;
         margin-bottom: 1em
     }
-
 }
 
 @media (min-width: 1200px) {
@@ -116,6 +114,7 @@ main {
     flex: 1 0 auto;
     height: 100%;
     background-color: white;
+    padding-bottom: 30px;
 }
 
 footer {
@@ -180,6 +179,7 @@ footer .brand a img {
     margin: 1em;
 }
 
+
 a, a:hover{
     text-decoration: none;
 }
@@ -190,8 +190,27 @@ a, a:hover{
 li{
     font-size: 120%;
 }
-/* .contacts{
-    padding: ;
+
+.a-page-color{
+    color: black;
+}
+.a-footer-color{
+    color: white;
+}
+/* .carousel-background{
+    height: 480px;    
 } */
+.carousel-wrapper{
+    height: 0;
+    padding-bottom: 37%; /* w/h */
+    position: relative;
+}
+.carousel{
+    width: 100%;
+    position: absolute;
+
+}
+
+
 
 

@@ -2,17 +2,19 @@
     <div class="container-fluid">
         <section class="row justify-content-center pb-5 pt-5">
             <div class="col-12">
-                <div>
+                <div class="carousel-wrapper">           
+                 
                     <b-carousel
                         indicators
                         img-width="1024"
                         img-height="480"
+                        class="carousel"
                     >
                         <b-carousel-slide
-                            img-src="/img/car1.jpg"
+                            img-src="/img/car1.jpg"                          
                         ></b-carousel-slide>
                         <b-carousel-slide
-                            img-src="/img/car2.jpg"
+                            img-src="/img/car2.jpg"                             
                         ></b-carousel-slide>
                         
                     </b-carousel>

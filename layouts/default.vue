@@ -4,23 +4,23 @@
             <section class=" d-lg-none">
                 <div class="text-center">
                     <div>
-                        <Tel/>
+                        <Tel class="contacts"/>
                     </div>
                    <div>
-                       <Mail/>
+                       <Mail class="contacts"/>
                    </div>
 
                 </div>
             </section>
             <section class="row align-items-center justify-content-center d-none d-lg-flex">
                 <div class="col-lg-4 text-center">
-                   <Tel/>
+                   <Tel class="contacts"/>
                 </div>
                 <div class="col-lg-4 text-center">
                      <Logo/>
                 </div>
-                <div class="col-lg-4 text-center">
-                   <Mail/>
+                <div class="col-lg-4 text-center contacts">
+                   <Mail class="contacts"/>
                 </div>
             </section>
 
@@ -71,16 +71,16 @@
                 </h5>
                 <div class="text-center">
                     <div>
-                        <Tel/>
+                        <Tel  class="a-footer-color"/>
                     </div>
                     <div>
-                        <Mail/>
+                        <Mail  class="a-footer-color"/>
                     </div>
                 </div>
 
             </div>
             <div class="col-sm-2 text-center">
-                <!-- <h5 class="mb-3">Ми у соцсетях</h5>
+                <!-- <h5 class="mb-3">Ми у соцмережах</h5>
                 <b-icon-facebook class="h1 mx-2"></b-icon-facebook>
                 <b-icon-instagram class="h1 mx-2"></b-icon-instagram> -->
             </div>

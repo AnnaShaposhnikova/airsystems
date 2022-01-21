@@ -9,13 +9,13 @@
             01015, м.Київ, ВУЛИЦЯ ЛЕЙПЦИЗЬКА, будинок 5, офіс 1/7
         </div>
         <div class="pt-3">
-            Телефон: +380500866274
+            Телефон:  <Tel class="a-page-color"/>
         </div>
-        <div class="pt-3">
-            mail: info@airsystems.com.ua
+        <div class="pt-3" >
+            email: <Mail class="a-page-color" />
         </div>
-        <div class=" pt-3">
-            www. airsystems.com.ua
+        <div class=" pt-3 pb-3">
+            <a href="http://airsystems.com.ua/" class="a-page-color" >www.airsystems.com.ua</a> 
         </div>
     </div>
 </template>
