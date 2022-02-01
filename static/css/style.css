@@ -211,6 +211,16 @@ li{
 
 }
 
+.tel{
+    display: flex;
+    flex-direction: column;
+}
+.perevagy-wrapper{
+}
+.perevagy{
+    display: inline-block;
+}
+
 
 
 

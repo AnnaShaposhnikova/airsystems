@@ -1,5 +1,5 @@
 <template>
-    <a href="mailto:info@airsystems.com.ua"><i class="bi bi-envelope"></i>info@airsystems.com.ua</a>
+    <a href="mailto:info@airsystems.com.ua" class="contacts" ><i class="bi bi-envelope"></i>info@airsystems.com.ua</a>
 </template>
 
 <script>
