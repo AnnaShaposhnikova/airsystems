@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <h1>Рекуперация</h1>
+        <h1>Системи рекуперації тепла</h1>
     </div>
 </template>
 <script>

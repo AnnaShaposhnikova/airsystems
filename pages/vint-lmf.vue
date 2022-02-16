@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <h1>Каталог обладнання Drytec</h1>
+        <h1>Гвинтовi компресори LMF</h1>
     </div>
 </template>
 <script>

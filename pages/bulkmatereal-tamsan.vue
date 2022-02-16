@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <h1>Высокобарные компрессоры Tamsan</h1>
+        <h1>Компресори для сипких матеріалів Tamsan</h1>
     </div>
 </template>
 <script>

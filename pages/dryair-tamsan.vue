@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <h1>Безмасляные Tamsan</h1>
+        <h1>Осушувачi повiтря Tamsan</h1>
     </div>
 </template>
 <script>

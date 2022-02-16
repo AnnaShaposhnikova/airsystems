@@ -1,8 +1,8 @@
 <template>
     <div class="container-fluid my-4">
-        <h3 class="text-center my-5">Вакуумные насосы Atlas Copco</h3>
+        <h3 class="text-center my-5">Осушувачi повiтря LMF</h3>
 
-            <h4 class="text-left">Вакуумные насосы</h4>
+            <h4 class="text-left">Осушувачi повiтря</h4>
             <article>
                 <div class="row justify-content-center">
                     <div class="col-lg-4 col-md-6 col-sm-12">

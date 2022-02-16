@@ -1,5 +1,6 @@
 .card{
-    background-color: #6cc7d3;
+    color:white;
+    background-color: #007d9c;
 }
 .card1{
     margin-bottom : 2em;
@@ -7,11 +8,11 @@
 }
 
 .card1 ul li a{
-    color: black;
+    color: white;
     text-decoration:none;
 }
 .card1 ul li a:hover{
-    color: blue;
+    color: black;
     text-decoration:none;
 }
 .card h5{

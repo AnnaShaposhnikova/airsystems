@@ -10,12 +10,12 @@
           <b-nav-item to="/"><b-icon icon="house-door-fill"></b-icon></b-nav-item>          
           <b-nav-item to="/about">О нас</b-nav-item>
           <b-nav-item-dropdown text="Каталог обладнання">
-            <b-dropdown-item to="/atlascopco">Atlas Copco</b-dropdown-item>
-            <b-dropdown-item to="/tamsan">Tamsan</b-dropdown-item>
-            <b-dropdown-item to="/drytec">Drytec</b-dropdown-item>
+            <b-dropdown-item to="/lmf">LMF</b-dropdown-item>
+            <b-dropdown-item to="/tamsan">Tamsan</b-dropdown-item>            
             <b-dropdown-item to="/consumables">Витратні матеріали та запасні частини</b-dropdown-item>
-            <b-dropdown-item to="recuperation">Системи рекуперації тепла</b-dropdown-item>
-            <b-dropdown-item to="/second">Б/У оборудование</b-dropdown-item>
+            <b-dropdown-item to="/recuperation">Системи рекуперації тепла</b-dropdown-item>
+            <b-dropdown-item to="/reciver">Ресiвери</b-dropdown-item>
+            <b-dropdown-item to="/second">Вживане обладнання</b-dropdown-item>
           </b-nav-item-dropdown>
           <b-nav-item to="/services">Послуги</b-nav-item>
           <b-nav-item to="/contacts">Контакти</b-nav-item>

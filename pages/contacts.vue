@@ -9,13 +9,13 @@
             01015, м.Київ, ВУЛИЦЯ ЛЕЙПЦИЗЬКА, будинок 5, офіс 1/7
         </div>
         <div class="pt-3">
-            Телефон:  <Tel class="a-page-color"/>
+            Телефон:  <Tel class="contacts-on-white"/>
         </div>
-        <div class="pt-3" >
-            email: <Mail class="a-page-color" />
+        <div class="pt-3">
+            email: <Mail class="contacts-on-white"/>
         </div>
-        <div class=" pt-3 pb-3">
-            <a href="http://airsystems.com.ua/" class="a-page-color" >www.airsystems.com.ua</a> 
+        <div class=" pt-3 pb-3 contacts-on-white" >
+            <a href="http://airsystems.com.ua/" >www.airsystems.com.ua</a> 
         </div>
     </div>
 </template>

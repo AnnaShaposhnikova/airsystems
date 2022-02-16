@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <h1> Б/у оборудование</h1>
+        <h1> Вживане обладнання</h1>
     </div>
 </template>
 <script>

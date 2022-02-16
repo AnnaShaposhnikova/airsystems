@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <h1>Ресиверы</h1>
+        <h1>Ресiвери</h1>
     </div>
 </template>
 <script>

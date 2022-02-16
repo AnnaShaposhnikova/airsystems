@@ -18,9 +18,9 @@
                     <Logo />
                 </div>
                 <div class="col-lg-5 text-center"></div>
-                <div class="col-lg-3  contacts">
-                    <Tel />
-                    <Mail/>
+                <div class="col-lg-3">
+                    <Tel class="contacts"/>
+                    <Mail class="contacts"/>
                 </div>
             </section>
 
@@ -38,8 +38,8 @@
                 <div class="row justify-content-center pt-5 pb-5">
                     <div class="col-sm-4 text-center">
                         <h5 class="mb-3">Мы в соцсетях</h5>
-                        <a href="https://www.facebook.com" class="contacts" ><b-icon-facebook class="h1 mx-2"></b-icon-facebook></a>
-                        <a href="https://www.instagram.com" class="contacts"><b-icon-instagram class="h1 mx-2"></b-icon-instagram></a>
+                        <a href="https://www.facebook.com" class="socialmedia" ><b-icon-facebook class="h1 mx-2"></b-icon-facebook></a>
+                        <a href="https://www.instagram.com" class="socialmedia"><b-icon-instagram class="h1 mx-2"></b-icon-instagram></a>
                     </div>
         
                     <div class="col-sm-5 text-center">
@@ -47,11 +47,11 @@
                             Наші контакти
                         </h5>
                         <div class="text-center">
-                            <div>
-                                <Tel class="a-footer-color" />
+                            <div class="contacts">
+                                <Tel  />
                             </div>
-                            <div>
-                                <Mail class="a-footer-color" />
+                            <div class="contacts">
+                                <Mail />
                             </div>
                         </div>
                     </div>

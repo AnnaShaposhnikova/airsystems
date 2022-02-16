@@ -1,6 +1,6 @@
 <template>
     <div class="container-fluid my-4">
-        <h3 class="text-center my-5">Винтовые компрессоры Atlas Copco</h3>
+        <h3 class="text-center my-5">Гвинтовi компресори LMF</h3>
         <ol>
             <h3 class="text-left">Компрессоры серии В</h3>
             <article>
