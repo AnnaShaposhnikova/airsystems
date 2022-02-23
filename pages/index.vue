@@ -33,7 +33,7 @@
                     <CardBody>
                         <ul>
                             <li>
-                                <NuxtLink to="/vint-atlascopco">
+                                <NuxtLink to="/vint-lmf">
                                     LMF
                                 </NuxtLink>
                             </li>
@@ -55,7 +55,7 @@
                     <CardBody>
                         <ul>
                             <li>
-                                <NuxtLink to="/withoutoil-tamsan">
+                                <NuxtLink to="/bulkmatereal-tamsan">
                                     Tamsan
                                 </NuxtLink>
                             </li>
@@ -85,8 +85,13 @@
                     <CardBody>
                         <ul>
                             <li>
-                                <NuxtLink to="/drytec">
-                                    Осушувачі повітря
+                                <NuxtLink to="/dryair-lmf">
+                                    LMF
+                                </NuxtLink>
+                            </li>
+                              <li>
+                                <NuxtLink to="/tamsan-lmf">
+                                    Tamsan                                    
                                 </NuxtLink>
                             </li>
                         </ul>

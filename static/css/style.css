@@ -99,6 +99,7 @@ h4,
 body {    
   
     font-family: 'Poppins', sans-serif;
+    font-size: 18px;
     
 }
 
@@ -110,6 +111,28 @@ header {
 }
 .navbar-light .navbar-nav .nav-link{
     color: white
+}
+ .nav-link :hover{
+    color: #6cc7d3 !important
+}
+
+.dropdown-item{
+     color: white
+}
+/* .dropdown-menu li a span:hover{
+    color: #6cc7d3
+} */
+.navbar-light :hover {
+    color: #6cc7d3
+}
+.navbar-nav li .dropdown-menu{
+    background-color: #007d9c;
+}
+
+.nav-item {
+color:white;
+    margin-right: 3em;
+    margin-left: 3em;
 }
 
 main {
@@ -162,15 +185,7 @@ html{
 .bg-info {
    background-color: #007d9c !important;
 }
-.navbar-nav li .dropdown-menu{
-    background-color: #007d9c;
-}
 
-.nav-item {
-color:white;
-    margin-right: 3em;
-    margin-left: 3em;
-}
 
 .carousel-slide {
     display: flex;
@@ -222,6 +237,14 @@ li{
 
 .perevagy{
     display: inline-block;
+}
+
+
+th, .th{
+    padding: 5px;
+    margin: auto;
+    text-align: center;
+    
 }
 
 

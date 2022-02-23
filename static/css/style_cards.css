@@ -1,18 +1,25 @@
 .card{
-    color:white;
-    background-color: #007d9c;
+    color:black;
+    background-color: #6cc7d3;
 }
 .card1{
     margin-bottom : 2em;
     height: auto;
 }
+.card1 ul{
+    padding: 0;
+    
+}
+.card1 ul li{    
+    list-style-type: none;
+}
 
 .card1 ul li a{
-    color: white;
+    color:black;
     text-decoration:none;
 }
 .card1 ul li a:hover{
-    color: black;
+    color: white;
     text-decoration:none;
 }
 .card h5{
@@ -26,5 +33,6 @@ p{
     text-indent: 25px;
    
 }
+
 
 
