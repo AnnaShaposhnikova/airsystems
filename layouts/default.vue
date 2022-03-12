@@ -37,7 +37,7 @@
             <section class="container">
                 <div class="row justify-content-center pt-5 pb-5">
                     <div class="col-sm-4 text-center">
-                        <h5 class="mb-3">Мы в соцсетях</h5>
+                        <h5 class="mb-3">Ми у соцмережах</h5>
                         <a href="https://www.facebook.com" class="socialmedia" ><b-icon-facebook class="h1 mx-2"></b-icon-facebook></a>
                         <a href="https://www.instagram.com" class="socialmedia"><b-icon-instagram class="h1 mx-2"></b-icon-instagram></a>
                     </div>

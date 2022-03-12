@@ -87,209 +87,215 @@
 
         <div class="row justify-content-center pt-5 pb-5">
             <div class="col-12">
-<div class="table-responsive">
-                <table class="table table-bordered table-striped">
-                    <thead>
-                        <tr>
-                            <th rowspan="3" id="first">Модель</th>
-                            <th rowspan="3">Потужність,<br/> кВт</th>
-                            <th colspan="3">Максимальний робочий тиск,<br/>  Бар</th>
-                            
-                            <th rowspan="3" >Вага, <br/> кг </th>
-                            <th rowspan="3" >Приєднувальні <br/> розміри
+                <div class="table-responsive">
+                    <table class="table table-bordered table-striped">
+                        <thead>
+                            <tr>
+                                <th rowspan="3" id="first">Модель</th>
+                                <th rowspan="3">
+                                    Потужність,<br />
+                                    кВт
+                                </th>
+                                <th colspan="3">
+                                    Максимальний робочий тиск,<br />
+                                    Бар
+                                </th>
 
-                             </th>
-                       </tr>
-                       <tr>
-                           <td class="th">8.5 bar</td>
-                           <td class="th">10.5 бар</td>
-                           <td class="th">13 бар</td>
-                           </tr>
-                             <tr>
-                           <td colspan="3" class="th">м3/хв</td>
-                          
-                           </tr>   
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>LX5</td>
-                            <td>5.5</td>
-                            <td>0.7</td>
-                            <td>0.6</td>
-                            <td>0.5</td>
-                            <td>240</td>
-                            <td>G1</td>
-                        </tr>
-                         <tr>
-                            <td>LX7</td>
-                            <td>7.5</td>
-                            <td>1.09</td>
-                            <td>0.87</td>
-                            <td>0.75</td>
-                            <td>260</td>
-                            <td>G1</td>
-                        </tr>
-                 
-                          
-                                 <tr>
-                            <td>LX11</td>
-                            <td>11</td>
-                            <td>1.66</td>
-                            <td>1.35</td>
-                            <td>1.15</td>
-                            <td>450</td>
-                            <td>G1</td>
-                        </tr> 
-                                       <tr>
-                            <td>LX15</td>
-                            <td>15</td>
-                            <td>2.34</td>
-                            <td>1.88</td>
-                            <td>1.7</td>
-                            <td>500</td>
-                            <td>G1</td>
-                        </tr>
-                                                         <tr>
-                            <td>LX18</td>
-                            <td>18.5</td>
-                            <td>3.2</td>
-                            <td>2.5</td>
-                            <td>-</td>
-                            <td>600</td>
-                            <td>G1</td>
-                        </tr>
-                                                                                 <tr>
-                            <td>LX22</td>
-                            <td>22</td>
-                            <td>3.8</td>
-                            <td>3.3</td>
-                            <td>2.7</td>
-                            <td>650</td>
-                            <td>G1</td>
-                        </tr>
-                                                                                 <tr>
-                            <td>LX30</td>
-                            <td>30</td>
-                            <td>5.4</td>
-                            <td>4.5</td>
-                            <td>3.5</td>
-                            <td>680</td>
-                            <td>G1 1/2</td>
-                        </tr>
-                                                                                 <tr>
-                            <td>LX37</td>
-                            <td>37</td>
-                            <td>6.7</td>
-                            <td>5.3</td>
-                            <td>3.7</td>
-                            <td>700</td>
-                            <td>G1 1/2</td>
-                        </tr>
-                                                                                 <tr>
-                            <td>LX45</td>
-                            <td>45</td>
-                            <td>8.3</td>
-                            <td>6.5</td>
-                            <td>5.3</td>
-                            <td>880</td>
-                            <td>G1 1/2</td>
-                        </tr>
-                                                                                         <tr>
-                            <td>LX55</td>
-                            <td>55</td>
-                            <td>10.5</td>
-                            <td>8.3</td>
-                            <td>6.5</td>
-                            <td>1350</td>
-                            <td>G1 1/2</td>
-                        </tr>
-                                                                                         <tr>
-                            <td>LX75</td>
-                            <td>75</td>
-                            <td>14.1</td>
-                            <td>11.6</td>
-                            <td>9.4</td>
-                            <td>1550</td>
-                            <td>G2</td>
-                        </tr>
-                                                                                        <tr>
-                            <td>LX90</td>
-                            <td>90</td>
-                            <td>16.6</td>
-                            <td>14.1</td>
-                            <td>11.3</td>
-                            <td>2000</td>
-                            <td>G2</td>
-                        </tr> 
-                                                                                         <tr>
-                            <td>LX110</td>
-                            <td>110</td>
-                            <td>21</td>
-                            <td>16.8</td>
-                            <td>13.8</td>
-                            <td>2700</td>
-                            <td>DN65</td>
-                        </tr>
-                                                                                                          <tr>
-                            <td>LX132</td>
-                            <td>132</td>
-                            <td>23.5</td>
-                            <td>20.7</td>
-                            <td>16.3</td>
-                            <td>2800</td>
-                            <td>DN65</td>
-                        </tr>
-                                                                                                          <tr>
-                            <td>LX160</td>
-                            <td>160</td>
-                            <td>28.2</td>
-                            <td>24.3</td>
-                            <td>20.3</td>
-                            <td>4200</td>
-                            <td>DN80</td>
-                        </tr>
-                                                                                                                        <tr>
-                            <td>LX200</td>
-                            <td>200</td>
-                            <td>36.6</td>
-                            <td>31.9</td>
-                            <td>28.4</td>
-                            <td>4300</td>
-                            <td>DN80</td>
-                        </tr>
-                                                                                                                        <tr>
-                            <td>LX250</td>
-                            <td>250</td>
-                            <td>45.9</td>
-                            <td>39.7</td>
-                            <td>33</td>
-                            <td>6000</td>
-                            <td>DN100</td>
-                        </tr>
-                                                                                                                        <tr>
-                            <td>LX315</td>
-                            <td>315</td>
-                            <td>55.2</td>
-                            <td>49.5</td>
-                            <td>45.4</td>
-                            <td>7200</td>
-                            <td>DN125</td>
-                        </tr>
-                                                                                                                                                <tr>
-                            <td>LX355</td>
-                            <td>355</td>
-                            <td>65.3</td>
-                            <td>54.6</td>
-                            <td>49.3</td>
-                            <td>7400</td>
-                            <td>DN125</td>
-                        </tr>
-                    </tbody>
+                                <th rowspan="3">
+                                    Вага, <br />
+                                    кг
+                                </th>
+                                <th rowspan="3">
+                                    Приєднувальні <br />
+                                    розміри
+                                </th>
+                            </tr>
+                            <tr>
+                                <td class="th">8.5 bar</td>
+                                <td class="th">10.5 бар</td>
+                                <td class="th">13 бар</td>
+                            </tr>
+                            <tr>
+                                <td colspan="3" class="th">м3/хв</td>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>LX5</td>
+                                <td>5.5</td>
+                                <td>0.7</td>
+                                <td>0.6</td>
+                                <td>0.5</td>
+                                <td>240</td>
+                                <td>G1</td>
+                            </tr>
+                            <tr>
+                                <td>LX7</td>
+                                <td>7.5</td>
+                                <td>1.09</td>
+                                <td>0.87</td>
+                                <td>0.75</td>
+                                <td>260</td>
+                                <td>G1</td>
+                            </tr>
 
-                </table>
-</div>
+                            <tr>
+                                <td>LX11</td>
+                                <td>11</td>
+                                <td>1.66</td>
+                                <td>1.35</td>
+                                <td>1.15</td>
+                                <td>450</td>
+                                <td>G1</td>
+                            </tr>
+                            <tr>
+                                <td>LX15</td>
+                                <td>15</td>
+                                <td>2.34</td>
+                                <td>1.88</td>
+                                <td>1.7</td>
+                                <td>500</td>
+                                <td>G1</td>
+                            </tr>
+                            <tr>
+                                <td>LX18</td>
+                                <td>18.5</td>
+                                <td>3.2</td>
+                                <td>2.5</td>
+                                <td>-</td>
+                                <td>600</td>
+                                <td>G1</td>
+                            </tr>
+                            <tr>
+                                <td>LX22</td>
+                                <td>22</td>
+                                <td>3.8</td>
+                                <td>3.3</td>
+                                <td>2.7</td>
+                                <td>650</td>
+                                <td>G1</td>
+                            </tr>
+                            <tr>
+                                <td>LX30</td>
+                                <td>30</td>
+                                <td>5.4</td>
+                                <td>4.5</td>
+                                <td>3.5</td>
+                                <td>680</td>
+                                <td>G1 1/2</td>
+                            </tr>
+                            <tr>
+                                <td>LX37</td>
+                                <td>37</td>
+                                <td>6.7</td>
+                                <td>5.3</td>
+                                <td>3.7</td>
+                                <td>700</td>
+                                <td>G1 1/2</td>
+                            </tr>
+                            <tr>
+                                <td>LX45</td>
+                                <td>45</td>
+                                <td>8.3</td>
+                                <td>6.5</td>
+                                <td>5.3</td>
+                                <td>880</td>
+                                <td>G1 1/2</td>
+                            </tr>
+                            <tr>
+                                <td>LX55</td>
+                                <td>55</td>
+                                <td>10.5</td>
+                                <td>8.3</td>
+                                <td>6.5</td>
+                                <td>1350</td>
+                                <td>G1 1/2</td>
+                            </tr>
+                            <tr>
+                                <td>LX75</td>
+                                <td>75</td>
+                                <td>14.1</td>
+                                <td>11.6</td>
+                                <td>9.4</td>
+                                <td>1550</td>
+                                <td>G2</td>
+                            </tr>
+                            <tr>
+                                <td>LX90</td>
+                                <td>90</td>
+                                <td>16.6</td>
+                                <td>14.1</td>
+                                <td>11.3</td>
+                                <td>2000</td>
+                                <td>G2</td>
+                            </tr>
+                            <tr>
+                                <td>LX110</td>
+                                <td>110</td>
+                                <td>21</td>
+                                <td>16.8</td>
+                                <td>13.8</td>
+                                <td>2700</td>
+                                <td>DN65</td>
+                            </tr>
+                            <tr>
+                                <td>LX132</td>
+                                <td>132</td>
+                                <td>23.5</td>
+                                <td>20.7</td>
+                                <td>16.3</td>
+                                <td>2800</td>
+                                <td>DN65</td>
+                            </tr>
+                            <tr>
+                                <td>LX160</td>
+                                <td>160</td>
+                                <td>28.2</td>
+                                <td>24.3</td>
+                                <td>20.3</td>
+                                <td>4200</td>
+                                <td>DN80</td>
+                            </tr>
+                            <tr>
+                                <td>LX200</td>
+                                <td>200</td>
+                                <td>36.6</td>
+                                <td>31.9</td>
+                                <td>28.4</td>
+                                <td>4300</td>
+                                <td>DN80</td>
+                            </tr>
+                            <tr>
+                                <td>LX250</td>
+                                <td>250</td>
+                                <td>45.9</td>
+                                <td>39.7</td>
+                                <td>33</td>
+                                <td>6000</td>
+                                <td>DN100</td>
+                            </tr>
+                            <tr>
+                                <td>LX315</td>
+                                <td>315</td>
+                                <td>55.2</td>
+                                <td>49.5</td>
+                                <td>45.4</td>
+                                <td>7200</td>
+                                <td>DN125</td>
+                            </tr>
+                            <tr>
+                                <td>LX355</td>
+                                <td>355</td>
+                                <td>65.3</td>
+                                <td>54.6</td>
+                                <td>49.3</td>
+                                <td>7400</td>
+                                <td>DN125</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
             </div>
-
         </div>
 
         <article class="row">

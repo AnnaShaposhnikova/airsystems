@@ -39,6 +39,7 @@
         margin-left: 12em;
         margin-right: 12em;
     }
+ 
 }
 
 article,
@@ -117,8 +118,25 @@ header {
 }
 
 .dropdown-item{
-     color: white
+     color: white;
+     font-size: 16px;
+     /* display: flex;
+     flex-wrap: wrap; */
 }
+.dropdown-menu{
+    background-color:#007d9c;
+}
+.dropdown-header{
+    color:white;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
 /* .dropdown-menu li a span:hover{
     color: #6cc7d3
 } */
@@ -186,7 +204,6 @@ html{
    background-color: #007d9c !important;
 }
 
-
 .carousel-slide {
     display: flex;
 }
@@ -241,11 +258,30 @@ li{
 
 
 th, .th{
-    padding: 5px;
+    padding: 2px;
     margin: auto;
     text-align: center;
     
 }
+td, th{
+    text-align: center;
+    vertical-align: middle;
+}
+.table-left{
+   text-align:start;
+    vertical-align: middle;
+}
+/* .accordion-nav-href{
+    color: white;
+}
+.accordion-nav-href:hover{
+    color:black
+}
+block:{
+    display: block;
+} */
+
+
 
 
 
