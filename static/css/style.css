@@ -38,9 +38,9 @@
     main {
         margin-left: 12em;
         margin-right: 12em;
-    }
- 
+    } 
 }
+
 
 article,
 figure,
@@ -232,7 +232,7 @@ a, a:hover{
     text-indent: 25px;
 }
 li{
-    font-size: 120%;
+    font-size: 100%;
 }
 
 
@@ -251,7 +251,10 @@ li{
     display: flex;
     flex-direction: column;
 }
-
+.perevagy-wrapper{
+    display: flex;
+    flex-wrap: nowrap;
+}
 .perevagy{
     display: inline-block;
 }

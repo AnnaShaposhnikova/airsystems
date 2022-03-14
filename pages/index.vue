@@ -202,8 +202,7 @@
             </div>
             <div class="col-sm-10">
                 <div class="perevagy-wrapper">
-                    <b-icon icon="check" font-scale="3" ></b-icon>
-                    <h4 class="perevagy">Надійне, якісне обладнання та сервіс</h4>
+                    <b-icon icon="check" font-scale="3" ></b-icon><h4 class="perevagy">Надійне, якісне обладнання та сервіс</h4>
                 </div>
                 
                 <h4> <b-icon icon="check" font-scale="2"></b-icon> Великий досвід роботи на ринку України</h4>

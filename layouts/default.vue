@@ -4,10 +4,10 @@
             <section class=" d-lg-none">
                 <div class="text-center">
                     <div>
-                        <Tel />
+                        <Tel class="contacts"/>
                     </div>
                     <div>
-                        <Mail />
+                        <Mail class="contacts"/>
                     </div>
                 </div>
             </section>
