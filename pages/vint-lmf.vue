@@ -5,12 +5,22 @@
                 <b-img src="/img/lmf-brand.png" fluid> </b-img>
             </figure>
         </div>
-        <div class="row justify-content-center pb-5">
+        <div class="row justify-content-center pb-5 ">
             <h1>Гвинтовi компресори LMF</h1>
-            <figure>
+            <figure >
+                <b-img class="lmf-lg" src="/img/lmf.jpg" fluid> </b-img>
+               <b-img class="lmf-small"  src="/img/lmf-small.jpg" fluid hidden> </b-img> 
+            </figure>         
+        </div>
+                <!-- <div class="row justify-content-center pb-5 small-screen-lmf">
+            <h1>Гвинтовi компресори LMF</h1>
+            <figure class="large-screen-lmf">
                 <b-img src="/img/lmf.jpg" fluid> </b-img>
             </figure>
-        </div>
+            <figure class="">
+                <b-img src="/img/lmf-small.jpg" fluid> </b-img>
+            </figure>
+        </div> -->
         <article class="row">
             <div class="col">
                 <p class="indent">
