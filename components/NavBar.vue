@@ -22,20 +22,22 @@
                             <b-dropdown-item to="vint-tamsan">Гвинтові компресори</b-dropdown-item>
                             <b-dropdown-item to="dryair-tamsan">Осушувачi повiтря</b-dropdown-item>
                             <b-dropdown-item to="bulkmatereal-tamsan">Компресори для сипких матеріалів</b-dropdown-item> 
-                             <b-dropdown-item to="high-tamsan">Высокобарнi компресори</b-dropdown-item> 
+                             <b-dropdown-item to="high-tamsan">Високобарнi компресори</b-dropdown-item> 
                         </b-dropdown-group>
-                            <b-dropdown-item-button  to="/consumables">
+                        
+                            <b-dropdown-item  to="/consumables">
                                 Витратні матеріали та запасні частини
-                             </b-dropdown-item-button>
-                             <b-dropdown-item-button  to="/recuperation">
+                             </b-dropdown-item>
+                             <b-dropdown-item  to="/recuperation">
                                 Системи рекуперації тепла
-                            </b-dropdown-item-button>
-                             <b-dropdown-item-button  to="/reciver">
+                            </b-dropdown-item>
+                             <b-dropdown-item  to="/reciver">
                                 Ресiвери
-                            </b-dropdown-item-button>
-                              <b-dropdown-item-button  to="/second">
+                            </b-dropdown-item>
+                              <b-dropdown-item  to="/second">
                                 Вживане обладнання
-                            </b-dropdown-item-button>                           
+                            </b-dropdown-item> 
+                                               
 
                     <!-- </b-dropdown> -->
                     <!-- <NavDropdownCard link="LMF">

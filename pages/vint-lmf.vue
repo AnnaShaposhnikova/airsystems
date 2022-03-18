@@ -8,8 +8,7 @@
         <div class="row justify-content-center pb-5 ">
             <h1>Гвинтовi компресори LMF</h1>
             <figure >
-                <b-img class="lmf-lg" src="/img/lmf.jpg" fluid> </b-img>
-               <b-img class="lmf-small"  src="/img/lmf-small.jpg" fluid hidden> </b-img> 
+                <b-img class="lmf-lg" src="/img/lmf.jpg" fluid> </b-img>              
             </figure>         
         </div>
                 <!-- <div class="row justify-content-center pb-5 small-screen-lmf">

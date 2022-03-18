@@ -1,19 +1,19 @@
 <template>
     <div class="container-fluid">
-        <div class="row justify-content-center pb-5">
-             <div class="col-sm-12"> 
+        <div class="row justify-content-center pb-5 m-3">
+          
             <h1>
                 Високобарнi компресори
                 <span style="font-weight: bold;">Tamsan</span>
             </h1>
-            <figure>
+            <figure class="m-3">
                 <b-img
                     src="/img/tamsan-page/high-tamsan/high-tamsan1.png"
                     fluid
                 >
                 </b-img>
             </figure>
-             </div>
+            
         </div>
         <article class="row pb-5">
             <div class="col">
@@ -29,11 +29,11 @@
                 </p>
             </div>
         </article>
-        <div class="row justify-content-center pb-5">
-             <div class="col-sm-12"> 
+        <div class="row justify-content-center pb-5 m-3">
+           
             <h3>Технічні параметри компресорів TAMKO</h3>
              </div>
-        </div>
+     
         <div class="row justify-content-center pb-5">
             <div class="col-12">
                 <div class="table-responsive">
@@ -100,15 +100,15 @@
             </div>
         </div>
         <div class="row justify-content-center pb-5">
-             <div class="col-sm-12"> 
-            <figure>
+             
+            <figure class="m-3">
                 <b-img
                     src="/img/tamsan-page/high-tamsan/high-tamsan2.jpg"
                     fluid
                 >
                 </b-img>
             </figure>
-             </div>
+             
         </div>
     </div>
 </template>

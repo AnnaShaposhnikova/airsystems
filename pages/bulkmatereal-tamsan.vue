@@ -1,17 +1,17 @@
 <template>
     <div class="container-fluid">
         <div class="row justify-content-center pb-5"> 
-            <div class="col-sm-12"> 
+           
             <h1>
                 Компресори для сипких матеріалів
                 <span style="font-weight: bold;">Tamsan</span>
             </h1>
             
-            <figure>
+            <figure class="m-3">
                 <b-img src="/img/tamsan-page/b-tamsan/b-tamsan1.jpg" fluid>
                 </b-img>
             </figure>
-             </div>
+          
         </div>
         <article class="row pb-5">
             <div class="col">
@@ -22,12 +22,12 @@
             </div>
         </article>
         <div class="row justify-content-center pb-5">
-             <div class="col-sm-12"> 
-            <figure>
+            
+            <figure class="m-3">
                 <b-img src="/img/tamsan-page/b-tamsan/b-tamsan2.jpg" fluid>
                 </b-img>
             </figure>
-             </div>
+            
         </div>
         <div class="row justify-content-center pb-5">
              <div class="col-sm-12"> 
@@ -89,12 +89,12 @@
             </div>
         </div>
         <div class="row justify-content-center pb-5">
-            <div class="col-sm-12">
-            <figure>
+            
+            <figure class="m-3">
                 <b-img src="/img/tamsan-page/b-tamsan/b-tamsan3.png" fluid>
                 </b-img>
             </figure>
-            </div>
+           
         </div>
     </div>
 </template>

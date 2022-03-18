@@ -56,12 +56,12 @@
         </div>
 
         <div class="row justify-content-center">
-            <div class="col">
+            <div class="col-lg-6 col-sm-12">
                 <figure>
                     <b-img src="/img/tamsan-page/tamsan1.png" fluid> </b-img>
                 </figure>
             </div>
-            <div class="col">
+            <div class="col-lg-6 col-sm-12">
                 <figure>
                     <b-img src="/img/tamsan-page/tamsan2.png" fluid> </b-img>
                 </figure>

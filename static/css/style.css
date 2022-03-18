@@ -44,40 +44,6 @@
     }
 }
 
-.small-screen-lmf {
-  display: none;
-}
-      .large-screen-lmf {
-       display: block;
-    }
-
-@include media-breakpoint-up(sm) {
-  .small-screen-lmf {
-    display: block;
-  }
-        .large-screen-lmf {
-       display: none;
-    }
-
-}
-
-/* @media screen and (max-width:992px){
-      .large-screen-lmf {
-       display: none;
-    }
-    .small-screen-lmf {
-    display: block;
- 
- } 
-}
- .large-screen-lmf {
-    display: block;
-
-} 
- .small-screen-lmf {
-    display: none;
-} */
-
 article,
 figure,
 /* footer, */
