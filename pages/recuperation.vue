@@ -1,12 +1,13 @@
 <template>
     <div class="container-fluid">
+        <article>
         <div class="row justify-content-center pb-2 m-2">
             <h1>
                 Рекупрація тепла, виробленого компресором
             </h1>
         </div>
 
-        <article class="row pb-3">
+        <div class="row pb-3">
             <div class="col">
                 <p class="indent">
                     Установка рекуперації тепла (енергії) для гвинтових
@@ -20,13 +21,13 @@
                     гвинтовий повітряний маслозаповнений компресор.
                 </p>
             </div>
-        </article>
+        </div>
         <div class="row justify-content-center pb-2">
             <figure class="m-3">
                 <b-img src="/img/recuperation/recuperation1.jpg" fluid> </b-img>
             </figure>
         </div>
-        <article class="row pb-3">
+        <div class="row pb-3">
             <div class="col">
                 <p class="indent">
                     Установка рекуперації тепла є окрема пристрій, на своїх
@@ -57,7 +58,7 @@
                     гвинтового компресора на 70%.
                 </p>
             </div>
-        </article>
+        </div>
         <div class="row justify-content-center pb-2">
             <h3>
                 Технічні дані
@@ -159,7 +160,7 @@
                 </div>
             </div>
         </div>
-         <article class="row">
+         <div class="row">
             <div class="col">
                 <h3>Опції:</h3>
                 <ul>
@@ -173,6 +174,7 @@
                    <li>Комплексні рішення під ключ</li>               
                 </ul>
             </div>
+         </div>
          </article>
     </div>
 </template>

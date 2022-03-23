@@ -11,7 +11,7 @@
                     <b-img src="/img/dry/dry1.jpg" fluid> </b-img>
                 </figure>
             </div>
-            <article class="row pb-3">
+            <div class="row pb-3">
                 <div class="col">
                     <p class="indent">
                         Пропонуємо Вашій увазі обладнання для підготовки
@@ -32,7 +32,7 @@
                         витрат і ефективну роботу вашого підприємства.
                     </p>
                 </div>
-            </article>
+            </div>
             <div class="row justify-content-center pb-2">
                 <div class="col-lg-6 col-sm-12">
                     <figure class="m-3">
@@ -45,7 +45,7 @@
                     </figure>
                 </div>
             </div>
-            <article class="row">
+            <div class="row">
                 <div class="col">
                     <h3>Oсновнi характеристики:</h3>
                     <ul>
@@ -80,7 +80,7 @@
                         </li>
                     </ul>
                 </div>
-            </article>
+            </div>
             <div class="row justify-content-center pt-5 pb-5">
                 <div class="col-12">
                     <div class="table-responsive">

@@ -1,8 +1,9 @@
 <template>
     <div class="container-fluid">
-        <div class="row justify-content-center pb-5"> 
-           
-            <h1>
+        <article>
+        <div class="row  pb-5"> 
+           <div class="col">
+            <h1 class="justify-content-center">
                 Компресори для сипких матеріалів
                 <span style="font-weight: bold;">Tamsan</span>
             </h1>
@@ -11,6 +12,7 @@
                 <b-img src="/img/tamsan-page/b-tamsan/b-tamsan1.jpg" fluid>
                 </b-img>
             </figure>
+           </div>
           
         </div>
         <article class="row pb-5">
@@ -96,6 +98,7 @@
             </figure>
            
         </div>
+        </article>
     </div>
 </template>
 <script>

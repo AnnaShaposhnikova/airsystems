@@ -274,3 +274,6 @@ th {
 block:{
     display: block;
 } */
+.nav-dropdown-items{
+    padding-left: 40px;
+}

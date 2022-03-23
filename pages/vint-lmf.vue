@@ -54,9 +54,10 @@
             </div>
         </article>
         <article class="row">
+            
             <div class="col">
-                <div class="row justify-content-center pb-5">
-                    <h3>Компресори гвинтові виробництва LMF серії LX</h3>
+                <div> 
+                    <h3 class="justify-content-center pb-5">Компресори гвинтові виробництва LMF серії LX</h3>
                 </div>
                 <p class="indent">
                     LX SERIES Компресори забезпечують низькі капітальні та
