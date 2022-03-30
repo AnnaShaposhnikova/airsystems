@@ -29,7 +29,7 @@
             <div class="col-lg-3 col-md-6 d-flex">
                 <Card>
                     <CardTitle>Гвинтовi <br />компресори</CardTitle>
-                    <CardImage src="/img/vintcompressor.jpg" />
+                    <CardImage src="/img/vint_index.jpg" />
                     <CardBody>
                         <ul>
                             <li>
@@ -85,13 +85,8 @@
                     <CardBody>
                         <ul>
                             <li>
-                                <NuxtLink to="/dryair-lmf">
-                                    LMF
-                                </NuxtLink>
-                            </li>
-                              <li>
-                                <NuxtLink to="/tamsan-lmf">
-                                    Tamsan                                    
+                                <NuxtLink to="/dryair-tamsan">
+                                    Tamsan
                                 </NuxtLink>
                             </li>
                         </ul>
@@ -107,7 +102,7 @@
                     </h5>
                     <figure class="card-img">
                         <img
-                            src="/img/recup.jpg"
+                            src="/img/recuperation.jpg"
                             class="card-img-top img-fluid "
                         />
                     </figure>
@@ -179,7 +174,8 @@
                         <ul>
                             <li>
                                 <NuxtLink to="/dizel-tamsan">
-                                    Дизельнi портативнi гвинтові компресори серії TVK
+                                    Дизельнi портативнi гвинтові компресори
+                                    серії TVK
                                 </NuxtLink>
                             </li>
                         </ul>
@@ -187,27 +183,61 @@
                 </article>
             </div>
         </section>
-        <!-- 
-        <section class="row justify-content-center pb-5 pt-5">
-            <div class="col-lg-10">
-                <img
-                    src="/img/atlas-copco-compressor.jpg"
-                    class="d-block  w-100"
-                />
-            </div>
-        </section> -->
+
         <article class="row justify-content-center pb-5 pt-5 ">
             <div class="col-lg-10">
                 <h1 class="text-center">Наші переваги:</h1>
             </div>
             <div class="col-sm-10">
-             
-                    <b-icon icon="check" font-scale="3" ></b-icon><h4 class="perevagy">Надійне, якісне обладнання та сервіс</h4>
-                
-                
-                <h4> <b-icon icon="check" font-scale="2"></b-icon> Великий досвід роботи на ринку України</h4>
-                <h4> <b-icon icon="check" font-scale="2"></b-icon> Індивідуальний підхід до кожного клієнта</h4>
-             
+                <h4>
+                    <b-icon icon="check" font-scale="2"></b-icon>Надійне, якісне
+                    обладнання та сервіс
+                </h4>
+                <h4>
+                    <b-icon icon="check" font-scale="2"></b-icon> Великий досвід
+                    роботи на ринку України
+                </h4>
+                <h4>
+                    <b-icon icon="check" font-scale="2"></b-icon> Індивідуальний
+                    підхід до кожного клієнта
+                </h4>
+            </div>
+        </article>
+        <article class="row justify-content-center pb-5 pt-5 ">
+            <div class="col-lg-10">
+                <h1 class="text-center">Наші клієнти:</h1>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <figure>
+                        <b-img src="/img/clients/carlsberg.png" fluid> </b-img>
+                    </figure>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <figure>
+                        <b-img src="/img/clients/kav.jpg" fluid> </b-img>
+                    </figure>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <figure>
+                        <b-img src="/img/clients/knauf.png" fluid> </b-img>
+                    </figure>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <figure>
+                        <b-img src="/img/clients/parash.png" fluid> </b-img>
+                    </figure>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <figure>
+                        <b-img src="/img/clients/skf.jpg" fluid> </b-img>
+                    </figure>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <figure>
+                        <b-img src="/img/clients/kura.png" fluid> </b-img>
+                    </figure>
+                </div>
             </div>
         </article>
     </div>

@@ -35,14 +35,40 @@
         </main>
         <footer>
             <section class="container">
-                <div class="row justify-content-center pt-5 pb-5">
-                    <div class="col-sm-4 text-center">
+                <div class="row justify-content-center pt-5 pb-3">
+                    <div class="col-sm-2">
+                        <ul>
+                            <li class="footer-li"><a href="/" class="footernav">Головна</a></li>
+                             
+                            <li class="footer-li"><a href="/about" class="footernav">О нас</a></li>
+                            
+                            <li class="footer-li"><a href="/services" class="footernav">Послуги</a></li>
+                            <li class="footer-li"><a href="/contacts" class="footernav">Контакти</a></li>                          
+                        </ul>
+                    </div>
+                    <div class="col-sm-4">
+                        <p>Каталог</p>
+                        <ul>
+                            <p>LMF</p>
+                            <li class="footer-li"><a href="/vint-lmf"  class="footernav">Гвинтовi компресори</a></li>
+                        </ul>
+                        <ul>
+                            <p>Tamsan</p>
+                            <li class="footer-li"><a href="/vint-tamsan"  class="footernav">Гвинтовi компресори</a></li>
+                            <li class="footer-li"><a href="/dryair-tamsan"  class="footernav">Осушувачi повiтря</a></li>
+                            <li class="footer-li"><a href="/bulkmatereal-tamsan"  class="footernav">Компресори для сипких матеріалів</a></li>
+                            <li class="footer-li"><a href="/high-tamsan"  class="footernav">Високобарнi компресори</a></li>
+                           
+                        </ul>
+                        
+                    </div>
+                    <div class="col-sm-3 text-center">
                         <h5 class="mb-3">Ми у соцмережах</h5>
                         <a href="https://www.facebook.com" class="socialmedia" ><b-icon-facebook class="h1 mx-2"></b-icon-facebook></a>
                         <a href="https://www.instagram.com" class="socialmedia"><b-icon-instagram class="h1 mx-2"></b-icon-instagram></a>
                     </div>
         
-                    <div class="col-sm-5 text-center">
+                    <div class="col-sm-3 text-center">
                         <h5 class="mb-3">
                             Наші контакти
                         </h5>

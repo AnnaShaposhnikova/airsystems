@@ -13,10 +13,9 @@
                 ></b-nav-item>
                 <b-nav-item to="/about">О нас</b-nav-item>
                 <b-nav-item-dropdown text="Каталог обладнання">
-                    <!-- <b-dropdown  text="Каталог обладнання" class="m-2"> -->
+                   
                         <b-dropdown-group id="dropdown-group-1" style="color:white" header="LMF">
-                            <b-dropdown-item  class ="nav-dropdown-items" to="vint-lmf">Гвинтовi компресори</b-dropdown-item>
-                            <b-dropdown-item class ="nav-dropdown-items" to="dryair-lmf">Осушувачi повiтря</b-dropdown-item>
+                            <b-dropdown-item  class ="nav-dropdown-items" to="vint-lmf">Гвинтовi компресори</b-dropdown-item>                           
                         </b-dropdown-group>
                         <b-dropdown-group id="dropdown-group-2" header="Tamsan">
                             <b-dropdown-item class ="nav-dropdown-items" to="vint-tamsan">Гвинтові компресори</b-dropdown-item>

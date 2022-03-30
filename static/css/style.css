@@ -173,7 +173,9 @@ html {
 }
 
 .contacts a,
-.socialmedia {
+.socialmedia,
+.footernav
+ {
     color: white;
 }
 
@@ -183,7 +185,8 @@ html {
 
 .contacts a:hover,
 .socialmedia:hover,
-.contacts-on-white a:hover {
+.contacts-on-white a:hover,
+.footernav:hover {
     color: #6cc7d3;
 }
 
@@ -215,9 +218,13 @@ footer .brand a {
 footer .brand a img {
     margin: 1em;
 }
+.footer-li{
+    list-style-type: none;
+}
 
 a,
-a:hover {
+a:hover
+ {
     text-decoration: none;
 }
 
@@ -246,9 +253,7 @@ li {
     display: flex;
     flex-wrap: nowrap;
 }
-.perevagy {
-    display: inline-block;
-}
+
 
 th,
 .th {
@@ -265,15 +270,8 @@ th {
     text-align: start;
     vertical-align: middle;
 }
-/* .accordion-nav-href{
-    color: white;
-}
-.accordion-nav-href:hover{
-    color:black
-}
-block:{
-    display: block;
-} */
+
 .nav-dropdown-items{
     padding-left: 40px;
 }
+
