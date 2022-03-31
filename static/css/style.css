@@ -120,8 +120,7 @@ header {
 .dropdown-item {
     color: white;
     font-size: 16px;
-    /* display: flex;
-     flex-wrap: wrap; */
+
 }
 .dropdown-menu {
     background-color: #007d9c;
@@ -131,9 +130,6 @@ header {
     font-size: 18px;
 }
 
-/* .dropdown-menu li a span:hover{
-    color: #6cc7d3
-} */
 .navbar-light :hover {
     color: #6cc7d3;
 }
@@ -255,21 +251,6 @@ li {
 }
 
 
-th,
-.th {
-    padding: 2px;
-    margin: auto;
-    text-align: center;
-}
-td,
-th {
-    text-align: center;
-    vertical-align: middle;
-}
-.table-left {
-    text-align: start;
-    vertical-align: middle;
-}
 
 .nav-dropdown-items{
     padding-left: 40px;

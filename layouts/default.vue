@@ -48,19 +48,17 @@
                     </div>
                     <div class="col-sm-4">
                         <p>Каталог</p>
-                        <ul>
-                            <p>LMF</p>
+                        <p>LMF</p>
+                        <ul>                            
                             <li class="footer-li"><a href="/vint-lmf"  class="footernav">Гвинтовi компресори</a></li>
                         </ul>
-                        <ul>
-                            <p>Tamsan</p>
+                        <p>Tamsan</p>
+                        <ul>                            
                             <li class="footer-li"><a href="/vint-tamsan"  class="footernav">Гвинтовi компресори</a></li>
                             <li class="footer-li"><a href="/dryair-tamsan"  class="footernav">Осушувачi повiтря</a></li>
                             <li class="footer-li"><a href="/bulkmatereal-tamsan"  class="footernav">Компресори для сипких матеріалів</a></li>
-                            <li class="footer-li"><a href="/high-tamsan"  class="footernav">Високобарнi компресори</a></li>
-                           
-                        </ul>
-                        
+                            <li class="footer-li"><a href="/high-tamsan"  class="footernav">Високобарнi компресори</a></li>                           
+                        </ul>                        
                     </div>
                     <div class="col-sm-3 text-center">
                         <h5 class="mb-3">Ми у соцмережах</h5>
@@ -93,7 +91,10 @@ import {
     BIconArrowUp,
     BIconFacebook,
     BIconInstagram,
-    BIconCheck
+    BIconCheck,
+   
+
+   
 } from "bootstrap-vue";
 export default {};
 </script>

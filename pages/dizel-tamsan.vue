@@ -1,16 +1,16 @@
 <template>
      <div class="container-fluid">
-         <article class="pt-5">
-            <div class="row  pb-5">
+         <article>
+            <div class="row">
                 <div class="col">
-                <h1 class="justify-content-center">
+                <h1>
                     Дизельнi портативнi гвинтові компресори серії
                     <span style="font-weight: bold;">TVK</span>
                 </h1>
                 </div>
             </div>
             <div class="row justify-content-center">
-                <div class="col-lg-6 col-sm-12">
+                <div class="col-lg-6 col-sm-12 text-center">
                     <figure>
                         <b-img src="/img/tamsan-page/port/роrt-tam1.png" fluid>
                         </b-img>
@@ -271,9 +271,9 @@
                                 <tr>
                                     <td>Акумулятор, А / V]</td>
                                     <td></td>
-                                    <td>110 / 12</td>
-                                    <td>110 / 12</td>
-                                    <td>110 / 12</td>
+                                    <td>110/12</td>
+                                    <td>110/12</td>
+                                    <td>110/12</td>
                                 </tr>
                             </tbody>
                         </table>

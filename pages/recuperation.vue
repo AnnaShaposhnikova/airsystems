@@ -1,7 +1,7 @@
 <template>
     <div class="container-fluid">
         <article>
-            <div class="row justify-content-center pb-2 m-2">
+            <div class="row">
                 <h1>
                     Рекупрація тепла, виробленого компресором
                 </h1>
@@ -122,9 +122,9 @@
                                     <td style="text-align: start">
                                         Габарити, мм
                                     </td>
-                                    <td>350х500х720</td>
-                                    <td>500х600х850</td>
-                                    <td>700х700х940</td>
+                                    <td>350×500×720</td>
+                                    <td>500×600×850</td>
+                                    <td>700×700×940</td>
                                 </tr>
                                 <tr>
                                     <td style="text-align: start">Вага, кг</td>

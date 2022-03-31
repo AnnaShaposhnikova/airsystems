@@ -1,7 +1,7 @@
 <template>
 <div class="container-fluid">
         <article>
-            <div class="row  pb-5 pt-5">
+            <div class="row ">
                 <div class="col">
                 <h1 class="justify-content-center">
                     О нас

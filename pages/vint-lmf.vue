@@ -5,7 +5,7 @@
                 <b-img src="/img/lmf-brand.png" fluid> </b-img>
             </figure>
         </div>
-        <div class="row justify-content-center pb-5 ">
+        <div class="row">
             <h1>Гвинтовi компресори LMF</h1>
             <figure >
                 <b-img class="lmf-lg" src="/img/lmf.jpg" fluid> </b-img>              

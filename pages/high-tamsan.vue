@@ -1,7 +1,7 @@
 <template>
     <div class="container-fluid">
         <article>
-            <div class="row justify-content-center pb-5 m-3">
+            <div class="row">
                 <h1>
                     Високобарнi компресори
                     <span style="font-weight: bold;">Tamsan</span>
@@ -77,9 +77,9 @@
                                     <td>8000</td>
                                     <td>10400</td>
                                     <td>40</td>
-                                    <td>30 / 40</td>
+                                    <td>30/40</td>
                                     <td>1 1/4</td>
-                                    <td>1550x900x1100</td>
+                                    <td>1550×900×1100</td>
                                     <td>650</td>
                                 </tr>
                                 <tr>
@@ -88,9 +88,9 @@
                                     <td>6500</td>
                                     <td>8400</td>
                                     <td>40</td>
-                                    <td>22 / 30</td>
+                                    <td>22/30</td>
                                     <td>1 1/4</td>
-                                    <td>1040*880*1100</td>
+                                    <td>1040×880×1100</td>
                                     <td>550</td>
                                 </tr>
                             </tbody>

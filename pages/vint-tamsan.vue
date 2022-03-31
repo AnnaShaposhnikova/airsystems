@@ -6,7 +6,7 @@
             </figure>
         </div>
         <article>
-            <div class="row justify-content-center pb-5">
+            <div class="row pb-2">
                 <h1>
                     Гвинтовi компресори
                     <span style="font-weight: bold;">Tamsan</span>
@@ -59,7 +59,7 @@
             </div>
         </article>
         <article>
-            <div class="row justify-content-center pb-5">
+            <div class="row pb-3 pt-5">
                 <h3>
                     Гвинтовi компресори
                     <span style="font-weight: bold;">Tamsan</span>
@@ -112,7 +112,7 @@
                                     <td>0.55</td>
                                     <td rowspan="3">4 / 5.5</td>
                                     <td rowspan="3">3/4</td>
-                                    <td rowspan="3">720 x 2020 <br />x 1600</td>
+                                    <td rowspan="3">720×2020×1600</td>
                                     <td rowspan="3">500</td>
                                     <td rowspan="3">280</td>
                                 </tr>
@@ -131,7 +131,7 @@
                                     <td>0.8</td>
                                     <td rowspan="3">5,5 / 7.5</td>
                                     <td rowspan="3">3/4</td>
-                                    <td rowspan="3">720 x 2020 <br />x 1600</td>
+                                    <td rowspan="3">720×2020×1600</td>
                                     <td rowspan="3">500</td>
                                     <td rowspan="3">300</td>
                                 </tr>
@@ -150,7 +150,7 @@
                                     <td>1.1</td>
                                     <td rowspan="3">7.5 / 10</td>
                                     <td rowspan="3">3/4</td>
-                                    <td rowspan="3">720 x 2020 <br />x 1600</td>
+                                    <td rowspan="3">720×2020×1600</td>
                                     <td rowspan="3">500</td>
                                     <td rowspan="3">420</td>
                                 </tr>
@@ -169,7 +169,7 @@
                                     <td>1.8</td>
                                     <td rowspan="3">11 / 13</td>
                                     <td rowspan="3">3/4</td>
-                                    <td rowspan="3">800 x 2020 <br />x 1650</td>
+                                    <td rowspan="3">800×2020×1650</td>
                                     <td rowspan="3">500</td>
                                     <td rowspan="3">480</td>
                                 </tr>
@@ -255,7 +255,7 @@
             <div class="row">
                 <div class="col">
                     <div>
-                        <h3 class="justify-content-center mb-3 mt-5">
+                        <h3 class="pb-3 pt-5">
                             Компресори гвинтові
                             <span style="font-weight: bold;"
                                 >E series 4-22</span
@@ -300,9 +300,9 @@
                         </figure>
                     </div>
                 </div>
-                <div class="row justify-content-center pt-5 pb-5">
-                    <div class="col-12">
-                        <div class="table-responsive">
+               <div class="row justify-content-center pt-5 pb-5">
+                <div class="col-12">
+                    <div class="table-responsive">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -332,7 +332,7 @@
                                         <td rowspan="3">4 / 5.5</td>
                                         <td rowspan="3">3/4</td>
                                         <td rowspan="3">
-                                            730 x 970 <br />x 1100
+                                            730×970×1100
                                         </td>
                                         <td rowspan="3">185</td>
                                     </tr>
@@ -352,7 +352,7 @@
                                         <td rowspan="3">5.5 / 7.5</td>
                                         <td rowspan="3">3/4</td>
                                         <td rowspan="3">
-                                            730 x 970 <br />x 1100
+                                            730×970×1100
                                         </td>
                                         <td rowspan="3">240</td>
                                     </tr>
@@ -369,10 +369,10 @@
                                         <td rowspan="3">TVK 1100 E</td>
                                         <td>7</td>
                                         <td>1.1</td>
-                                        <td rowspan="3">7.5 / 10</td>
+                                        <td rowspan="3">7.5/10</td>
                                         <td rowspan="3">3/4</td>
                                         <td rowspan="3">
-                                            800 x 1250 <br />x 1220
+                                            800×1250×1220
                                         </td>
                                         <td rowspan="3">245</td>
                                     </tr>
@@ -389,10 +389,10 @@
                                         <td rowspan="3">TVK 1900 E</td>
                                         <td>7</td>
                                         <td>1.85</td>
-                                        <td rowspan="3">11 / 15</td>
+                                        <td rowspan="3">11/15</td>
                                         <td rowspan="3">3/4</td>
                                         <td rowspan="3">
-                                            800 x 1250 <br />x 1220
+                                            800×1250×1220
                                         </td>
                                         <td rowspan="3">360</td>
                                     </tr>
@@ -409,10 +409,10 @@
                                         <td rowspan="3">TVK 2400 E</td>
                                         <td>7</td>
                                         <td>2.42</td>
-                                        <td rowspan="3">15 / 20</td>
+                                        <td rowspan="3">15/20</td>
                                         <td rowspan="3">3/4</td>
                                         <td rowspan="3">
-                                            800 x 1250 <br />x 1220
+                                            800×1250×1220
                                         </td>
                                         <td rowspan="3">370</td>
                                     </tr>
@@ -432,7 +432,7 @@
                                         <td rowspan="3">18.5 / 25</td>
                                         <td rowspan="3">1</td>
                                         <td rowspan="3">
-                                            800 x 1310 <br />x 1320
+                                            800×1310×1320
                                         </td>
                                         <td rowspan="3">475</td>
                                     </tr>
@@ -452,7 +452,7 @@
                                         <td rowspan="3">22 / 30</td>
                                         <td rowspan="3">1</td>
                                         <td rowspan="3">
-                                            800 x 1310 <br />x 1320
+                                            800×1310×1320
                                         </td>
                                         <td rowspan="3">485</td>
                                     </tr>
@@ -530,7 +530,7 @@
         </article>
         <article>
              <div>
-                        <h3 class="justify-content-center mb-3 mt-5">
+                        <h3 class=" mb-3 mt-5">
                              Компресори гвинтові
                     <span style="font-weight: bold;">E series 30-250</span> кВт
                           
@@ -620,7 +620,7 @@
                                     <td rowspan="3">30 / 40</td>
                                     <td rowspan="3">1 1/4</td>
                                     <td rowspan="3">
-                                        1020 x 1260 <br />x 1685
+                                        1020×1260×1685
                                     </td>
                                     <td rowspan="3">610</td>
                                 </tr>
@@ -640,7 +640,7 @@
                                     <td rowspan="3">37 / 50</td>
                                     <td rowspan="3">1 1/4</td>
                                     <td rowspan="3">
-                                        1020 x 1260 <br />x 1685
+                                        1020×1260×1685
                                     </td>
                                     <td rowspan="3">690</td>
                                 </tr>
@@ -660,7 +660,7 @@
                                     <td rowspan="3">45 / 60</td>
                                     <td rowspan="3">1 1/4</td>
                                     <td rowspan="3">
-                                        1020 x 1260 <br />x 1685
+                                        1020×1260×1685
                                     </td>
                                     <td rowspan="3">750</td>
                                 </tr>
@@ -680,7 +680,7 @@
                                     <td rowspan="3">45 / 60</td>
                                     <td rowspan="3">1 1/2</td>
                                     <td rowspan="3">
-                                        1250 x 1530 <br />x 1800
+                                        1250×1530×1800
                                     </td>
                                     <td rowspan="3">1230</td>
                                 </tr>
@@ -700,7 +700,7 @@
                                     <td rowspan="3">45 / 60</td>
                                     <td rowspan="3">1 1/2</td>
                                     <td rowspan="3">
-                                        1250 x 1530 <br />x 1800
+                                        1250×1530×1800
                                     </td>
                                     <td rowspan="3">1230</td>
                                 </tr>
@@ -720,7 +720,7 @@
                                     <td rowspan="3">55 / 75</td>
                                     <td rowspan="3">1 1/2</td>
                                     <td rowspan="3">
-                                        1250 x 1530 <br />x 1800
+                                        1250×1530×1800
                                     </td>
                                     <td rowspan="3">1350</td>
                                 </tr>
@@ -740,7 +740,7 @@
                                     <td rowspan="3">75 / 100</td>
                                     <td rowspan="3">2</td>
                                     <td rowspan="3">
-                                        1250 x 1530 <br />x 1800
+                                        1250×1530×1800
                                     </td>
                                     <td rowspan="3">1445</td>
                                 </tr>
@@ -760,7 +760,7 @@
                                     <td rowspan="3">90 / 120</td>
                                     <td rowspan="3">2</td>
                                     <td rowspan="3">
-                                        1600 x 2050 <br />x 1900
+                                        1600×2050×1900
                                     </td>
                                     <td rowspan="3">1950</td>
                                 </tr>
@@ -780,7 +780,7 @@
                                     <td rowspan="3">110 / 150</td>
                                     <td rowspan="3">2</td>
                                     <td rowspan="3">
-                                        1600 x 2050 <br />x 1900
+                                        1600×2050×1900
                                     </td>
                                     <td rowspan="3">2200</td>
                                 </tr>
@@ -800,7 +800,7 @@
                                     <td rowspan="3">132 / 180</td>
                                     <td rowspan="3">2</td>
                                     <td rowspan="3">
-                                        1600 x 2050 <br />x 1900
+                                        1600×2050×1900
                                     </td>
                                     <td rowspan="3">2350</td>
                                 </tr>
@@ -820,7 +820,7 @@
                                     <td rowspan="3">160 / 215</td>
                                     <td rowspan="3">DN80</td>
                                     <td rowspan="3">
-                                        1600 x 2900 <br />x 1900
+                                        1600×2900×1900
                                     </td>
                                     <td rowspan="3">2700</td>
                                 </tr>
@@ -840,7 +840,7 @@
                                     <td rowspan="3">200 / 270</td>
                                     <td rowspan="3">DN100</td>
                                     <td rowspan="3">
-                                        1600 x 2900 <br />x 1900
+                                        1600×2900×1900
                                     </td>
                                     <td rowspan="3">3500</td>
                                 </tr>
@@ -859,7 +859,7 @@
                                     <td rowspan="3">250 / 335</td>
                                     <td rowspan="3">DN100</td>
                                     <td rowspan="3">
-                                        1600 x 2900 <br />x 1900
+                                        1600×2900×1900
                                     </td>
                                     <td rowspan="3">4100</td>
                                 </tr>
@@ -919,9 +919,9 @@
                 </div>
             </div>
 
-            <div class="row justify-content-start">
+            <div class="row justify-content-center">
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <figure>
+                    <figure> 
                         <b-img src="/img/tamsan-page/tamsan16.jpg" fluid>
                         </b-img>
                     </figure>

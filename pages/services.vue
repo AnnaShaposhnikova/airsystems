@@ -1,23 +1,15 @@
 <template>
     <div class="container-fluid">
         <article>
-            <div class="row justify-content-center">
-                
-                     <h1>
-                    Послуги                    
+            <div class="row">
+                <h1>
+                    Послуги
                 </h1>
-              
-           </div>
-               <div class="row justify-content-center pb-3">
-        
-                    <figure class="m-3">
-                    <b-img
-                        src="/img/services.jpg"
-                        fluid
-                    >
-                    </b-img>
+            </div>
+            <div class="row justify-content-center pb-3">
+                <figure class="m-3">
+                    <b-img src="/img/services.png" fluid> </b-img>
                 </figure>
-                       
             </div>
             <ul>
                 <li>

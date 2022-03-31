@@ -203,37 +203,52 @@
                 </h4>
             </div>
         </article>
-        <article class="row justify-content-center pb-5 pt-5 ">
+        <article class="row justify-content-center pb-3 pt-5 ">
             <div class="col-lg-10">
                 <h1 class="text-center">Наші клієнти:</h1>
             </div>
             <div class="row justify-content-center">
-                <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
                         <b-img src="/img/clients/carlsberg.png" fluid> </b-img>
                     </figure>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
                         <b-img src="/img/clients/kav.jpg" fluid> </b-img>
                     </figure>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
                         <b-img src="/img/clients/knauf.png" fluid> </b-img>
                     </figure>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
                         <b-img src="/img/clients/parash.png" fluid> </b-img>
                     </figure>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
                         <b-img src="/img/clients/skf.jpg" fluid> </b-img>
                     </figure>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
+                <div class="col-lg-4 col-md-6 col-sm-12 text-center">
+                    <figure>
+                        <b-img src="/img/clients/ashan.png" fluid> </b-img>
+                    </figure>
+                </div>
+                                <div class="col-lg-4 col-md-6 col-sm-12 text-center">
+                    <figure>
+                        <b-img src="/img/clients/rp275.png" fluid> </b-img>
+                    </figure>
+                </div>
+                                <div class="col-lg-4 col-md-6 col-sm-12 text-center">
+                    <figure>
+                        <b-img src="/img/clients/stol.png" fluid> </b-img>
+                    </figure>
+                </div>
+                                <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
                         <b-img src="/img/clients/kura.png" fluid> </b-img>
                     </figure>
@@ -247,4 +262,5 @@
 export default {
     layout: "default"
 };
+
 </script>
