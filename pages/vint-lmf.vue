@@ -5,21 +5,14 @@
                 <b-img src="/img/lmf-brand.png" fluid> </b-img>
             </figure>
         </div>
-        <div class="row">
+        <div class="row pl-2">
+           
             <h1>Гвинтовi компресори LMF</h1>
             <figure >
                 <b-img class="lmf-lg" src="/img/lmf.jpg" fluid> </b-img>              
             </figure>         
         </div>
-                <!-- <div class="row justify-content-center pb-5 small-screen-lmf">
-            <h1>Гвинтовi компресори LMF</h1>
-            <figure class="large-screen-lmf">
-                <b-img src="/img/lmf.jpg" fluid> </b-img>
-            </figure>
-            <figure class="">
-                <b-img src="/img/lmf-small.jpg" fluid> </b-img>
-            </figure>
-        </div> -->
+
         <article class="row">
             <div class="col">
                 <p class="indent">
@@ -76,20 +69,19 @@
             </div>
         </article>
         <div class="row justify-content-center">
-            <div class="col">
-                <figure>
+            <div class="col-lg-4 col-sm-12">
+                <figure class="text-center">
                     <b-img src="/img/lmf1.jpg" fluid> </b-img>
                 </figure>
             </div>
-            <div class="col">
-                <figure>
+            <div class="col-lg-4 col-sm-12">
+                <figure class="text-center">
                     <b-img src="/img/lmf2.jpg" fluid> </b-img>
                 </figure>
-            </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-lg-6">
-                <figure>
+            </div>       
+       
+            <div class="col-lg-4 col-sm-12">
+                <figure class="text-center">
                     <b-img src="/img/lmf3.jpg" fluid> </b-img>
                 </figure>
             </div>

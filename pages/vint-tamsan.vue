@@ -6,7 +6,7 @@
             </figure>
         </div>
         <article>
-            <div class="row pb-2">
+            <div class="row pb-2 pl-2">
                 <h1>
                     Гвинтовi компресори
                     <span style="font-weight: bold;">Tamsan</span>
@@ -60,7 +60,7 @@
         </article>
         <article>
             <div class="row pb-3 pt-5">
-                <h3>
+                <h3 class="pl-2">
                     Гвинтовi компресори
                     <span style="font-weight: bold;">Tamsan</span>
                 </h3>
@@ -255,7 +255,7 @@
             <div class="row">
                 <div class="col">
                     <div>
-                        <h3 class="pb-3 pt-5">
+                        <h3 class="pb-3 pt-5 pl-2">
                             Компресори гвинтові
                             <span style="font-weight: bold;"
                                 >E series 4-22</span
@@ -301,8 +301,8 @@
                     </div>
                 </div>
                <div class="row justify-content-center pt-5 pb-5">
-                <div class="col-12">
-                    <div class="table-responsive">
+                <div class="col-12 justify-content-center">
+                    <div class="table-responsive ">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -530,7 +530,7 @@
         </article>
         <article>
              <div>
-                        <h3 class=" mb-3 mt-5">
+                        <h3 class=" pb-3 pt-5 pl-2">
                              Компресори гвинтові
                     <span style="font-weight: bold;">E series 30-250</span> кВт
                           

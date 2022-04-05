@@ -1,7 +1,7 @@
 <template>
     <div class="container-fluid">
         <article>
-            <div class="row">
+            <div class="row pl-2">
                 <h1>
                     Високобарнi компресори
                     <span style="font-weight: bold;">Tamsan</span>
