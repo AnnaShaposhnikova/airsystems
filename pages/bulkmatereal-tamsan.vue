@@ -4,23 +4,12 @@
             <div class="row">
                 <div class="col">
                     <h1>
-                        Компресори для сипких матеріалів
-                        <span style="font-weight: bold;">Tamsan</span>
+                        Компресори для сипких матеріалів Tamsan
+                    
                     </h1>
                 </div>
             </div>
-            <div class="row">
-                <div class="col">
-                    <figure class="text-center m-3">
-                        <b-img
-                            src="/img/tamsan-page/b-tamsan/b-tamsan1.jpg"
-                            fluid
-                        >
-                        </b-img>
-                    </figure>
-                </div>
-            </div>
-            <div class="row">
+             <div class="row">
                 <div class="col">
                     <p class="indent">
                         Поршневі компресори Tamko спеціально виготовлені для
@@ -28,32 +17,51 @@
                     </p>
                 </div>
             </div>
-            <div class="row">
-                <div class="col">
-                    <figure class="text-center m-3">
+            <div class="row justify-content-center text-center">
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <figure>
                         <b-img
-                            src="/img/tamsan-page/b-tamsan/b-tamsan2.jpg"
+                            src="/img/tamsan-page/b-tamsan/b-tamsan1.jpg"
                             fluid
                         >
                         </b-img>
                     </figure>
                 </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                   <figure>
+                        <b-img
+                            src="/img/tamsan-page/b-tamsan/b-tamsan2.jpg"
+                            fluid
+                        >
+                        </b-img>
+                    </figure> 
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <figure>
+                    <b-img src="/img/tamsan-page/b-tamsan/b-tamsan3.png" fluid>
+                    </b-img>
+                </figure>
+                </div>
+
+
             </div>
+           
+    
             <div class="row justify-content-center pb-3 pt-3">
                 <div class="col-sm-12">
-                    <h3>Технічні параметри компресорів TAMKO</h3>
+                    <h4>Технічні параметри компресорів TAMKO</h4>
                 </div>
             </div>
-            <div class="row justify-content-center pb-5">
-                <div class="col-12">
+            <div class="row pb-3">
+                <div class="col">
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped">
                             <thead>
                                 <tr>
                                     <th>Технічні параметри</th>
                                     <th>Одиниці вимірювання</th>
-                                    <th>TAMKO 7200</th>
-                                    <th>TAMKO 10000</th>
+                                    <th><span style="font-weight: bold;">TAMKO 7200</span></th>
+                                    <th><span style="font-weight: bold;">TAMKO 10000</span></th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -98,12 +106,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row justify-content-center pb-3">
-                <figure class="m-3">
-                    <b-img src="/img/tamsan-page/b-tamsan/b-tamsan3.png" fluid>
-                    </b-img>
-                </figure>
-            </div>
+          
         </article>
     </div>
 </template>

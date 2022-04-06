@@ -1,14 +1,16 @@
 <template>
     <div class="container-fluid">
         <article>
-            <div class="row justify-content-center pb-2 m-2">
-                <h1>
+            <div class="row">
+                <div class="col">
+                     <h1>
                     Ресивери для стисненого повітря горизонтальне та вертикальне
                     виконання
                 </h1>
+                </div>               
             </div>
             <div class="row justify-content-center pb-2">
-                <figure class="m-3">
+                <figure>
                     <b-img src="/img/reciver1.jpg" fluid> </b-img>
                 </figure>
             </div>
@@ -27,11 +29,11 @@
                         <li>кран зливу конденсату</li>
                     </ul>
                 </div>
-            </div>
-            <div class="row justify-content-center pb-5">
-                <div class="col-lg-9 col-md-12 col-sm-12">
+            </div> 
+            <div class="row pb-3">
+                <div class="col">
                     <div class="table-responsive">
-                        <table class="table table-bordered ">
+                        <table class="table table-bordered table-striped">
                             <thead>
                                 <tr>
                                     <th>Типорозмір ресивера</th>

@@ -2,11 +2,12 @@
     <div class="container-fluid">
         <article>
             <div class="row">
-                <h1>
+                <div class="col">
+                    <h1>
                     Рекупрація тепла, виробленого компресором
                 </h1>
+                </div>                
             </div>
-
             <div class="row pb-3">
                 <div class="col">
                     <p class="indent">
@@ -24,7 +25,7 @@
                 </div>
             </div>
             <div class="row justify-content-center pb-2">
-                <figure class="m-3">
+                <figure>
                     <b-img src="/img/recuperation/recuperation1.jpg" fluid>
                     </b-img>
                 </figure>
@@ -64,13 +65,15 @@
                     </p>
                 </div>
             </div>
-            <div class="row justify-content-center pb-2">
-                <h3>
+            <div class="row">
+                <div class="col">
+                    <h4>
                     Технічні дані
-                </h3>
+                </h4>
+                </div>                
             </div>
-            <div class="row justify-content-center pb-5">
-                <div class="col-lg-9 col-md-12 col-sm-12">
+            <div class="row pb-3">
+                <div class="col">
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped">
                             <tbody>
@@ -137,13 +140,16 @@
                     </div>
                 </div>
             </div>
-            <div class="row justify-content-center pb-2 m-3">
-                <h3>
+            <div class="row">
+                <div class="col">
+                    <h4>
                     Де використовувати рекупероване тепло з компресора
-                </h3>
+                </h4>
+                </div>
+                
             </div>
-            <div class="row justify-content-center pb-5">
-                <div class="col-lg-9 col-md-12 col-sm-12">
+            <div class="row pb-3">
+                <div class="col">
                     <div class="table-responsive">
                         <table class="table table-bordered ">
                             <tbody>
@@ -190,7 +196,7 @@
             </div>
             <div class="row">
                 <div class="col">
-                    <h3>Опції:</h3>
+                    <h4>Опції:</h4>
                     <ul>
                         <li>Примусовий байпас по маслу</li>
                         <li>Індикатор температури</li>

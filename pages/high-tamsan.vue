@@ -1,24 +1,39 @@
 <template>
     <div class="container-fluid">
         <article>
-            <div class="row pl-2">
-                <h1>
-                    Високобарнi компресори
-                    <span style="font-weight: bold;">Tamsan</span>
+            <div class="row">
+                <div class="col ">
+                    <h1>
+                    Високобарнi компресори Tamsan                   
                 </h1>
-                <figure class="m-3">
+                </div>
+            </div>
+             <div class="row justify-content-center text-center">
+                <div class="col-lg-6 col-sm-12">
+                      <figure>
                     <b-img
                         src="/img/tamsan-page/high-tamsan/high-tamsan1.png"
                         fluid
                     >
                     </b-img>
                 </figure>
+                </div>
+                <div class="col-lg-6 col-sm-12">
+    <figure>
+                    <b-img
+                        src="/img/tamsan-page/high-tamsan/high-tamsan2.jpg"
+                        fluid
+                    >
+                    </b-img>
+                </figure>
+                </div>         
+
             </div>
-            <div class="row pb-5">
+            <div class="row pb-3">
                 <div class="col">
                     <p class="indent">
                         Бустер-компресори
-                        <span style="font-weight: bold;">Tamsan</span>
+                        Tamsan
                         забезпечують економічність і продуктивність завдяки
                         всмоктувальному тиску 7, 10 і 13 бар і вихідному тиску
                         повітря 40 бар. Різні комбінації дозволять задовольнити
@@ -29,12 +44,15 @@
                     </p>
                 </div>
             </div>
-            <div class="row justify-content-center pb-5 m-3">
-                <h3>Технічні параметри компресорів TAMKO</h3>
+            <div class="row">
+                <div class="col">
+                    <h4>Технічні параметри компресорів TAMKO</h4>
+                </div>
+                
             </div>
 
-            <div class="row justify-content-center pb-5">
-                <div class="col-12">
+            <div class="rowpb-3">
+                <div class="col">
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped">
                             <thead>
@@ -98,15 +116,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row justify-content-center pb-5">
-                <figure class="m-3">
-                    <b-img
-                        src="/img/tamsan-page/high-tamsan/high-tamsan2.jpg"
-                        fluid
-                    >
-                    </b-img>
-                </figure>
-            </div>
+          
         </article>
     </div>
 </template>

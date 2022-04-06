@@ -2,14 +2,20 @@
     <div class="container-fluid">
         <article>
             <div class="row">
-                <h2>
+                <div class="col">
+                    <h1>
                     Осушувачі повітря рефрежираторного типу
-                </h2>
+                </h1>
+                </div>
+                
             </div>
             <div class="row justify-content-center pb-2">
-                <figure class="m-3">
+                
+                    <figure>
                     <b-img src="/img/dry/dry1.jpg" fluid> </b-img>
                 </figure>
+               
+                
             </div>
             <div class="row pb-3">
                 <div class="col">
@@ -33,14 +39,14 @@
                     </p>
                 </div>
             </div>
-            <div class="row justify-content-center pb-2">
+            <div class="row justify-content-center text-center pb-2">
                 <div class="col-lg-6 col-sm-12">
-                    <figure class="m-3">
+                    <figure>
                         <b-img src="/img/dry/dry2.png" fluid> </b-img>
                     </figure>
                 </div>
                 <div class="col-lg-6 col-sm-12">
-                    <figure class="m-3">
+                    <figure>
                         <b-img src="/img/dry/dry3.jpg" fluid> </b-img>
                     </figure>
                 </div>
@@ -80,10 +86,11 @@
                         </li>
                     </ul>
                 </div>
-            </div>
-            <div class="row justify-content-center pt-5 pb-5">
-                <div class="col-12">
-                    <div class="table-responsive">
+            </div>  
+
+            <div class="row  pb-3">
+                <div class="col">
+                      <div class="table-responsive">
                         <table class="table table-bordered table-striped">
                             <thead>
                                 <tr>
@@ -385,11 +392,11 @@
                 </div>
             </div>
 
-            <div class="row justify-content-center pb-5">
-                <div class="col-12">
-                    <h3 class="pb-3">
+            <div class="row pb-3">
+                <div class="col">
+                    <h4>
                         Поправочнi фактори для осушувачів
-                    </h3>
+                    </h4>
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped">
                             <tbody>
@@ -482,7 +489,7 @@
                 </h2>
             </div>
 
-            <div class="row justify-content-center pb-2">
+            <div class="row justify-content-center text-center pb-2">
                 <div class="col-lg-6 col-sm-12">
                     <figure>
                         <b-img src="/img/dry/dry4.png" fluid> </b-img>
@@ -494,9 +501,10 @@
                     </figure>
                 </div>
             </div>
-            <div class="row justify-content-center  pb-3">
-                <div class="col-12">
-                    <div class="table-responsive">
+
+            <div class="row  pb-3">
+                <div class="col">
+                  <div class="table-responsive">
                         <table class="table table-bordered table-striped">
                             <thead>
                                 <tr>
@@ -509,6 +517,8 @@
 
                                     <th>Вага, кг</th>
                                 </tr>
+                            </thead>
+                            <tbody>
                                 <tr>
                                     <td>MDA-440</td>
                                     <td>7,33</td>
@@ -628,7 +638,7 @@
                                     <td>2500×1720×3720</td>
                                     <td>6855</td>
                                 </tr>
-                            </thead>
+                            </tbody>
                         </table>
                     </div>
                 </div>
@@ -646,12 +656,12 @@
                     </ul>
                 </div>
             </div>
-            <div class="row justify-content-center pb-5">
-                <div class="col-12">
-                    <h3 class="pb-3">
+            <div class="row pb-3">
+                <div class="col">
+                    <h4>
                         Поправочні фактори для осушувачів стисненого повітря з
                         холодною регенерацією серії MDA
-                    </h3>
+                    </h4>
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped">
                             <thead>

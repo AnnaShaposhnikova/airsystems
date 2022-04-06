@@ -4,8 +4,7 @@
             <div class="row">
                 <div class="col">
                 <h1>
-                    Дизельнi портативнi гвинтові компресори серії
-                    <span style="font-weight: bold;">TVK</span>
+                    Дизельнi портативнi гвинтові компресори серії TVK                    
                 </h1>
                 </div>
             </div>
@@ -23,7 +22,7 @@
                     </figure>
                 </div>
             </div>
-            <div class="row justify-content-center pt-5 pb-5">
+            <div class="row pt-5 pb-5">
                 <div class="col-12">
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped">

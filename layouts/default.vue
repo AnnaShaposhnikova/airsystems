@@ -36,7 +36,7 @@
         <footer>
             <section class="container">
                 <div class="row justify-content-center pt-5 pb-3">
-                    <div class="col-sm-2">
+                    <div class="col-lg-2 d-none d-lg-block catalog-footer">
                         <ul>
                             <li class="footer-li"><a href="/" class="footernav">Головна</a></li>
                              
@@ -46,27 +46,31 @@
                             <li class="footer-li"><a href="/contacts" class="footernav">Контакти</a></li>                          
                         </ul>
                     </div>
-                    <div class="col-sm-4">
-                        <p>Каталог</p>
-                        <p>LMF</p>
-                        <ul>                            
-                            <li class="footer-li"><a href="/vint-lmf"  class="footernav">Гвинтовi компресори</a></li>
-                        </ul>
-                        <p>Tamsan</p>
-                        <ul>                            
-                            <li class="footer-li"><a href="/vint-tamsan"  class="footernav">Гвинтовi компресори</a></li>
-                            <li class="footer-li"><a href="/dryair-tamsan"  class="footernav">Осушувачi повiтря</a></li>
-                            <li class="footer-li"><a href="/bulkmatereal-tamsan"  class="footernav">Компресори для сипких матеріалів</a></li>
-                            <li class="footer-li"><a href="/high-tamsan"  class="footernav">Високобарнi компресори</a></li>                           
-                        </ul>                        
+                    <div class="col-lg-5 d-none d-lg-block catalog-footer">
+                      
+                        <div>LMF</div>
+                                                  
+                            <div class="indent"> <a href="/vint-lmf"  class="footernav">Гвинтовi компресори</a></div>
+                       
+                        <div>Tamsan</div>
+                                                 
+                            <div class="indent"><a href="/vint-tamsan"  class="footernav">Гвинтовi компресори</a></div>
+                            <div class="indent"><a href="/dryair-tamsan"  class="footernav">Осушувачi повiтря</a></div>
+                            <div class="indent"><a href="/bulkmatereal-tamsan"  class="footernav">Компресори для сипких матеріалів</a></div>
+                            <div class="indent"><a href="/high-tamsan"  class="footernav">Високобарнi компресори</a> </div  >
+                            <div class="indent"><a href="/dizel-tamsan"  class="footernav">Дизельнi портативнi гвинтові компресори серії TVK</a></div>
+                            <div><a href="/consumables"  class="footernav">Витратні матеріали та запасні частини</a></div>
+                            <div><a href="/recuperation"  class="footernav">Системи рекуперації тепла</a></div>
+                            <div><a href="/reciver"  class="footernav">Ресiвери</a></div>                       
+                                                
                     </div>
-                    <div class="col-sm-3 text-center">
+                    <div class="col-sm-12 col-md-6 col-lg-2 text-center">
                         <h5 class="mb-3">Ми у соцмережах</h5>
                         <a href="https://www.facebook.com" class="socialmedia" ><b-icon-facebook class="h1 mx-2"></b-icon-facebook></a>
                         <a href="https://www.instagram.com" class="socialmedia"><b-icon-instagram class="h1 mx-2"></b-icon-instagram></a>
                     </div>
         
-                    <div class="col-sm-3 text-center">
+                    <div class="col-sm-12  col-md-6 col-lg-3 text-center">
                         <h5 class="mb-3">
                             Наші контакти
                         </h5>

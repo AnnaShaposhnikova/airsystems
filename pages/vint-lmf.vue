@@ -5,18 +5,22 @@
                 <b-img src="/img/lmf-brand.png" fluid> </b-img>
             </figure>
         </div>
-        <div class="row pl-2">
-           
-            <h1>Гвинтовi компресори LMF</h1>
+        <div class="row">
+            <div class="col">
+                <h1>Гвинтовi компресори LMF</h1>
+            </div>
+        </div>
+          <div class="row justify-content-center pb-2"> 
+            
             <figure >
-                <b-img class="lmf-lg" src="/img/lmf.jpg" fluid> </b-img>              
+                <b-img class="lmf-lg" src="/img/vint_index.jpg" fluid> </b-img>              
             </figure>         
         </div>
 
         <article class="row">
             <div class="col">
                 <p class="indent">
-                    <span style="font-weight: bold;"> LMF</span> - австрійський
+                    LMF - австрійський
                     виробник з досвідом 166 років поршневих, гвинтових
                     повітряних та газових компресорів для промисловості та
                     нафтогазової галузі.
@@ -50,7 +54,7 @@
             
             <div class="col">
                 <div> 
-                    <h3 class="justify-content-center pb-5">Компресори гвинтові виробництва LMF серії LX</h3>
+                    <h3 class="justify-content-center">Компресори гвинтові виробництва LMF серії LX</h3>
                 </div>
                 <p class="indent">
                     LX SERIES Компресори забезпечують низькі капітальні та
@@ -87,8 +91,8 @@
             </div>
         </div>
 
-        <div class="row justify-content-center pt-5 pb-5">
-            <div class="col-12">
+        <div class="rowpb-3">
+            <div class="col">
                 <div class="table-responsive">
                     <table class="table table-bordered table-striped">
                         <thead>
@@ -302,7 +306,7 @@
 
         <article class="row">
             <div class="col">
-                <h3>Стандартні функції</h3>
+                <h4>Стандартні функції</h4>
                 <ul>
                     <li>
                         Високоефективний гвинтовий вузол - низька швидкість

@@ -22,6 +22,7 @@
                             <b-dropdown-item class ="nav-dropdown-items" to="dryair-tamsan">Осушувачi повiтря</b-dropdown-item>
                             <b-dropdown-item class ="nav-dropdown-items" to="bulkmatereal-tamsan">Компресори для сипких матеріалів</b-dropdown-item> 
                              <b-dropdown-item class ="nav-dropdown-items" to="high-tamsan">Високобарнi компресори</b-dropdown-item> 
+                             <b-dropdown-item class ="nav-dropdown-items" to="dizel-tamsan">Дизельнi портативнi гвинтові компресори серії TVK</b-dropdown-item> 
                         </b-dropdown-group>
                         
                             <b-dropdown-item  to="/consumables">
@@ -32,10 +33,7 @@
                             </b-dropdown-item>
                              <b-dropdown-item  to="/reciver">
                                 Ресiвери
-                            </b-dropdown-item>
-                              <b-dropdown-item  to="/dizel-tamsan">
-                                Дизельнi портативнi гвинтові компресори серії TVK
-                            </b-dropdown-item> 
+                            </b-dropdown-item>                             
              
                 </b-nav-item-dropdown>
                 <b-nav-item to="/services">Послуги</b-nav-item>

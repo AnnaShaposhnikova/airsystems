@@ -9,7 +9,13 @@
         margin-bottom: 0.5em;
     }
 
+
 }
+/* @media (max-width:768px) {
+     .catalog-footer{
+    display:none;}
+    
+} */
 
 @media (min-width: 768px) {
     main {
@@ -214,9 +220,11 @@ footer .brand a {
 footer .brand a img {
     margin: 1em;
 }
-.footer-li{
-    list-style-type: none;
+.footer-li,  .footer-ul{
+    list-style-type: none !important;
+  
 }
+
 
 a,
 a:hover

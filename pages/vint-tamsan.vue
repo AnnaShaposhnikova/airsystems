@@ -6,11 +6,15 @@
             </figure>
         </div>
         <article>
-            <div class="row pb-2 pl-2">
-                <h1>
-                    Гвинтовi компресори
-                    <span style="font-weight: bold;">Tamsan</span>
+            <div class="row">
+                <div class="col">
+                    <h1>
+                    Гвинтовi компресори Tamsan                  
                 </h1>
+                </div>
+            </div>
+             <div class="row justify-content-center pb-2">
+                
                 <figure>
                     <b-img src="/img/car1.jpg" fluid> </b-img>
                 </figure>
@@ -18,19 +22,19 @@
             <div class="row">
                 <div class="col">
                     <p class="indent">
-                        <span style="font-weight: bold;">TAMSAN,</span>
+                        TAMSAN
                         заснований у 1980 році з метою виробництва повітряних
                         компресорів та запасних частин. Збільшення обсягу
                         продажів вимагало від
-                        <span style="font-weight: bold;">TAMSAN</span>
+                       TAMSAN
                         збільшення виробничої площі з 800 м2 до 8000 м2 у 2008
                         році. Завдяки акценту на якість
-                        <span style="font-weight: bold;">TAMSAN</span> тепер
+                        TAMSAN тепер
                         експортує свою продукцію для повітряних компресорів до
                         багатьох країн світу, особливо успішний у Європі. Зі
                         зростанням експорту високоякісної продукції ім'я та
                         репутація
-                        <span style="font-weight: bold;">TAMSAN</span> з кожним
+                        TAMSAN з кожним
                         днем ​​стають все більш знайомими у світі стисненого
                         повітря.
                     </p>
@@ -40,10 +44,10 @@
                         продовжує розширюватися. Крім того, розвиваючи та
                         використовуючи свої зв'язки з промисловими та
                         академічними партнерами,
-                        <span style="font-weight: bold;">TAMSAN</span> прагне
+                        TAMSAN прагне
                         виводити на ринок нові продукти та технології. Будучи
                         піонером у своєму секторі,
-                        <span style="font-weight: bold;">TAMSAN</span>
+                        TAMSAN
                         передбачає постійне зростання продажів, розширення свого
                         портфеля продуктів та подальше збільшення частки
                         світового ринку.
@@ -52,21 +56,24 @@
                         Висока якість повітряних компресорів з одного боку,
                         забезпечення якісного та швидкого обслуговування з
                         іншого боку зробили
-                        <span style="font-weight: bold;">TAMSAN</span> однією з
+                        TAMSAN однією з
                         найбільш шанованих марок у своєму секторі.
                     </p>
                 </div>
             </div>
         </article>
         <article>
-            <div class="row pb-3 pt-5">
-                <h3 class="pl-2">
-                    Гвинтовi компресори
-                    <span style="font-weight: bold;">Tamsan</span>
+            <div class="row ">
+                <div class="col">
+<h3>
+                    Гвинтовi компресори Tamsan                 
                 </h3>
+                </div>
+
+                
             </div>
 
-            <div class="row justify-content-center">
+            <div class="row justify-content-center text-center">
                 <div class="col-lg-6 col-sm-12">
                     <figure>
                         <b-img src="/img/tamsan-page/tamsan1.png" fluid>
@@ -81,8 +88,8 @@
                 </div>
             </div>
 
-            <div class="row justify-content-center pt-5 pb-5">
-                <div class="col-12">
+            <div class="row pb-3">
+                <div class="col">
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped">
                             <thead>
@@ -222,7 +229,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="row justify-content-start mb-5">
+            <div class="row justify-content-center mb-3">
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <figure>
                         <b-img src="/img/tamsan-page/tamsan3.png" fluid>
@@ -236,7 +243,7 @@
                     </figure>
                 </div>
             </div>
-            <div class="row justify-content-start">
+            <div class="row justify-content-center">
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <figure>
                         <b-img src="/img/tamsan-page/tamsan5.png" fluid>
@@ -255,13 +262,9 @@
             <div class="row">
                 <div class="col">
                     <div>
-                        <h3 class="pb-3 pt-5 pl-2">
-                            Компресори гвинтові
-                            <span style="font-weight: bold;"
-                                >E series 4-22</span
-                            >
-                            кВт
-                        </h3>
+                        <h3>
+                            Компресори гвинтові E series 4-22 кВт                      
+                         </h3>
                     </div>
                     <p class="indent">
                         Перші прототипи компресорів моделі TVK E були розроблені
@@ -280,7 +283,7 @@
                     </p>
                 </div>
 
-                <div class="row justify-content-center">
+                <div class="row justify-content-center text-center">
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <figure>
                             <b-img src="/img/tamsan-page/tamsan8.png" fluid>
@@ -300,8 +303,8 @@
                         </figure>
                     </div>
                 </div>
-               <div class="row justify-content-center pt-5 pb-5">
-                <div class="col-12 justify-content-center">
+               <div class="row pb-3">
+                <div class="col">
                     <div class="table-responsive ">
                             <table class="table table-bordered table-striped">
                                 <thead>
@@ -507,7 +510,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row justify-content-center mb-5">
+            <div class="row justify-content-center  text-center mb-5">
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <figure>
                         <b-img src="/img/tamsan-page/tamsan10.png" fluid>
@@ -529,12 +532,13 @@
             </div>
         </article>
         <article>
-             <div>
-                        <h3 class=" pb-3 pt-5 pl-2">
-                             Компресори гвинтові
-                    <span style="font-weight: bold;">E series 30-250</span> кВт
-                          
+             <div class="row">
+                 <div class="col">
+                      <h3>
+                             Компресори гвинтові E series 30-250 кВт                                             
                         </h3>
+                 </div>
+                       
                     </div>
           
             <div class="row">
@@ -568,7 +572,7 @@
                     </p>
                 </div>
             </div>
-            <div class="row justify-content-center">
+            <div class="row justify-content-center text-center">
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <figure>
                         <b-img src="/img/tamsan-page/tamsan13.png" fluid>
@@ -589,8 +593,8 @@
                 </div>
             </div>
 
-            <div class="row justify-content-center pt-5 pb-5">
-                <div class="col-12">
+            <div class="row pb-3">
+                <div class="col">
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped">
                             <thead>
@@ -919,7 +923,7 @@
                 </div>
             </div>
 
-            <div class="row justify-content-center">
+            <div class="row justify-content-center text-center">
                 <div class="col-lg-3 col-md-6 col-sm-12">
                     <figure> 
                         <b-img src="/img/tamsan-page/tamsan16.jpg" fluid>
