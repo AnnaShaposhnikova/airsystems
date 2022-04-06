@@ -37,14 +37,14 @@
             <section class="container">
                 <div class="row justify-content-center pt-5 pb-3">
                     <div class="col-lg-2 d-none d-lg-block catalog-footer">
-                        <ul>
-                            <li class="footer-li"><a href="/" class="footernav">Головна</a></li>
+                       
+                            <div><a href="/" class="footernav">Головна</a></div>
                              
-                            <li class="footer-li"><a href="/about" class="footernav">О нас</a></li>
+                            <div><a href="/about" class="footernav">О нас</a></div>
                             
-                            <li class="footer-li"><a href="/services" class="footernav">Послуги</a></li>
-                            <li class="footer-li"><a href="/contacts" class="footernav">Контакти</a></li>                          
-                        </ul>
+                            <div><a href="/services" class="footernav">Послуги</a></div>
+                            <div><a href="/contacts" class="footernav">Контакти</a></div>                          
+                        
                     </div>
                     <div class="col-lg-5 d-none d-lg-block catalog-footer">
                       
