@@ -40,28 +40,28 @@
                        
                             <div><a href="/" class="footernav">Головна</a></div>
                              
-                            <div><a href="/about" class="footernav">О нас</a></div>
+                            <div><a href="about" class="footernav">О нас</a></div>
                             
-                            <div><a href="/services" class="footernav">Послуги</a></div>
-                            <div><a href="/contacts" class="footernav">Контакти</a></div>                          
+                            <div><a href="services" class="footernav">Послуги</a></div>
+                            <div><a href="contacts" class="footernav">Контакти</a></div>                          
                         
                     </div>
                     <div class="col-lg-5 d-none d-lg-block catalog-footer">
                       
                         <div>LMF</div>
                                                   
-                            <div class="indent"> <a href="/vint-lmf"  class="footernav">Гвинтовi компресори</a></div>
+                            <div class="indent"> <a href="vint-lmf"  class="footernav">Гвинтовi компресори</a></div>
                        
                         <div>Tamsan</div>
                                                  
-                            <div class="indent"><a href="/vint-tamsan"  class="footernav">Гвинтовi компресори</a></div>
-                            <div class="indent"><a href="/dryair-tamsan"  class="footernav">Осушувачi повiтря</a></div>
-                            <div class="indent"><a href="/bulkmatereal-tamsan"  class="footernav">Компресори для сипких матеріалів</a></div>
-                            <div class="indent"><a href="/high-tamsan"  class="footernav">Високобарнi компресори</a> </div  >
-                            <div class="indent"><a href="/dizel-tamsan"  class="footernav">Дизельнi портативнi гвинтові компресори серії TVK</a></div>
-                            <div><a href="/consumables"  class="footernav">Витратні матеріали та запасні частини</a></div>
-                            <div><a href="/recuperation"  class="footernav">Системи рекуперації тепла</a></div>
-                            <div><a href="/reciver"  class="footernav">Ресiвери</a></div>                       
+                            <div class="indent"><a href="vint-tamsan"  class="footernav">Гвинтовi компресори</a></div>
+                            <div class="indent"><a href="dryair-tamsan"  class="footernav">Осушувачi повiтря</a></div>
+                            <div class="indent"><a href="bulkmatereal-tamsan"  class="footernav">Компресори для сипких матеріалів</a></div>
+                            <div class="indent"><a href="high-tamsan"  class="footernav">Високобарнi компресори</a> </div  >
+                            <div class="indent"><a href="dizel-tamsan"  class="footernav">Дизельнi портативнi гвинтові компресори серії TVK</a></div>
+                            <div><a href="consumables"  class="footernav">Витратні матеріали та запасні частини</a></div>
+                            <div><a href="recuperation"  class="footernav">Системи рекуперації тепла</a></div>
+                            <div><a href="reciver"  class="footernav">Ресiвери</a></div>                       
                                                 
                     </div>
                     <div class="col-sm-12 col-md-6 col-lg-2 text-center">

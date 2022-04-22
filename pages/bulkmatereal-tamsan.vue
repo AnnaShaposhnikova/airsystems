@@ -21,7 +21,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <figure>
                         <b-img
-                            src="/img/tamsan-page/b-tamsan/b-tamsan1.jpg"
+                            src="img/tamsan-page/b-tamsan/b-tamsan1.jpg"
                             fluid
                         >
                         </b-img>
@@ -30,7 +30,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-12">
                    <figure>
                         <b-img
-                            src="/img/tamsan-page/b-tamsan/b-tamsan2.jpg"
+                            src="img/tamsan-page/b-tamsan/b-tamsan2.jpg"
                             fluid
                         >
                         </b-img>
@@ -38,7 +38,7 @@
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <figure>
-                    <b-img src="/img/tamsan-page/b-tamsan/b-tamsan3.png" fluid>
+                    <b-img src="img/tamsan-page/b-tamsan/b-tamsan3.png" fluid>
                     </b-img>
                 </figure>
                 </div>

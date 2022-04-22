@@ -10,13 +10,13 @@
                         class="carousel"
                     >
                         <b-carousel-slide
-                            img-src="/img/car1.jpg"
+                            img-src="img/car1.jpg"
                         ></b-carousel-slide>
                         <b-carousel-slide
-                            img-src="/img/car2.jpg"
+                            img-src="img/car2.jpg"
                         ></b-carousel-slide>
                         <b-carousel-slide
-                            img-src="/img/car3.jpg"
+                            img-src="img/car3.jpg"
                         ></b-carousel-slide>
                     </b-carousel>
                 </div>
@@ -29,7 +29,7 @@
             <div class="col-lg-3 col-md-6 d-flex">
                 <Card>
                     <CardTitle>Гвинтовi <br />компресори</CardTitle>
-                    <CardImage src="/img/vint_index.jpg" />
+                    <CardImage src="img/vint_index.jpg" />
                     <CardBody>
                         <ul>
                             <li>
@@ -51,7 +51,7 @@
                     <CardTitle
                         >Компресори для сипких <br />матерiалiв</CardTitle
                     >
-                    <CardImage src="/img/silobas-yan-2.jpg" />
+                    <CardImage src="img/silobas-yan-2.jpg" />
                     <CardBody>
                         <ul>
                             <li>
@@ -66,7 +66,7 @@
             <div class="col-lg-3 col-md-6 d-flex">
                 <Card>
                     <CardTitle>Высокобарнi<br />компресори</CardTitle>
-                    <CardImage src="/img/highbarcompressor.jpg" />
+                    <CardImage src="img/highbarcompressor.jpg" />
                     <CardBody>
                         <ul>
                             <li>
@@ -81,7 +81,7 @@
             <div class="col-lg-3 col-md-6 d-flex">
                 <Card>
                     <CardTitle>Осушувачі повітря</CardTitle>
-                    <CardImage src="/img/dry.jpg" />
+                    <CardImage src="img/dry.jpg" />
                     <CardBody>
                         <ul>
                             <li>
@@ -102,7 +102,7 @@
                     </h5>
                     <figure class="card-img">
                         <img
-                            src="/img/recuperation.jpg"
+                            src="img/recuperation.jpg"
                             class="card-img-top img-fluid "
                         />
                     </figure>
@@ -122,7 +122,7 @@
                     <h5 class="card-title py-3 text-center">Ресiвери</h5>
                     <figure class="card-img">
                         <img
-                            src="/img/reciver.jpg"
+                            src="img/reciver.jpg"
                             class="card-img-top img-fluid "
                         />
                     </figure>
@@ -144,7 +144,7 @@
                     </h5>
                     <figure class="card-img">
                         <img
-                            src="/img/consumables.jpg"
+                            src="img/consumables.jpg"
                             class="card-img-top img-fluid "
                         />
                     </figure>
@@ -166,7 +166,7 @@
                     </h5>
                     <figure class="card-img">
                         <img
-                            src="/img/dizel.jpg"
+                            src="img/dizel.jpg"
                             class="card-img-top img-fluid "
                         />
                     </figure>
@@ -210,47 +210,47 @@
             <div class="row justify-content-center">
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
-                        <b-img src="/img/clients/carlsberg.png" fluid> </b-img>
+                        <b-img src="img/clients/carlsberg.png" fluid> </b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
-                        <b-img src="/img/clients/kav.jpg" fluid> </b-img>
+                        <b-img src="img/clients/kav.jpg" fluid> </b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
-                        <b-img src="/img/clients/knauf.png" fluid> </b-img>
+                        <b-img src="img/clients/knauf.png" fluid> </b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
-                        <b-img src="/img/clients/parash.png" fluid> </b-img>
+                        <b-img src="img/clients/parash.png" fluid> </b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
-                        <b-img src="/img/clients/skf.jpg" fluid> </b-img>
+                        <b-img src="img/clients/skf.jpg" fluid> </b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
-                        <b-img src="/img/clients/ashan.png" fluid> </b-img>
+                        <b-img src="img/clients/ashan.png" fluid> </b-img>
                     </figure>
                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
-                        <b-img src="/img/clients/rp275.png" fluid> </b-img>
+                        <b-img src="img/clients/rp275.png" fluid> </b-img>
                     </figure>
                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
-                        <b-img src="/img/clients/stol.png" fluid> </b-img>
+                        <b-img src="img/clients/stol.png" fluid> </b-img>
                     </figure>
                 </div>
                                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
-                        <b-img src="/img/clients/kura.png" fluid> </b-img>
+                        <b-img src="img/clients/kura.png" fluid> </b-img>
                     </figure>
                 </div>
             </div>

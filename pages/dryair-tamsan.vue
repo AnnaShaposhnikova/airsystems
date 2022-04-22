@@ -12,7 +12,7 @@
             <div class="row justify-content-center pb-2">
                 
                     <figure>
-                    <b-img src="/img/dry/dry1.jpg" fluid> </b-img>
+                    <b-img src="img/dry/dry1.jpg" fluid> </b-img>
                 </figure>
                
                 
@@ -42,12 +42,12 @@
             <div class="row justify-content-center text-center pb-2">
                 <div class="col-lg-6 col-sm-12">
                     <figure>
-                        <b-img src="/img/dry/dry2.png" fluid> </b-img>
+                        <b-img src="img/dry/dry2.png" fluid> </b-img>
                     </figure>
                 </div>
                 <div class="col-lg-6 col-sm-12">
                     <figure>
-                        <b-img src="/img/dry/dry3.jpg" fluid> </b-img>
+                        <b-img src="img/dry/dry3.jpg" fluid> </b-img>
                     </figure>
                 </div>
             </div>
@@ -492,12 +492,12 @@
             <div class="row justify-content-center text-center pb-2">
                 <div class="col-lg-6 col-sm-12">
                     <figure>
-                        <b-img src="/img/dry/dry4.png" fluid> </b-img>
+                        <b-img src="img/dry/dry4.png" fluid> </b-img>
                     </figure>
                 </div>
                 <div class="col-lg-6 col-sm-12">
                     <figure>
-                        <b-img src="/img/dry/dry5.png" fluid> </b-img>
+                        <b-img src="img/dry/dry5.png" fluid> </b-img>
                     </figure>
                 </div>
             </div>

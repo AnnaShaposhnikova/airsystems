@@ -8,7 +8,7 @@
             </div>
             <div class="row justify-content-center pb-3">
                 <figure class="m-3">
-                    <b-img src="/img/services.png" fluid> </b-img>
+                    <b-img src="img/services.png" fluid> </b-img>
                 </figure>
             </div>
             <ul>

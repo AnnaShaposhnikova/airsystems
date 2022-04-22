@@ -8,7 +8,7 @@
                 </h1>            
            
                 <figure class="text-center m-3">
-                    <b-img src="/img/consumables.jpg" fluid> </b-img>
+                    <b-img src="img/consumables.jpg" fluid> </b-img>
                 </figure>
                 </div>
             </div>

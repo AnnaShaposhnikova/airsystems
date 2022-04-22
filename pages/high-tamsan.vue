@@ -12,7 +12,7 @@
                 <div class="col-lg-6 col-sm-12">
                       <figure>
                     <b-img
-                        src="/img/tamsan-page/high-tamsan/high-tamsan1.png"
+                        src="img/tamsan-page/high-tamsan/high-tamsan1.png"
                         fluid
                     >
                     </b-img>
@@ -21,7 +21,7 @@
                 <div class="col-lg-6 col-sm-12">
     <figure>
                     <b-img
-                        src="/img/tamsan-page/high-tamsan/high-tamsan2.jpg"
+                        src="img/tamsan-page/high-tamsan/high-tamsan2.jpg"
                         fluid
                     >
                     </b-img>
