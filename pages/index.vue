@@ -1,5 +1,13 @@
 <template>
     <div class="container-fluid">
+        <div class="row">
+            <div class="col">
+                <h1>
+                    Повiтряни Системи - продаж та обслуговування компресорного обладнання
+                </h1>
+            </div>
+        </div>
+
         <section class="row justify-content-center pb-5 pt-5">
             <div class="col-lg-10">
                 <div class="carousel-wrapper">
