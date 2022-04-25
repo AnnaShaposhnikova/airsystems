@@ -37,66 +37,94 @@
             <section class="container">
                 <div class="row justify-content-center pt-5 pb-3">
                     <div class="col-lg-2 d-none d-lg-block catalog-footer">
-                        <div><a href="/" class="footernav">Головна</a></div>
-
-                        <div><a href="o-nas" class="footernav">О нас</a></div>
+                        <div>
+                            <NuxtLink to="/" class="footernav"
+                                >Головна</NuxtLink
+                            >
+                        </div>
 
                         <div>
-                            <a href="poslygy" class="footernav">Послуги</a>
+                            <NuxtLink to="/o-nas" class="footernav"
+                                >О нас</NuxtLink
+                            >
+                        </div>
+
+                        <div>
+                            <NuxtLink to="/poslygy" class="footernav"
+                                >Послуги</NuxtLink
+                            >
                         </div>
                         <div>
-                            <a href="contacts" class="footernav">Контакти</a>
+                            <NuxtLink to="/contacts" class="footernav"
+                                >Контакти</NuxtLink
+                            >
                         </div>
                     </div>
                     <div class="col-lg-5 d-none d-lg-block catalog-footer">
                         <div>LMF</div>
 
                         <div class="indent">
-                            <a href="gvyntovy-kompresory-lmf" class="footernav"
-                                >Гвинтовi компресори</a
+                            <NuxtLink
+                                to="/gvyntovy-kompresory-lmf"
+                                class="footernav"
+                                >Гвинтовi компресори</NuxtLink
                             >
                         </div>
 
                         <div>Tamsan</div>
 
                         <div class="indent">
-                            <a href="gvyntovy-kompresory-tamsan" class="footernav"
-                                >Гвинтовi компресори</a
+                            <NuxtLink
+                                to="/gvyntovy-kompresory-tamsan"
+                                class="footernav"
+                                >Гвинтовi компресори</NuxtLink
                             >
                         </div>
                         <div class="indent">
-                            <a href="osyshyvachi-povitrya-tamsan" class="footernav"
-                                >Осушувачi повiтря</a
+                            <NuxtLink
+                                to="/osyshyvachi-povitrya-tamsan"
+                                class="footernav"
+                                >Осушувачi повiтря</NuxtLink
                             >
                         </div>
                         <div class="indent">
-                            <a href="kompresory-dlya-sypkyh-materialiv-tamsan" class="footernav"
-                                >Компресори для сипких матеріалів</a
+                            <NuxtLink
+                                to="/kompresory-dlya-sypkyh-materialiv-tamsan"
+                                class="footernav"
+                                >Компресори для сипких матеріалів</NuxtLink
                             >
                         </div>
                         <div class="indent">
-                            <a href="vysokobarny-kompresory-tamsan" class="footernav"
-                                >Високобарнi компресори</a
+                            <NuxtLink
+                                to="/vysokobarny-kompresory-tamsan"
+                                class="footernav"
+                                >Високобарнi компресори</NuxtLink
                             >
                         </div>
                         <div class="indent">
-                            <a href="dizelny-portatyvny-kompresory-Tamsan" class="footernav"
+                            <NuxtLink
+                                to="/dizelny-portatyvny-kompresory-Tamsan"
+                                class="footernav"
                                 >Дизельнi портативнi гвинтові компресори серії
-                                TVK</a
+                                TVK</NuxtLink
                             >
                         </div>
                         <div>
-                            <a href="vytratny-materialy-ta-zapasny-chastyny" class="footernav"
-                                >Витратні матеріали та запасні частини</a
+                            <NuxtLink
+                                to="/vytratny-materialy-ta-zapasny-chastyny"
+                                class="footernav"
+                                >Витратні матеріали та запасні частини</NuxtLink
                             >
                         </div>
                         <div>
-                            <a href="systemy-recureratsii-tepla" class="footernav"
-                                >Системи рекуперації тепла</a
+                            <NuxtLink
+                                to="/systemy-recureratsii-tepla"
+                                class="footernav"
+                                >Системи рекуперації тепла</NuxtLink
                             >
                         </div>
                         <div>
-                            <a href="reciver" class="footernav">Ресiвери</a>
+                            <NuxtLink to="/reciver" class="footernav">Ресiвери</NuxtLink>
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-6 col-lg-2 text-center">
@@ -138,8 +166,5 @@ import {
     BIconInstagram,
     BIconCheck
 } from "bootstrap-vue";
-export default {
-
-    
-};
+export default {};
 </script>

@@ -1,6 +1,6 @@
 <template>
     <NuxtLink to="/">
-        <img src="img/logo111.png">
+        <img src="/img/logo111.png">
     </NuxtLink>
 
 </template>

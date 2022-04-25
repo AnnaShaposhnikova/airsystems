@@ -26,7 +26,7 @@
             </div>
             <div class="row justify-content-center pb-2">
                 <figure>
-                    <b-img src="img/recuperation/recuperation1.jpg" fluid>
+                    <b-img src="/img/recuperation/recuperation1.jpg" fluid>
                     </b-img>
                 </figure>
             </div>
@@ -155,28 +155,28 @@
                                 <tr>
                                     <td>
                                         <b-img
-                                            src="img/recuperation/rec1.jpg"
+                                            src="/img/recuperation/rec1.jpg"
                                             fluid
                                         >
                                         </b-img>
                                     </td>
                                     <td>
                                         <b-img
-                                            src="img/recuperation/rec2.jpg"
+                                            src="/img/recuperation/rec2.jpg"
                                             fluid
                                         >
                                         </b-img>
                                     </td>
                                     <td>
                                         <b-img
-                                            src="img/recuperation/rec3.jpg"
+                                            src="/img/recuperation/rec3.jpg"
                                             fluid
                                         >
                                         </b-img>
                                     </td>
                                     <td>
                                         <b-img
-                                            src="img/recuperation/rec4.jpg"
+                                            src="/img/recuperation/rec4.jpg"
                                             fluid
                                         >
                                         </b-img>

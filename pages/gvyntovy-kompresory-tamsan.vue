@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <div class="row justify-content-center pt-5">
             <figure class="block">
-                <b-img src="img/tamsan-brand.png" fluid> </b-img>
+                <b-img src="/img/tamsan-brand.png" fluid> </b-img>
             </figure>
         </div>
         <article>
@@ -15,7 +15,7 @@
             </div>
             <div class="row justify-content-center pb-2">
                 <figure>
-                    <b-img src="img/car1.jpg" fluid> </b-img>
+                    <b-img src="/img/car1.jpg" fluid> </b-img>
                 </figure>
             </div>
             <div class="row">
@@ -64,12 +64,12 @@
             <div class="row justify-content-center text-center">
                 <div class="col-lg-6 col-sm-12">
                     <figure>
-                        <b-img src="img/tamsan-page/tamsan1.png" fluid> </b-img>
+                        <b-img src="/img/tamsan-page/tamsan1.png" fluid> </b-img>
                     </figure>
                 </div>
                 <div class="col-lg-6 col-sm-12">
                     <figure>
-                        <b-img src="img/tamsan-page/tamsan2.png" fluid> </b-img>
+                        <b-img src="/img/tamsan-page/tamsan2.png" fluid> </b-img>
                     </figure>
                 </div>
             </div>
@@ -218,24 +218,24 @@
             <div class="row justify-content-center mb-3">
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <figure>
-                        <b-img src="img/tamsan-page/tamsan3.png" fluid> </b-img>
+                        <b-img src="/img/tamsan-page/tamsan3.png" fluid> </b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <figure>
-                        <b-img src="img/tamsan-page/tamsan4.png" fluid> </b-img>
+                        <b-img src="/img/tamsan-page/tamsan4.png" fluid> </b-img>
                     </figure>
                 </div>
             </div>
             <div class="row justify-content-center">
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <figure>
-                        <b-img src="img/tamsan-page/tamsan5.png" fluid> </b-img>
+                        <b-img src="/img/tamsan-page/tamsan5.png" fluid> </b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <figure>
-                        <b-img src="img/tamsan-page/tamsan6.png" fluid> </b-img>
+                        <b-img src="/img/tamsan-page/tamsan6.png" fluid> </b-img>
                     </figure>
                 </div>
             </div>
@@ -268,19 +268,19 @@
                 <div class="row justify-content-center text-center">
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <figure>
-                            <b-img src="img/tamsan-page/tamsan8.png" fluid>
+                            <b-img src="/img/tamsan-page/tamsan8.png" fluid>
                             </b-img>
                         </figure>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <figure>
-                            <b-img src="img/tamsan-page/tamsan7.png" fluid>
+                            <b-img src="/img/tamsan-page/tamsan7.png" fluid>
                             </b-img>
                         </figure>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <figure>
-                            <b-img src="img/tamsan-page/tamsan9.png" fluid>
+                            <b-img src="/img/tamsan-page/tamsan9.png" fluid>
                             </b-img>
                         </figure>
                     </div>
@@ -495,19 +495,19 @@
             <div class="row justify-content-center  text-center mb-5">
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <figure>
-                        <b-img src="img/tamsan-page/tamsan10.png" fluid>
+                        <b-img src="/img/tamsan-page/tamsan10.png" fluid>
                         </b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <figure>
-                        <b-img src="img/tamsan-page/tamsan11.png" fluid>
+                        <b-img src="/img/tamsan-page/tamsan11.png" fluid>
                         </b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <figure>
-                        <b-img src="img/tamsan-page/tamsan12.png" fluid>
+                        <b-img src="/img/tamsan-page/tamsan12.png" fluid>
                         </b-img>
                     </figure>
                 </div>
@@ -556,19 +556,19 @@
             <div class="row justify-content-center text-center">
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <figure>
-                        <b-img src="img/tamsan-page/tamsan13.png" fluid>
+                        <b-img src="/img/tamsan-page/tamsan13.png" fluid>
                         </b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <figure>
-                        <b-img src="img/tamsan-page/tamsan14.png" fluid>
+                        <b-img src="/img/tamsan-page/tamsan14.png" fluid>
                         </b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <figure>
-                        <b-img src="img/tamsan-page/tamsan15.png" fluid>
+                        <b-img src="/img/tamsan-page/tamsan15.png" fluid>
                         </b-img>
                     </figure>
                 </div>
@@ -907,25 +907,25 @@
             <div class="row justify-content-center text-center">
                 <div class="col-lg-3 col-md-6 col-sm-12">
                     <figure>
-                        <b-img src="img/tamsan-page/tamsan16.jpg" fluid>
+                        <b-img src="/img/tamsan-page/tamsan16.jpg" fluid>
                         </b-img>
                     </figure>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
                     <figure>
-                        <b-img src="img/tamsan-page/tamsan17.jpg" fluid>
+                        <b-img src="/img/tamsan-page/tamsan17.jpg" fluid>
                         </b-img>
                     </figure>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
                     <figure>
-                        <b-img src="img/tamsan-page/tamsan18.jpg" fluid>
+                        <b-img src="/img/tamsan-page/tamsan18.jpg" fluid>
                         </b-img>
                     </figure>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12">
                     <figure>
-                        <b-img src="img/tamsan-page/tamsan19.jpg" fluid>
+                        <b-img src="/img/tamsan-page/tamsan19.jpg" fluid>
                         </b-img>
                     </figure>
                 </div>

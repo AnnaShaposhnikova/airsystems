@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <div class="row justify-content-center pt-5">
             <figure class="block">
-                <b-img src="img/lmf-brand.png" fluid> </b-img>
+                <b-img src="/img/lmf-brand.png" fluid> </b-img>
             </figure>
         </div>
         <div class="row">
@@ -12,7 +12,7 @@
         </div>
         <div class="row justify-content-center pb-2">
             <figure>
-                <b-img class="lmf-lg" src="img/vint_index.jpg" fluid> </b-img>
+                <b-img class="lmf-lg" src="/img/vint_index.jpg" fluid> </b-img>
             </figure>
         </div>
 
@@ -74,18 +74,18 @@
         <div class="row justify-content-center">
             <div class="col-lg-4 col-sm-12">
                 <figure class="text-center">
-                    <b-img src="img/lmf1.jpg" fluid> </b-img>
+                    <b-img src="/img/lmf1.jpg" fluid> </b-img>
                 </figure>
             </div>
             <div class="col-lg-4 col-sm-12">
                 <figure class="text-center">
-                    <b-img src="img/lmf2.jpg" fluid> </b-img>
+                    <b-img src="/img/lmf2.jpg" fluid> </b-img>
                 </figure>
             </div>
 
             <div class="col-lg-4 col-sm-12">
                 <figure class="text-center">
-                    <b-img src="img/lmf3.jpg" fluid> </b-img>
+                    <b-img src="/img/lmf3.jpg" fluid> </b-img>
                 </figure>
             </div>
         </div>

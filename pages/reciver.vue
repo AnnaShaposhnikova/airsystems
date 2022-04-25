@@ -11,7 +11,7 @@
             </div>
             <div class="row justify-content-center pb-2">
                 <figure>
-                    <b-img src="img/reciver1.jpg" fluid> </b-img>
+                    <b-img src="/img/reciver1.jpg" fluid> </b-img>
                 </figure>
             </div>
             <div class="row pb-3">
