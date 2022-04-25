@@ -5,19 +5,18 @@
                 <div class="col">
                     <h1>
                         Компресори для сипких матеріалів Tamsan
-                    
                     </h1>
                 </div>
             </div>
-             <div class="row">
+            <div class="row">
                 <div class="col">
-                    <p class="indent">
+                    <p>
                         Поршневі компресори Tamko спеціально виготовлені для
                         розвантаження цементу з цементовозів.
                     </p>
                 </div>
             </div>
-            <div class="row justify-content-center text-center">
+            <div class="row justify-content-center">
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <figure>
                         <b-img
@@ -28,25 +27,25 @@
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
-                   <figure>
+                    <figure>
                         <b-img
                             src="img/tamsan-page/b-tamsan/b-tamsan2.jpg"
                             fluid
                         >
                         </b-img>
-                    </figure> 
+                    </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <figure>
-                    <b-img src="img/tamsan-page/b-tamsan/b-tamsan3.png" fluid>
-                    </b-img>
-                </figure>
+                        <b-img
+                            src="img/tamsan-page/b-tamsan/b-tamsan3.png"
+                            fluid
+                        >
+                        </b-img>
+                    </figure>
                 </div>
-
-
             </div>
-           
-    
+
             <div class="row justify-content-center pb-3 pt-3">
                 <div class="col-sm-12">
                     <h4>Технічні параметри компресорів TAMKO</h4>
@@ -60,8 +59,16 @@
                                 <tr>
                                     <th>Технічні параметри</th>
                                     <th>Одиниці вимірювання</th>
-                                    <th><span style="font-weight: bold;">TAMKO 7200</span></th>
-                                    <th><span style="font-weight: bold;">TAMKO 10000</span></th>
+                                    <th>
+                                        <span style="font-weight: bold;"
+                                            >TAMKO 7200</span
+                                        >
+                                    </th>
+                                    <th>
+                                        <span style="font-weight: bold;"
+                                            >TAMKO 10000</span
+                                        >
+                                    </th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -106,12 +113,30 @@
                     </div>
                 </div>
             </div>
-          
         </article>
     </div>
 </template>
 <script>
 export default {
-    layout: "default"
+    layout: "default",
+    data() {
+        return {
+            title: `Компресори для сипких матерiалiв Tamsan - ${process.env.siteName}`
+        };
+    },
+    head() {
+        return {
+            title: this.title,
+            meta: [
+                {
+                    hid: "AirSystems - Компресори для сипких матерiалiв Tamsan",
+                    name:
+                        "AirSystems - Компресори для сипких матерiалiв Tamsan",
+                    content:
+                        "AirSystems - Компресори для сипких матерiалiв Tamsan"
+                }
+            ]
+        };
+    }
 };
 </script>

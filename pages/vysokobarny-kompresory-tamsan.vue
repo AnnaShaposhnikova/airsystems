@@ -4,43 +4,40 @@
             <div class="row">
                 <div class="col ">
                     <h1>
-                    Високобарнi компресори Tamsan                   
-                </h1>
+                        Високобарнi компресори Tamsan
+                    </h1>
                 </div>
             </div>
-             <div class="row justify-content-center text-center">
+            <div class="row justify-content-center text-center">
                 <div class="col-lg-6 col-sm-12">
-                      <figure>
-                    <b-img
-                        src="img/tamsan-page/high-tamsan/high-tamsan1.png"
-                        fluid
-                    >
-                    </b-img>
-                </figure>
+                    <figure>
+                        <b-img
+                            src="img/tamsan-page/high-tamsan/high-tamsan1.png"
+                            fluid
+                        >
+                        </b-img>
+                    </figure>
                 </div>
                 <div class="col-lg-6 col-sm-12">
-    <figure>
-                    <b-img
-                        src="img/tamsan-page/high-tamsan/high-tamsan2.jpg"
-                        fluid
-                    >
-                    </b-img>
-                </figure>
-                </div>         
-
+                    <figure>
+                        <b-img
+                            src="img/tamsan-page/high-tamsan/high-tamsan2.jpg"
+                            fluid
+                        >
+                        </b-img>
+                    </figure>
+                </div>
             </div>
             <div class="row pb-3">
                 <div class="col">
                     <p class="indent">
-                        Бустер-компресори
-                        Tamsan
-                        забезпечують економічність і продуктивність завдяки
-                        всмоктувальному тиску 7, 10 і 13 бар і вихідному тиску
-                        повітря 40 бар. Різні комбінації дозволять задовольнити
-                        потребу в безперебійній подачі стисненого повітря при
-                        безперервній роботі в найважчих умовах, наприклад, на
-                        виробництві пластикових пляшок, харчової промисловості
-                        та інших галузях.
+                        Бустер-компресори Tamsan забезпечують економічність і
+                        продуктивність завдяки всмоктувальному тиску 7, 10 і 13
+                        бар і вихідному тиску повітря 40 бар. Різні комбінації
+                        дозволять задовольнити потребу в безперебійній подачі
+                        стисненого повітря при безперервній роботі в найважчих
+                        умовах, наприклад, на виробництві пластикових пляшок,
+                        харчової промисловості та інших галузях.
                     </p>
                 </div>
             </div>
@@ -48,7 +45,6 @@
                 <div class="col">
                     <h4>Технічні параметри компресорів TAMKO</h4>
                 </div>
-                
             </div>
 
             <div class="rowpb-3">
@@ -116,12 +112,28 @@
                     </div>
                 </div>
             </div>
-          
         </article>
     </div>
 </template>
 <script>
 export default {
-    layout: "default"
+    layout: "default",
+    data() {
+        return {
+            title: ` Високобарнi компресори Tamsan - ${process.env.siteName}`
+        };
+    },
+    head() {
+        return {
+            title: this.title,
+            meta: [
+                {
+                    hid: "AirSystems - Високобарнi компресори Tamsan",
+                    name: "AirSystems - Високобарнi компресори Tamsan",
+                    content: "AirSystems - Високобарнi компресори Tamsan"
+                }
+            ]
+        };
+    }
 };
 </script>

@@ -4,9 +4,9 @@
             <div class="row">
                 <div class="col">
                     <h1>
-                    Рекупрація тепла, виробленого компресором
-                </h1>
-                </div>                
+                        Рекупрація тепла, виробленого компресором
+                    </h1>
+                </div>
             </div>
             <div class="row pb-3">
                 <div class="col">
@@ -68,9 +68,9 @@
             <div class="row">
                 <div class="col">
                     <h4>
-                    Технічні дані
-                </h4>
-                </div>                
+                        Технічні дані
+                    </h4>
+                </div>
             </div>
             <div class="row pb-3">
                 <div class="col">
@@ -143,10 +143,9 @@
             <div class="row">
                 <div class="col">
                     <h4>
-                    Де використовувати рекупероване тепло з компресора
-                </h4>
+                        Де використовувати рекупероване тепло з компресора
+                    </h4>
                 </div>
-                
             </div>
             <div class="row pb-3">
                 <div class="col">
@@ -219,6 +218,23 @@
 </template>
 <script>
 export default {
-    layout: "default"
+    layout: "default",
+    data() {
+        return {
+            title: `Системи рекуперації тепла - ${process.env.siteName}`
+        };
+    },
+    head() {
+        return {
+            title: this.title,
+            meta: [
+                {
+                    hid: "AirSystems - Системи рекуперації тепла",
+                    name: "AirSystems - Системи рекуперації тепла",
+                    content: "AirSystems - Системи рекуперації тепла"
+                }
+            ]
+        };
+    }
 };
 </script>

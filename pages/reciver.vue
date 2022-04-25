@@ -3,11 +3,11 @@
         <article>
             <div class="row">
                 <div class="col">
-                     <h1>
-                    Ресивери для стисненого повітря горизонтальне та вертикальне
-                    виконання
-                </h1>
-                </div>               
+                    <h1>
+                        Ресивери для стисненого повітря горизонтальне та
+                        вертикальне виконання
+                    </h1>
+                </div>
             </div>
             <div class="row justify-content-center pb-2">
                 <figure>
@@ -29,7 +29,7 @@
                         <li>кран зливу конденсату</li>
                     </ul>
                 </div>
-            </div> 
+            </div>
             <div class="row pb-3">
                 <div class="col">
                     <div class="table-responsive">
@@ -52,61 +52,61 @@
                                 <tr>
                                     <td>Р 50.294</td>
                                     <td>0,05</td>
-                                     <td>1,0</td>
+                                    <td>1,0</td>
                                     <td>Гориз/вертик</td>
                                 </tr>
                                 <tr>
                                     <td>Р 65.294</td>
                                     <td>0.065</td>
-                                     <td>1,0</td>
+                                    <td>1,0</td>
                                     <td>Гориз/вертик</td>
                                 </tr>
-                                 <tr>
+                                <tr>
                                     <td>Р 100.370</td>
                                     <td>0.1</td>
-                                     <td>1,0</td>
+                                    <td>1,0</td>
                                     <td>Гориз/вертик</td>
                                 </tr>
                                 <tr>
                                     <td>Р 150.370</td>
                                     <td>0.15</td>
-                                     <td>1,0</td>
+                                    <td>1,0</td>
                                     <td>Гориз/вертик</td>
                                 </tr>
                                 <tr>
                                     <td>Р 180.370</td>
                                     <td>0.18</td>
-                                     <td>1,0</td>
+                                    <td>1,0</td>
                                     <td>Гориз/вертик</td>
                                 </tr>
                                 <tr>
                                     <td>Р 200.500</td>
                                     <td>0.2</td>
-                                     <td>1,0</td>
+                                    <td>1,0</td>
                                     <td>Гориз/вертик</td>
                                 </tr>
                                 <tr>
                                     <td>Р 200.600</td>
                                     <td>0.2</td>
-                                     <td>1,0</td>
+                                    <td>1,0</td>
                                     <td>Гориз/вертик</td>
                                 </tr>
-                                 <tr>
+                                <tr>
                                     <td>Р 270.500</td>
                                     <td>0.27</td>
-                                     <td>1,0</td>
+                                    <td>1,0</td>
                                     <td>Гориз/вертик</td>
                                 </tr>
                                 <tr>
                                     <td>Р 270.600</td>
                                     <td>0.27</td>
-                                     <td>1,0</td>
+                                    <td>1,0</td>
                                     <td>Гориз/вертик</td>
                                 </tr>
                                 <tr>
                                     <td>Р 300.600</td>
                                     <td>0.3</td>
-                                   <td>1,0</td>
+                                    <td>1,0</td>
                                     <td>Гориз/вертик</td>
                                 </tr>
                                 <tr>
@@ -133,13 +133,13 @@
                                     <td>1.0</td>
                                     <td>Гориз/вертик</td>
                                 </tr>
-                                                                <tr>
+                                <tr>
                                     <td>Р 900.800</td>
                                     <td>0.9</td>
                                     <td>1.0</td>
                                     <td>Гориз/вертик</td>
                                 </tr>
-                                                                <tr>
+                                <tr>
                                     <td>Р 900.800</td>
                                     <td>0.9</td>
                                     <td>1.6</td>
@@ -163,13 +163,13 @@
                                     <td>1.0</td>
                                     <td>Вертик</td>
                                 </tr>
-                                 <tr>
+                                <tr>
                                     <td>РВ 3200.1200</td>
                                     <td>3.2</td>
                                     <td>1.0</td>
                                     <td>Вертик</td>
                                 </tr>
-                                 <tr>
+                                <tr>
                                     <td>РВ 4000.1400</td>
                                     <td>4.0</td>
                                     <td>1.0</td>
@@ -181,7 +181,6 @@
                                     <td>1.0</td>
                                     <td>Вертик</td>
                                 </tr>
-
                             </tbody>
                         </table>
                     </div>
@@ -192,6 +191,23 @@
 </template>
 <script>
 export default {
-    layout: "default"
+    layout: "default",
+    data() {
+        return {
+            title: `Ресiвери - ${process.env.siteName}`
+        };
+    },
+    head() {
+        return {
+            title: this.title,
+            meta: [
+                {
+                    hid: "AirSystems - Ресiвери",
+                    name: "AirSystems - Ресiвери",
+                    content: "AirSystems - Ресiвери"
+                }
+            ]
+        };
+    }
 };
 </script>

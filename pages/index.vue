@@ -22,9 +22,14 @@
                 </div>
             </div>
         </section>
-        <h1 class="text-center">
-            Каталог обладнання
-        </h1>
+        <div class="row">
+            <div class="col">
+                <h1 class="text-center">
+                    Каталог обладнання
+                </h1>
+            </div>
+        </div>
+
         <section class="row justify-content-center">
             <div class="col-lg-3 col-md-6 d-flex">
                 <Card>
@@ -33,12 +38,12 @@
                     <CardBody>
                         <ul>
                             <li>
-                                <NuxtLink to="/vint-lmf">
+                                <NuxtLink to="gvyntovy-kompresory-lmf">
                                     LMF
                                 </NuxtLink>
                             </li>
                             <li>
-                                <NuxtLink to="/vint-tamsan">
+                                <NuxtLink to="gvyntovy-kompresory-tamsan">
                                     Tamsan
                                 </NuxtLink>
                             </li>
@@ -55,7 +60,9 @@
                     <CardBody>
                         <ul>
                             <li>
-                                <NuxtLink to="/bulkmatereal-tamsan">
+                                <NuxtLink
+                                    to="kompresory-dlya-sypkyh-materialiv-tamsan"
+                                >
                                     Tamsan
                                 </NuxtLink>
                             </li>
@@ -70,7 +77,7 @@
                     <CardBody>
                         <ul>
                             <li>
-                                <NuxtLink to="/high-tamsan">
+                                <NuxtLink to="vysokobarny-kompresory-tamsan">
                                     Tamsan
                                 </NuxtLink>
                             </li>
@@ -85,7 +92,7 @@
                     <CardBody>
                         <ul>
                             <li>
-                                <NuxtLink to="/dryair-tamsan">
+                                <NuxtLink to="osyshyvachi-povitrya-tamsan">
                                     Tamsan
                                 </NuxtLink>
                             </li>
@@ -109,7 +116,7 @@
                     <div class="card-body">
                         <ul>
                             <li>
-                                <NuxtLink to="/recuperation">
+                                <NuxtLink to="systemy-recureratsii-tepla">
                                     Системи <br />рекуперації тепла
                                 </NuxtLink>
                             </li>
@@ -129,7 +136,7 @@
                     <div class="card-body">
                         <ul>
                             <li>
-                                <NuxtLink to="/reciver">
+                                <NuxtLink to="reciver">
                                     Ресiвери
                                 </NuxtLink>
                             </li>
@@ -151,7 +158,9 @@
                     <div class="card-body">
                         <ul>
                             <li>
-                                <NuxtLink to="/consumables">
+                                <NuxtLink
+                                    to="vytratny-materialy-ta-zapasny-chastyny"
+                                >
                                     Витратні матеріали <br />та запасні частини
                                 </NuxtLink>
                             </li>
@@ -173,7 +182,9 @@
                     <div class="card-body">
                         <ul>
                             <li>
-                                <NuxtLink to="/dizel-tamsan">
+                                <NuxtLink
+                                    to="dizelny-portatyvny-kompresory-Tamsan"
+                                >
                                     Дизельнi портативнi гвинтові компресори
                                     серії TVK
                                 </NuxtLink>
@@ -238,17 +249,17 @@
                         <b-img src="img/clients/ashan.png" fluid> </b-img>
                     </figure>
                 </div>
-                                <div class="col-lg-4 col-md-6 col-sm-12 text-center">
+                <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
                         <b-img src="img/clients/rp275.png" fluid> </b-img>
                     </figure>
                 </div>
-                                <div class="col-lg-4 col-md-6 col-sm-12 text-center">
+                <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
                         <b-img src="img/clients/stol.png" fluid> </b-img>
                     </figure>
                 </div>
-                                <div class="col-lg-4 col-md-6 col-sm-12 text-center">
+                <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
                         <b-img src="img/clients/kura.png" fluid> </b-img>
                     </figure>
@@ -257,10 +268,25 @@
         </article>
     </div>
 </template>
-
 <script>
 export default {
-    layout: "default"
+    layout: "default",
+    data() {
+        return {
+            title: `Дизельнi портативнi гвинтовi компресори Tamsan - ${process.env.siteName}`
+        };
+    },
+    head() {
+        return {
+            title: this.title,
+            meta: [
+                {
+                    hid: "AirSystems - Головна",
+                    name: "AirSystems - Головна",
+                    content: "AirSystems - Головна"
+                }
+            ]
+        };
+    }
 };
-
 </script>

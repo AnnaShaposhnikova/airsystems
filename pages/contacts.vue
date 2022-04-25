@@ -16,11 +16,11 @@
                     </div>
                     <div class="pt-3">
                         <div>Телефон:</div>
-                         <Tel class="contacts-on-white" />
+                        <Tel class="contacts-on-white" />
                     </div>
                     <div class="pt-3">
                         <div>email:</div>
-                         <Mail class="contacts-on-white" />
+                        <Mail class="contacts-on-white" />
                     </div>
                     <div class=" pt-3 pb-3 contacts-on-white">
                         <a href="http://airsystems.com.ua/"
@@ -34,6 +34,23 @@
 </template>
 <script>
 export default {
-    layout: "default"
+    layout: "default",
+    data() {
+        return {
+            title: ` Контакти - ${process.env.siteName}`
+        };
+    },
+    head() {
+        return {
+            title: this.title,
+            meta: [
+                {
+                    hid: "AirSystems -  Контакти",
+                    name: "AirSystems -  Контакти",
+                    content: "AirSystems -  Контакти"
+                }
+            ]
+        };
+    }
 };
 </script>

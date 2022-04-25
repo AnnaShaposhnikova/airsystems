@@ -10,20 +10,18 @@
                 <h1>Гвинтовi компресори LMF</h1>
             </div>
         </div>
-          <div class="row justify-content-center pb-2"> 
-            
-            <figure >
-                <b-img class="lmf-lg" src="img/vint_index.jpg" fluid> </b-img>              
-            </figure>         
+        <div class="row justify-content-center pb-2">
+            <figure>
+                <b-img class="lmf-lg" src="img/vint_index.jpg" fluid> </b-img>
+            </figure>
         </div>
 
         <article class="row">
             <div class="col">
                 <p class="indent">
-                    LMF - австрійський
-                    виробник з досвідом 166 років поршневих, гвинтових
-                    повітряних та газових компресорів для промисловості та
-                    нафтогазової галузі.
+                    LMF - австрійський виробник з досвідом 166 років поршневих,
+                    гвинтових повітряних та газових компресорів для
+                    промисловості та нафтогазової галузі.
                 </p>
                 <p class="indent">
                     Компресорні системи LMF розроблені та виготовлені відповідно
@@ -51,10 +49,11 @@
             </div>
         </article>
         <article class="row">
-            
             <div class="col">
-                <div> 
-                    <h3 class="justify-content-center">Компресори гвинтові виробництва LMF серії LX</h3>
+                <div>
+                    <h3 class="justify-content-center">
+                        Компресори гвинтові виробництва LMF серії LX
+                    </h3>
                 </div>
                 <p class="indent">
                     LX SERIES Компресори забезпечують низькі капітальні та
@@ -82,8 +81,8 @@
                 <figure class="text-center">
                     <b-img src="img/lmf2.jpg" fluid> </b-img>
                 </figure>
-            </div>       
-       
+            </div>
+
             <div class="col-lg-4 col-sm-12">
                 <figure class="text-center">
                     <b-img src="img/lmf3.jpg" fluid> </b-img>
@@ -362,6 +361,23 @@
 </template>
 <script>
 export default {
-    layout: "default"
+    layout: "default",
+    data() {
+        return {
+            title: `Гвинтовi компресори LMF - ${process.env.siteName}`
+        };
+    },
+    head() {
+        return {
+            title: this.title,
+            meta: [
+                {
+                    hid: "AirSystems - Гвинтовi компресори LMF",
+                    name: "AirSystems - Гвинтовi компресори LMF",
+                    content: "AirSystems - Гвинтовi компресори LMF"
+                }
+            ]
+        };
+    }
 };
 </script>

@@ -3,13 +3,13 @@
         <article>
             <div class="row">
                 <div class="col">
-                <h1>
-                    Витратні матеріали та запасні частини
-                </h1>            
-           
-                <figure class="text-center m-3">
-                    <b-img src="img/consumables.jpg" fluid> </b-img>
-                </figure>
+                    <h1>
+                        Витратні матеріали та запасні частини
+                    </h1>
+
+                    <figure class="text-center m-3">
+                        <b-img src="img/consumables.jpg" fluid> </b-img>
+                    </figure>
                 </div>
             </div>
             <div class="row pb-3">
@@ -52,6 +52,24 @@
 </template>
 <script>
 export default {
-    layout: "default"
+    layout: "default",
+    data() {
+        return {
+            title: ` Витратні матеріали та запасні частини - ${process.env.siteName}`
+        };
+    },
+    head() {
+        return {
+            title: this.title,
+            meta: [
+                {
+                    hid: "AirSystems -  Витратні матеріали та запасні частини",
+                    name: "AirSystems -  Витратні матеріали та запасні частини",
+                    content:
+                        "AirSystems -  Витратні матеріали та запасні частини"
+                }
+            ]
+        };
+    }
 };
 </script>

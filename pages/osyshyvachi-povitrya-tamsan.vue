@@ -4,18 +4,14 @@
             <div class="row">
                 <div class="col">
                     <h1>
-                    Осушувачі повітря рефрежираторного типу
-                </h1>
+                        Осушувачі повітря рефрежираторного типу
+                    </h1>
                 </div>
-                
             </div>
             <div class="row justify-content-center pb-2">
-                
-                    <figure>
+                <figure>
                     <b-img src="img/dry/dry1.jpg" fluid> </b-img>
                 </figure>
-               
-                
             </div>
             <div class="row pb-3">
                 <div class="col">
@@ -86,11 +82,11 @@
                         </li>
                     </ul>
                 </div>
-            </div>  
+            </div>
 
             <div class="row  pb-3">
                 <div class="col">
-                      <div class="table-responsive">
+                    <div class="table-responsive">
                         <table class="table table-bordered table-striped">
                             <thead>
                                 <tr>
@@ -504,7 +500,7 @@
 
             <div class="row  pb-3">
                 <div class="col">
-                  <div class="table-responsive">
+                    <div class="table-responsive">
                         <table class="table table-bordered table-striped">
                             <thead>
                                 <tr>
@@ -762,6 +758,23 @@
 </template>
 <script>
 export default {
-    layout: "default"
+    layout: "default",
+    data() {
+        return {
+            title: `Осушувачі повітря - ${process.env.siteName}`
+        };
+    },
+    head() {
+        return {
+            title: this.title,
+            meta: [
+                {
+                    hid: "AirSystems - Осушувачі повітря",
+                    name: "AirSystems - Осушувачі повітря",
+                    content: "AirSystems - Осушувачі повітря"
+                }
+            ]
+        };
+    }
 };
 </script>

@@ -9,12 +9,11 @@
             <div class="row">
                 <div class="col">
                     <h1>
-                    Гвинтовi компресори Tamsan                  
-                </h1>
+                        Гвинтовi компресори Tamsan
+                    </h1>
                 </div>
             </div>
-             <div class="row justify-content-center pb-2">
-                
+            <div class="row justify-content-center pb-2">
                 <figure>
                     <b-img src="img/car1.jpg" fluid> </b-img>
                 </figure>
@@ -22,42 +21,33 @@
             <div class="row">
                 <div class="col">
                     <p class="indent">
-                        TAMSAN
-                        заснований у 1980 році з метою виробництва повітряних
-                        компресорів та запасних частин. Збільшення обсягу
-                        продажів вимагало від
-                       TAMSAN
-                        збільшення виробничої площі з 800 м2 до 8000 м2 у 2008
-                        році. Завдяки акценту на якість
-                        TAMSAN тепер
-                        експортує свою продукцію для повітряних компресорів до
-                        багатьох країн світу, особливо успішний у Європі. Зі
-                        зростанням експорту високоякісної продукції ім'я та
-                        репутація
-                        TAMSAN з кожним
-                        днем ​​стають все більш знайомими у світі стисненого
-                        повітря.
+                        TAMSAN заснований у 1980 році з метою виробництва
+                        повітряних компресорів та запасних частин. Збільшення
+                        обсягу продажів вимагало від TAMSAN збільшення
+                        виробничої площі з 800 м2 до 8000 м2 у 2008 році.
+                        Завдяки акценту на якість TAMSAN тепер експортує свою
+                        продукцію для повітряних компресорів до багатьох країн
+                        світу, особливо успішний у Європі. Зі зростанням
+                        експорту високоякісної продукції ім'я та репутація
+                        TAMSAN з кожним днем ​​стають все більш знайомими у
+                        світі стисненого повітря.
                     </p>
                     <p class="indent">
                         Стандартний асортимент масляних роторних гвинтових
                         компресорів в даний час містить понад 80 різних машин і
                         продовжує розширюватися. Крім того, розвиваючи та
                         використовуючи свої зв'язки з промисловими та
-                        академічними партнерами,
-                        TAMSAN прагне
-                        виводити на ринок нові продукти та технології. Будучи
-                        піонером у своєму секторі,
-                        TAMSAN
-                        передбачає постійне зростання продажів, розширення свого
-                        портфеля продуктів та подальше збільшення частки
-                        світового ринку.
+                        академічними партнерами, TAMSAN прагне виводити на ринок
+                        нові продукти та технології. Будучи піонером у своєму
+                        секторі, TAMSAN передбачає постійне зростання продажів,
+                        розширення свого портфеля продуктів та подальше
+                        збільшення частки світового ринку.
                     </p>
                     <p class="indent">
                         Висока якість повітряних компресорів з одного боку,
                         забезпечення якісного та швидкого обслуговування з
-                        іншого боку зробили
-                        TAMSAN однією з
-                        найбільш шанованих марок у своєму секторі.
+                        іншого боку зробили TAMSAN однією з найбільш шанованих
+                        марок у своєму секторі.
                     </p>
                 </div>
             </div>
@@ -65,25 +55,21 @@
         <article>
             <div class="row ">
                 <div class="col">
-<h3>
-                   Гвинтові компресори на ресивері та з осушувачем повітря                
-                </h3>
+                    <h3>
+                        Гвинтові компресори на ресивері та з осушувачем повітря
+                    </h3>
                 </div>
-
-                
             </div>
 
             <div class="row justify-content-center text-center">
                 <div class="col-lg-6 col-sm-12">
                     <figure>
-                        <b-img src="img/tamsan-page/tamsan1.png" fluid>
-                        </b-img>
+                        <b-img src="img/tamsan-page/tamsan1.png" fluid> </b-img>
                     </figure>
                 </div>
                 <div class="col-lg-6 col-sm-12">
                     <figure>
-                        <b-img src="img/tamsan-page/tamsan2.png" fluid>
-                        </b-img>
+                        <b-img src="img/tamsan-page/tamsan2.png" fluid> </b-img>
                     </figure>
                 </div>
             </div>
@@ -232,28 +218,24 @@
             <div class="row justify-content-center mb-3">
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <figure>
-                        <b-img src="img/tamsan-page/tamsan3.png" fluid>
-                        </b-img>
+                        <b-img src="img/tamsan-page/tamsan3.png" fluid> </b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <figure>
-                        <b-img src="img/tamsan-page/tamsan4.png" fluid>
-                        </b-img>
+                        <b-img src="img/tamsan-page/tamsan4.png" fluid> </b-img>
                     </figure>
                 </div>
             </div>
             <div class="row justify-content-center">
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <figure>
-                        <b-img src="img/tamsan-page/tamsan5.png" fluid>
-                        </b-img>
+                        <b-img src="img/tamsan-page/tamsan5.png" fluid> </b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <figure>
-                        <b-img src="img/tamsan-page/tamsan6.png" fluid>
-                        </b-img>
+                        <b-img src="img/tamsan-page/tamsan6.png" fluid> </b-img>
                     </figure>
                 </div>
             </div>
@@ -263,8 +245,8 @@
                 <div class="col">
                     <div>
                         <h3>
-                            Компресори гвинтові E series 4-22 кВт                      
-                         </h3>
+                            Компресори гвинтові E series 4-22 кВт
+                        </h3>
                     </div>
                     <p class="indent">
                         Перші прототипи компресорів моделі TVK E були розроблені
@@ -303,9 +285,9 @@
                         </figure>
                     </div>
                 </div>
-               <div class="row pb-3">
-                <div class="col">
-                    <div class="table-responsive ">
+                <div class="row pb-3">
+                    <div class="col">
+                        <div class="table-responsive ">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -532,15 +514,14 @@
             </div>
         </article>
         <article>
-             <div class="row">
-                 <div class="col">
-                      <h3>
-                             Компресори гвинтові E series 30-250 кВт                                             
-                        </h3>
-                 </div>
-                       
-                    </div>
-          
+            <div class="row">
+                <div class="col">
+                    <h3>
+                        Компресори гвинтові E series 30-250 кВт
+                    </h3>
+                </div>
+            </div>
+
             <div class="row">
                 <div class="col">
                     <h4>Готовий до роботи в важких умовах</h4>
@@ -925,7 +906,7 @@
 
             <div class="row justify-content-center text-center">
                 <div class="col-lg-3 col-md-6 col-sm-12">
-                    <figure> 
+                    <figure>
                         <b-img src="img/tamsan-page/tamsan16.jpg" fluid>
                         </b-img>
                     </figure>
@@ -954,6 +935,23 @@
 </template>
 <script>
 export default {
-    layout: "default"
+    layout: "default",
+    data() {
+        return {
+            title: `Гвинтовi компресори Tamsan - ${process.env.siteName}`
+        };
+    },
+    head() {
+        return {
+            title: this.title,
+            meta: [
+                {
+                    hid: "AirSystems - Гвинтовi компресори Tamsan",
+                    name: "AirSystems - Гвинтовi компресори Tamsan",
+                    content: "AirSystems - Гвинтовi компресори Tamsan"
+                }
+            ]
+        };
+    }
 };
 </script>
