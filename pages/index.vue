@@ -12,10 +12,10 @@
             <div class="col-lg-10">
                 <div class="carousel-wrapper">
                     <b-carousel
-                        indicators
-                        img-width="1024"
-                        img-height="480"
                         class="carousel"
+                        img-height="480"
+                        img-width="1024"
+                        indicators
                     >
                         <b-carousel-slide
                             img-src="/img/car1.jpg"
@@ -118,8 +118,8 @@
                     </h5>
                     <figure class="card-img">
                         <img
-                            src="/img/recuperation.jpg"
                             class="card-img-top img-fluid "
+                            src="/img/recuperation.jpg"
                         />
                     </figure>
                     <div class="card-body">
@@ -138,8 +138,8 @@
                     <h5 class="card-title py-3 text-center">Ресiвери</h5>
                     <figure class="card-img">
                         <img
-                            src="/img/reciver.jpg"
                             class="card-img-top img-fluid "
+                            src="/img/reciver.jpg"
                         />
                     </figure>
                     <div class="card-body">
@@ -160,8 +160,8 @@
                     </h5>
                     <figure class="card-img">
                         <img
-                            src="/img/consumables.jpg"
                             class="card-img-top img-fluid "
+                            src="/img/consumables.jpg"
                         />
                     </figure>
                     <div class="card-body">
@@ -184,8 +184,8 @@
                     </h5>
                     <figure class="card-img">
                         <img
-                            src="/img/dizel.jpg"
                             class="card-img-top img-fluid "
+                            src="/img/dizel.jpg"
                         />
                     </figure>
                     <div class="card-body">
@@ -210,17 +210,17 @@
             </div>
             <div class="col-sm-10">
                 <h4>
-                    <b-icon icon="check" font-scale="2"></b-icon>
+                    <b-icon font-scale="2" icon="check"></b-icon>
                     Надійне, якісне
                     обладнання та сервіс
                 </h4>
                 <h4>
-                    <b-icon icon="check" font-scale="2"></b-icon>
+                    <b-icon font-scale="2" icon="check"></b-icon>
                     Великий досвід
                     роботи на ринку України
                 </h4>
                 <h4>
-                    <b-icon icon="check" font-scale="2"></b-icon>
+                    <b-icon font-scale="2" icon="check"></b-icon>
                     Індивідуальний
                     підхід до кожного клієнта
                 </h4>
@@ -233,47 +233,47 @@
             <div class="row justify-content-center">
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
-                        <b-img src="/img/clients/carlsberg.png" fluid></b-img>
+                        <b-img fluid src="/img/clients/carlsberg.png"></b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
-                        <b-img src="/img/clients/kav.jpg" fluid></b-img>
+                        <b-img fluid src="/img/clients/kav.jpg"></b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
-                        <b-img src="/img/clients/knauf.png" fluid></b-img>
+                        <b-img fluid src="/img/clients/knauf.png"></b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
-                        <b-img src="/img/clients/parash.png" fluid></b-img>
+                        <b-img fluid src="/img/clients/parash.png"></b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
-                        <b-img src="/img/clients/skf.jpg" fluid></b-img>
+                        <b-img fluid src="/img/clients/skf.jpg"></b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
-                        <b-img src="/img/clients/ashan.png" fluid></b-img>
+                        <b-img fluid src="/img/clients/ashan.png"></b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
-                        <b-img src="/img/clients/rp275.png" fluid></b-img>
+                        <b-img fluid src="/img/clients/rp275.png"></b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
-                        <b-img src="/img/clients/stol.png" fluid></b-img>
+                        <b-img fluid src="/img/clients/stol.png"></b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
-                        <b-img src="/img/clients/kura.png" fluid></b-img>
+                        <b-img fluid src="/img/clients/kura.png"></b-img>
                     </figure>
                 </div>
             </div>

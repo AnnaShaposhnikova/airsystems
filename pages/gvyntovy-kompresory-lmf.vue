@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <div class="row justify-content-center pt-5">
             <figure class="block">
-                <b-img src="/img/lmf-brand.png" fluid></b-img>
+                <b-img fluid src="/img/lmf-brand.png"></b-img>
             </figure>
         </div>
         <div class="row">
@@ -12,7 +12,7 @@
         </div>
         <div class="row justify-content-center pb-2">
             <figure>
-                <b-img class="lmf-lg" src="/img/vint_index.jpg" fluid></b-img>
+                <b-img class="lmf-lg" fluid src="/img/vint_index.jpg"></b-img>
             </figure>
         </div>
 
@@ -74,18 +74,18 @@
         <div class="row justify-content-center">
             <div class="col-lg-4 col-sm-12">
                 <figure class="text-center">
-                    <b-img src="/img/lmf1.jpg" fluid></b-img>
+                    <b-img fluid src="/img/lmf1.jpg"></b-img>
                 </figure>
             </div>
             <div class="col-lg-4 col-sm-12">
                 <figure class="text-center">
-                    <b-img src="/img/lmf2.jpg" fluid></b-img>
+                    <b-img fluid src="/img/lmf2.jpg"></b-img>
                 </figure>
             </div>
 
             <div class="col-lg-4 col-sm-12">
                 <figure class="text-center">
-                    <b-img src="/img/lmf3.jpg" fluid></b-img>
+                    <b-img fluid src="/img/lmf3.jpg"></b-img>
                 </figure>
             </div>
         </div>
@@ -96,7 +96,7 @@
                     <table class="table table-bordered table-striped">
                         <thead>
                         <tr>
-                            <th rowspan="3" id="first">Модель</th>
+                            <th id="first" rowspan="3">Модель</th>
                             <th rowspan="3">
                                 Потужність,<br/>
                                 кВт
@@ -121,7 +121,7 @@
                             <td class="th">13 бар</td>
                         </tr>
                         <tr>
-                            <td colspan="3" class="th">м3/хв</td>
+                            <td class="th" colspan="3">м3/хв</td>
                         </tr>
                         </thead>
                         <tbody>

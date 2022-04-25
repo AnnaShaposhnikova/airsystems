@@ -10,7 +10,7 @@
         <div class="row pb-3">
             <div class="col">
                 <figure class="justify-content-center">
-                    <b-img src="/img/services.png" fluid class="mx-auto d-block">
+                    <b-img class="mx-auto d-block" fluid src="/img/services.png">
                     </b-img>
                 </figure>
             </div>

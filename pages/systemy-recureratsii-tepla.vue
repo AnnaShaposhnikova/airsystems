@@ -26,7 +26,7 @@
             </div>
             <div class="row justify-content-center pb-2">
                 <figure>
-                    <b-img src="/img/recuperation/recuperation1.jpg" fluid>
+                    <b-img fluid src="/img/recuperation/recuperation1.jpg">
                     </b-img>
                 </figure>
             </div>
@@ -77,64 +77,64 @@
                     <div class="table-responsive">
                         <table class="table table-bordered table-striped">
                             <tbody>
-                                <tr>
-                                    <td style="text-align: start">
-                                        Потужність компресора, кВт
-                                    </td>
-                                    <td>7-22</td>
-                                    <td>30-75</td>
-                                    <td>90-250</td>
-                                </tr>
-                                <tr>
-                                    <td style="text-align: start">Рама</td>
-                                    <td>Рама №1</td>
-                                    <td>Рама №2</td>
-                                    <td>Рама №3</td>
-                                </tr>
-                                <tr>
-                                    <td style="text-align: start">Модель</td>
-                                    <td>7-22</td>
-                                    <td>30-75</td>
-                                    <td>90-250</td>
-                                </tr>
-                                <tr>
-                                    <td style="text-align: start">
-                                        Вхідна температура води, ºС
-                                    </td>
-                                    <td>10-40</td>
-                                    <td>10-40</td>
-                                    <td>10-40</td>
-                                </tr>
-                                <tr>
-                                    <td style="text-align: start">
-                                        Вихідна температура води, ºС
-                                    </td>
-                                    <td>45-80</td>
-                                    <td>45-80</td>
-                                    <td>45-80</td>
-                                </tr>
-                                <tr>
-                                    <td style="text-align: start">
-                                        Потужншсть, що передається, кВт
-                                    </td>
-                                    <td>5-15</td>
-                                    <td>20-50</td>
-                                    <td>65-180</td>
-                                </tr>
-                                <tr>
-                                    <td style="text-align: start">
-                                        Габарити, мм
-                                    </td>
-                                    <td>350×500×720</td>
-                                    <td>500×600×850</td>
-                                    <td>700×700×940</td>
-                                </tr>
-                                <tr>
-                                    <td style="text-align: start">Вага, кг</td>
-                                    <td>35</td>
-                                    <td>60</td>
-                                    <td>90</td>
-                                </tr>
+                            <tr>
+                                <td style="text-align: start">
+                                    Потужність компресора, кВт
+                                </td>
+                                <td>7-22</td>
+                                <td>30-75</td>
+                                <td>90-250</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: start">Рама</td>
+                                <td>Рама №1</td>
+                                <td>Рама №2</td>
+                                <td>Рама №3</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: start">Модель</td>
+                                <td>7-22</td>
+                                <td>30-75</td>
+                                <td>90-250</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: start">
+                                    Вхідна температура води, ºС
+                                </td>
+                                <td>10-40</td>
+                                <td>10-40</td>
+                                <td>10-40</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: start">
+                                    Вихідна температура води, ºС
+                                </td>
+                                <td>45-80</td>
+                                <td>45-80</td>
+                                <td>45-80</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: start">
+                                    Потужншсть, що передається, кВт
+                                </td>
+                                <td>5-15</td>
+                                <td>20-50</td>
+                                <td>65-180</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: start">
+                                    Габарити, мм
+                                </td>
+                                <td>350×500×720</td>
+                                <td>500×600×850</td>
+                                <td>700×700×940</td>
+                            </tr>
+                            <tr>
+                                <td style="text-align: start">Вага, кг</td>
+                                <td>35</td>
+                                <td>60</td>
+                                <td>90</td>
+                            </tr>
                             </tbody>
                         </table>
                     </div>
@@ -152,42 +152,42 @@
                     <div class="table-responsive">
                         <table class="table table-bordered ">
                             <tbody>
-                                <tr>
-                                    <td>
-                                        <b-img
-                                            src="/img/recuperation/rec1.jpg"
-                                            fluid
-                                        >
-                                        </b-img>
-                                    </td>
-                                    <td>
-                                        <b-img
-                                            src="/img/recuperation/rec2.jpg"
-                                            fluid
-                                        >
-                                        </b-img>
-                                    </td>
-                                    <td>
-                                        <b-img
-                                            src="/img/recuperation/rec3.jpg"
-                                            fluid
-                                        >
-                                        </b-img>
-                                    </td>
-                                    <td>
-                                        <b-img
-                                            src="/img/recuperation/rec4.jpg"
-                                            fluid
-                                        >
-                                        </b-img>
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td>Водопостачання</td>
-                                    <td>Обiгрiв</td>
-                                    <td>Технологiчнi процеси</td>
-                                    <td>Гаряче повiтря для oбiгрiву</td>
-                                </tr>
+                            <tr>
+                                <td>
+                                    <b-img
+                                        fluid
+                                        src="/img/recuperation/rec1.jpg"
+                                    >
+                                    </b-img>
+                                </td>
+                                <td>
+                                    <b-img
+                                        fluid
+                                        src="/img/recuperation/rec2.jpg"
+                                    >
+                                    </b-img>
+                                </td>
+                                <td>
+                                    <b-img
+                                        fluid
+                                        src="/img/recuperation/rec3.jpg"
+                                    >
+                                    </b-img>
+                                </td>
+                                <td>
+                                    <b-img
+                                        fluid
+                                        src="/img/recuperation/rec4.jpg"
+                                    >
+                                    </b-img>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>Водопостачання</td>
+                                <td>Обiгрiв</td>
+                                <td>Технологiчнi процеси</td>
+                                <td>Гаряче повiтря для oбiгрiву</td>
+                            </tr>
                             </tbody>
                         </table>
                     </div>
