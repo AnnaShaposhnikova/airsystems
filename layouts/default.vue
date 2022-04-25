@@ -103,7 +103,7 @@
                         </div>
                         <div class="indent">
                             <NuxtLink
-                                to="/dizelny-portatyvny-kompresory-Tamsan"
+                                to="/dizelny-portatyvny-kompresory-tamsan"
                                 class="footernav"
                                 >Дизельнi портативнi гвинтові компресори серії
                                 TVK</NuxtLink

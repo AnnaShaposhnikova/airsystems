@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col">
                 <h1>
-                    Повiтряни Системи - продаж та обслуговування компресорного обладнання
+                    Повітряні Системи - продаж та обслуговування компресорного обладнання
                 </h1>
             </div>
         </div>
@@ -41,8 +41,8 @@
         <section class="row justify-content-center">
             <div class="col-lg-3 col-md-6 d-flex">
                 <Card>
-                    <CardTitle>Гвинтовi <br />компресори</CardTitle>
-                    <CardImage src="/img/vint_index.jpg" />
+                    <CardTitle>Гвинтовi <br/>компресори</CardTitle>
+                    <CardImage src="/img/vint_index.jpg"/>
                     <CardBody>
                         <ul>
                             <li>
@@ -62,9 +62,10 @@
             <div class="col-lg-3 col-md-6  d-flex">
                 <Card>
                     <CardTitle
-                        >Компресори для сипких <br />матерiалiв</CardTitle
+                    >Компресори для сипких <br/>матерiалiв
+                    </CardTitle
                     >
-                    <CardImage src="/img/silobas-yan-2.jpg" />
+                    <CardImage src="/img/silobas-yan-2.jpg"/>
                     <CardBody>
                         <ul>
                             <li>
@@ -80,8 +81,8 @@
             </div>
             <div class="col-lg-3 col-md-6 d-flex">
                 <Card>
-                    <CardTitle>Высокобарнi<br />компресори</CardTitle>
-                    <CardImage src="/img/highbarcompressor.jpg" />
+                    <CardTitle>Высокобарнi<br/>компресори</CardTitle>
+                    <CardImage src="/img/highbarcompressor.jpg"/>
                     <CardBody>
                         <ul>
                             <li>
@@ -96,7 +97,7 @@
             <div class="col-lg-3 col-md-6 d-flex">
                 <Card>
                     <CardTitle>Осушувачі повітря</CardTitle>
-                    <CardImage src="/img/dry.jpg" />
+                    <CardImage src="/img/dry.jpg"/>
                     <CardBody>
                         <ul>
                             <li>
@@ -113,7 +114,7 @@
             <div class="col-lg-3 col-md-6 d-flex">
                 <article class="card card1 flex-fill">
                     <h5 class="card-title py-3 text-center">
-                        Системи <br />рекуперації тепла
+                        Системи <br/>рекуперації тепла
                     </h5>
                     <figure class="card-img">
                         <img
@@ -125,7 +126,7 @@
                         <ul>
                             <li>
                                 <NuxtLink to="/systemy-recureratsii-tepla">
-                                    Системи <br />рекуперації тепла
+                                    Системи <br/>рекуперації тепла
                                 </NuxtLink>
                             </li>
                         </ul>
@@ -155,7 +156,7 @@
             <div class="col-lg-3 col-md-6 d-flex">
                 <article class="card card1 flex-fill">
                     <h5 class="card-title py-3 text-center">
-                        Витратні матеріали <br />та запасні частини
+                        Витратні матеріали <br/>та запасні частини
                     </h5>
                     <figure class="card-img">
                         <img
@@ -169,7 +170,7 @@
                                 <NuxtLink
                                     to="/vytratny-materialy-ta-zapasny-chastyny"
                                 >
-                                    Витратні матеріали <br />та запасні частини
+                                    Витратні матеріали <br/>та запасні частини
                                 </NuxtLink>
                             </li>
                         </ul>
@@ -191,7 +192,7 @@
                         <ul>
                             <li>
                                 <NuxtLink
-                                    to="/dizelny-portatyvny-kompresory-Tamsan"
+                                    to="/dizelny-portatyvny-kompresory-tamsan"
                                 >
                                     Дизельнi портативнi гвинтові компресори
                                     серії TVK
@@ -209,15 +210,18 @@
             </div>
             <div class="col-sm-10">
                 <h4>
-                    <b-icon icon="check" font-scale="2"></b-icon>Надійне, якісне
+                    <b-icon icon="check" font-scale="2"></b-icon>
+                    Надійне, якісне
                     обладнання та сервіс
                 </h4>
                 <h4>
-                    <b-icon icon="check" font-scale="2"></b-icon> Великий досвід
+                    <b-icon icon="check" font-scale="2"></b-icon>
+                    Великий досвід
                     роботи на ринку України
                 </h4>
                 <h4>
-                    <b-icon icon="check" font-scale="2"></b-icon> Індивідуальний
+                    <b-icon icon="check" font-scale="2"></b-icon>
+                    Індивідуальний
                     підхід до кожного клієнта
                 </h4>
             </div>
@@ -229,47 +233,47 @@
             <div class="row justify-content-center">
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
-                        <b-img src="/img/clients/carlsberg.png" fluid> </b-img>
+                        <b-img src="/img/clients/carlsberg.png" fluid></b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
-                        <b-img src="/img/clients/kav.jpg" fluid> </b-img>
+                        <b-img src="/img/clients/kav.jpg" fluid></b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
-                        <b-img src="/img/clients/knauf.png" fluid> </b-img>
+                        <b-img src="/img/clients/knauf.png" fluid></b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
-                        <b-img src="/img/clients/parash.png" fluid> </b-img>
+                        <b-img src="/img/clients/parash.png" fluid></b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
-                        <b-img src="/img/clients/skf.jpg" fluid> </b-img>
+                        <b-img src="/img/clients/skf.jpg" fluid></b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
-                        <b-img src="/img/clients/ashan.png" fluid> </b-img>
+                        <b-img src="/img/clients/ashan.png" fluid></b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
-                        <b-img src="/img/clients/rp275.png" fluid> </b-img>
+                        <b-img src="/img/clients/rp275.png" fluid></b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
-                        <b-img src="/img/clients/stol.png" fluid> </b-img>
+                        <b-img src="/img/clients/stol.png" fluid></b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">
                     <figure>
-                        <b-img src="/img/clients/kura.png" fluid> </b-img>
+                        <b-img src="/img/clients/kura.png" fluid></b-img>
                     </figure>
                 </div>
             </div>
@@ -281,7 +285,7 @@ export default {
     layout: "default",
     data() {
         return {
-            title: `Дизельнi портативнi гвинтовi компресори Tamsan - ${process.env.siteName}`
+            title: `Повітряні Системи - продаж та обслуговування компресорного обладнання  - ${process.env.siteName}`
         };
     },
     head() {
