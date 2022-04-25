@@ -1,10 +1,5 @@
 <template>
     <div class="container-fluid">
-        <div class="row justify-content-center pt-5">
-            <figure class="block">
-                <b-img fluid src="/img/tamsan-brand.png"></b-img>
-            </figure>
-        </div>
         <article>
             <div class="row">
                 <div class="col">

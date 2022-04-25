@@ -1,10 +1,5 @@
 <template>
     <div class="container-fluid">
-        <div class="row justify-content-center pt-5">
-            <figure class="block">
-                <b-img fluid src="/img/lmf-brand.png"></b-img>
-            </figure>
-        </div>
         <div class="row">
             <div class="col">
                 <h1>Гвинтовi компресори LMF</h1>
