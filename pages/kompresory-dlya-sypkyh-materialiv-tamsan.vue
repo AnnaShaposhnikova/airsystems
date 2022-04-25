@@ -119,14 +119,9 @@
 <script>
 export default {
     layout: "default",
-    data() {
-        return {
-            title: `Компресори для сипких матерiалiв Tamsan - ${process.env.siteName}`
-        };
-    },
     head() {
         return {
-            title: this.title,
+            title: `Компресори для сипких матерiалiв Tamsan - ${process.env.siteName}`,
             meta: [
                 {
                     hid: "AirSystems - Компресори для сипких матерiалiв Tamsan",

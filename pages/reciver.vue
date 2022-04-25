@@ -192,14 +192,9 @@
 <script>
 export default {
     layout: "default",
-    data() {
-        return {
-            title: `Ресiвери - ${process.env.siteName}`
-        };
-    },
     head() {
         return {
-            title: this.title,
+            title: `Ресiвери - ${process.env.siteName}`,
             meta: [
                 {
                     hid: "AirSystems - Ресiвери",

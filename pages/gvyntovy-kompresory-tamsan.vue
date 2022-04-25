@@ -936,14 +936,9 @@
 <script>
 export default {
     layout: "default",
-    data() {
-        return {
-            title: `Гвинтовi компресори Tamsan - ${process.env.siteName}`
-        };
-    },
     head() {
         return {
-            title: this.title,
+            title: `Гвинтовi компресори Tamsan - ${process.env.siteName}`,
             meta: [
                 {
                     hid: "AirSystems - Гвинтовi компресори Tamsan",

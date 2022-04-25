@@ -283,14 +283,9 @@
 <script>
 export default {
     layout: "default",
-    data() {
-        return {
-            title: `Повітряні Системи - продаж та обслуговування компресорного обладнання  - ${process.env.siteName}`
-        };
-    },
     head() {
         return {
-            title: this.title,
+            title: `Повітряні Системи - продаж та обслуговування компресорного обладнання  - ${process.env.siteName}`,
             meta: [
                 {
                     hid: "AirSystems - Головна",

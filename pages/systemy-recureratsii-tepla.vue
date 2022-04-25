@@ -219,14 +219,9 @@
 <script>
 export default {
     layout: "default",
-    data() {
-        return {
-            title: `Системи рекуперації тепла - ${process.env.siteName}`
-        };
-    },
     head() {
         return {
-            title: this.title,
+            title: `Системи рекуперації тепла - ${process.env.siteName}`,
             meta: [
                 {
                     hid: "AirSystems - Системи рекуперації тепла",

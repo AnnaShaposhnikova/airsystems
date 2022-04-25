@@ -118,14 +118,9 @@
 <script>
 export default {
     layout: "default",
-    data() {
-        return {
-            title: ` Високобарнi компресори Tamsan - ${process.env.siteName}`
-        };
-    },
     head() {
         return {
-            title: this.title,
+            title: `Високобарнi компресори Tamsan - ${process.env.siteName}`,
             meta: [
                 {
                     hid: "AirSystems - Високобарнi компресори Tamsan",

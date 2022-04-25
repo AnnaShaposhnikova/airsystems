@@ -53,20 +53,14 @@
 <script>
 export default {
     layout: "default",
-    data() {
-        return {
-            title: ` Витратні матеріали та запасні частини - ${process.env.siteName}`
-        };
-    },
     head() {
         return {
-            title: this.title,
+            title: `Витратні матеріали та запасні частини - ${process.env.siteName}`,
             meta: [
                 {
                     hid: "AirSystems -  Витратні матеріали та запасні частини",
                     name: "AirSystems -  Витратні матеріали та запасні частини",
-                    content:
-                        "AirSystems -  Витратні матеріали та запасні частини"
+                    content: "AirSystems -  Витратні матеріали та запасні частини",
                 }
             ]
         };

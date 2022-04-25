@@ -759,14 +759,9 @@
 <script>
 export default {
     layout: "default",
-    data() {
-        return {
-            title: `Осушувачі повітря - ${process.env.siteName}`
-        };
-    },
     head() {
         return {
-            title: this.title,
+            title: `Осушувачі повітря - ${process.env.siteName}`,
             meta: [
                 {
                     hid: "AirSystems - Осушувачі повітря",

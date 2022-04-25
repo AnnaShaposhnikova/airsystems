@@ -314,14 +314,9 @@
 <script>
 export default {
     layout: "default",
-    data() {
-        return {
-            title: `Дизельнi портативнi гвинтовi компресори серії TVK - ${process.env.siteName}`
-        };
-    },
     head() {
         return {
-            title: this.title,
+            title: `Дизельнi портативнi гвинтовi компресори серії TVK - ${process.env.siteName}`,
             meta: [
                 {
                     hid:

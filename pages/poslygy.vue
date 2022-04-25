@@ -36,14 +36,9 @@
 <script>
 export default {
     layout: "default",
-    data() {
-        return {
-            title: `Послуги - ${process.env.siteName}`
-        };
-    },
     head() {
         return {
-            title: this.title,
+            title: `Послуги - ${process.env.siteName}`,
             meta: [
                 {
                     hid: "AirSystems - Послуги",

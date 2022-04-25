@@ -42,14 +42,9 @@
 <script>
 export default {
     layout: "default",
-    data() {
-        return {
-            title: `О нас - ${process.env.siteName}`
-        };
-    },
     head() {
         return {
-            title: this.title,
+            title: `О нас - ${process.env.siteName}`,
             meta: [
                 {
                     hid: "AirSystems - О нас",

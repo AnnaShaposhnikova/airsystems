@@ -22,11 +22,6 @@
                         <div>email:</div>
                         <Mail class="contacts-on-white" />
                     </div>
-                    <div class=" pt-3 pb-3 contacts-on-white">
-                        <a href="http://airsystems.com.ua/"
-                            >www.airsystems.com.ua</a
-                        >
-                    </div>
                 </div>
             </div>
         </article>
@@ -35,14 +30,9 @@
 <script>
 export default {
     layout: "default",
-    data() {
-        return {
-            title: ` Контакти - ${process.env.siteName}`
-        };
-    },
     head() {
         return {
-            title: this.title,
+            title: ` Контакти - ${process.env.siteName}`,
             meta: [
                 {
                     hid: "AirSystems -  Контакти",
