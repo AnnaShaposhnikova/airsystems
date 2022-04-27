@@ -124,11 +124,9 @@ export default {
             title: `Компресори для сипких матерiалiв Tamsan - ${process.env.siteName}`,
             meta: [
                 {
-                    hid: "AirSystems - Компресори для сипких матерiалiв Tamsan",
-                    name:
-                        "AirSystems - Компресори для сипких матерiалiв Tamsan",
-                    content:
-                        "AirSystems - Компресори для сипких матерiалiв Tamsan"
+
+                    name: "description",
+                    content: "AirSystems - Компресори для сипких матерiалiв Tamsan"
                 }
             ]
         };

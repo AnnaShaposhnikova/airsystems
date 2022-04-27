@@ -34,9 +34,8 @@ export default {
             title: ` Контакти - ${process.env.siteName}`,
             meta: [
                 {
-                    hid: "AirSystems -  Контакти",
-                    name: "AirSystems -  Контакти",
-                    content: "AirSystems -  Контакти"
+                    name: "description",
+                    content: "AirSystems - Контакти"
                 }
             ]
         };

@@ -123,8 +123,7 @@ export default {
             title: `Високобарнi компресори Tamsan - ${process.env.siteName}`,
             meta: [
                 {
-                    hid: "AirSystems - Високобарнi компресори Tamsan",
-                    name: "AirSystems - Високобарнi компресори Tamsan",
+                    name: "description",
                     content: "AirSystems - Високобарнi компресори Tamsan"
                 }
             ]

@@ -224,8 +224,7 @@ export default {
             title: `Системи рекуперації тепла - ${process.env.siteName}`,
             meta: [
                 {
-                    hid: "AirSystems - Системи рекуперації тепла",
-                    name: "AirSystems - Системи рекуперації тепла",
+                    name: "description",
                     content: "AirSystems - Системи рекуперації тепла"
                 }
             ]

@@ -288,8 +288,7 @@ export default {
             title: `Повітряні Системи - продаж та обслуговування компресорного обладнання  - ${process.env.siteName}`,
             meta: [
                 {
-                    hid: "AirSystems - Головна",
-                    name: "AirSystems - Головна",
+                    name: "description",
                     content: "AirSystems - Головна"
                 }
             ]

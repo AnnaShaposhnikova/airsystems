@@ -197,8 +197,7 @@ export default {
             title: `Ресiвери - ${process.env.siteName}`,
             meta: [
                 {
-                    hid: "AirSystems - Ресiвери",
-                    name: "AirSystems - Ресiвери",
+                    name: "description",
                     content: "AirSystems - Ресiвери"
                 }
             ]

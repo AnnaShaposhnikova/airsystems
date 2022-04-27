@@ -764,8 +764,7 @@ export default {
             title: `Осушувачі повітря - ${process.env.siteName}`,
             meta: [
                 {
-                    hid: "AirSystems - Осушувачі повітря",
-                    name: "AirSystems - Осушувачі повітря",
+                    name: "description",
                     content: "AirSystems - Осушувачі повітря"
                 }
             ]

@@ -47,8 +47,7 @@ export default {
             title: `О нас - ${process.env.siteName}`,
             meta: [
                 {
-                    hid: "AirSystems - О нас",
-                    name: "AirSystems - О нас",
+                    name: "description",
                     content: "AirSystems - О нас"
                 }
             ]

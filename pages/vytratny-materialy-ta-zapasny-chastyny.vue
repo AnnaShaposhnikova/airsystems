@@ -58,8 +58,7 @@ export default {
             title: `Витратні матеріали та запасні частини - ${process.env.siteName}`,
             meta: [
                 {
-                    hid: "AirSystems -  Витратні матеріали та запасні частини",
-                    name: "AirSystems -  Витратні матеріали та запасні частини",
+                    name: "description",
                     content: "AirSystems -  Витратні матеріали та запасні частини",
                 }
             ]

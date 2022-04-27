@@ -319,8 +319,7 @@ export default {
             title: `Дизельнi портативнi гвинтовi компресори серії TVK - ${process.env.siteName}`,
             meta: [
                 {
-                    hid: "AirSystems - Дизельнi портативнi гвинтовi компресори серії TVK",
-                    name: "AirSystems - Дизельнi портативнi гвинтовi компресори серії TVK",
+                    name: "description",
                     content: "AirSystems - Дизельнi портативнi гвинтовi компресори серії TVK"
                 }
             ]

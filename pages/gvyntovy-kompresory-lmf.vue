@@ -362,8 +362,7 @@ export default {
             title: `Гвинтовi компресори LMF - ${process.env.siteName}`,
             meta: [
                 {
-                    hid: "AirSystems - Гвинтовi компресори LMF",
-                    name: "AirSystems - Гвинтовi компресори LMF",
+                    name: "description",
                     content: "AirSystems - Гвинтовi компресори LMF"
                 }
             ]

@@ -41,8 +41,7 @@ export default {
             title: `Послуги - ${process.env.siteName}`,
             meta: [
                 {
-                    hid: "AirSystems - Послуги",
-                    name: "AirSystems - Послуги",
+                    name: "description",
                     content: "AirSystems - Послуги"
                 }
             ]

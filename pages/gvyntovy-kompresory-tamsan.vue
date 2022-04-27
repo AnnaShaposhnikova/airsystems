@@ -936,8 +936,7 @@ export default {
             title: `Гвинтовi компресори Tamsan - ${process.env.siteName}`,
             meta: [
                 {
-                    hid: "AirSystems - Гвинтовi компресори Tamsan",
-                    name: "AirSystems - Гвинтовi компресори Tamsan",
+                    name: "description",
                     content: "AirSystems - Гвинтовi компресори Tamsan"
                 }
             ]
