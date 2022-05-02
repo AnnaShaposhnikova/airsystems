@@ -123,8 +123,14 @@ export default {
             title: `Високобарнi компресори Tamsan - ${process.env.siteName}`,
             meta: [
                 {
+                    hid: "description",
                     name: "description",
                     content: "AirSystems - Високобарнi компресори Tamsan"
+                },
+                {
+                    hid: "keywords",
+                    name: "keywords",
+                    content: "компрессор высокого давления, компресор високого тиску"
                 }
             ]
         };

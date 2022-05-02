@@ -41,8 +41,14 @@ export default {
             title: `Послуги - ${process.env.siteName}`,
             meta: [
                 {
+                    hid: "description",
                     name: "description",
                     content: "AirSystems - Послуги"
+                },
+                {
+                    hid: "keywords",
+                    name: "keywords",
+                    content: "ремонт компрессора, техническое обслуживание компрессора, капитальный ремонт компрессора,  ремонт винтового блока, ремонт компресора, технічне обслуговування компресора, капітальний ремонт компресора, ремонт гвинтового блоку, ремонт Atlas Copco, купить Atlas Copco, сервисное обслуживание Atlas Copco, капитальный ремонт Atlas Copco, ремонт Atlas Copco, купити Atlas Copco, сервісне обслуговування Atlas Copco, капітальний ремонт Atlas Copco"
                 }
             ]
         };

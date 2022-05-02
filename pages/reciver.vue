@@ -197,8 +197,14 @@ export default {
             title: `Ресiвери - ${process.env.siteName}`,
             meta: [
                 {
+                    hid: "description",
                     name: "description",
                     content: "AirSystems - Ресiвери"
+                },
+                {
+                    hid: "keywords",
+                    name: "keywords",
+                    content: "ресивер, купить ресивер, ресивер 200литров, ресивер 500 литров, ресивер 900 литров, купити ресівер, ресівер 200 літрів, ресівер 500 літрів, ресівер 900 літрів"
                 }
             ]
         };

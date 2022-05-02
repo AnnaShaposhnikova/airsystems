@@ -124,9 +124,14 @@ export default {
             title: `Компресори для сипких матерiалiв Tamsan - ${process.env.siteName}`,
             meta: [
                 {
-
+                    hid: "description",
                     name: "description",
                     content: "AirSystems - Компресори для сипких матерiалiв Tamsan"
+                },
+                {
+                    hid: "keywords",
+                    name: "keywords",
+                    content: "компрессор для сыпучих материалов, компрессор для цемента, купить компрессор для сыпучих материалов, компресор для сипких матеріалів, компресор для цементу, купити компресор для сипких матеріалів"
                 }
             ]
         };

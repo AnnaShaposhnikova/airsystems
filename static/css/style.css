@@ -63,22 +63,22 @@ legend {
 
 h1,
 .h1 {
-    font-size: calc(1.375rem + 1.1vw);
+    font-size: calc(1.375rem + 0.9vw);
 }
 
 h2,
 .h2 {
-    font-size: calc(1.325rem + 0.8vw);
+    font-size: calc(1.325rem + 0.7vw);
 }
 
 h3,
 .h3 {
-    font-size: calc(1.3rem + 0.6vw);
+    font-size: calc(1.3rem + 0.5vw);
 }
 
 h4,
 .h4 {
-    font-size: calc(1.275rem + 0.3vw);
+    font-size: calc(1.275rem + 0.25vw);
 }
 
 .display-1 {
