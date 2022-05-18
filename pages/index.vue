@@ -2,9 +2,10 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col">
-                <h1>
-                    Повітряні Системи - продаж та обслуговування компресорного обладнання
+                <h1 class="text-center">
+                    "Повітряні Системи" &mdash; робимо стиснене повітря швидко та якісно
                 </h1>
+                <h4 class="text-center text-secondary">Продаж та обслуговування компресорного обладнання</h4>
             </div>
         </div>
 
@@ -32,9 +33,9 @@
         </section>
         <div class="row">
             <div class="col">
-                <h1 class="text-center">
+                <h2 class="text-center mb-4">
                     Каталог обладнання
-                </h1>
+                </h2>
             </div>
         </div>
 
@@ -206,7 +207,7 @@
 
         <article class="row justify-content-center pb-5 pt-5 ">
             <div class="col-lg-10">
-                <h1 class="text-center">Наші переваги:</h1>
+                <h2 class="text-center mb-4">Наші переваги:</h2>
             </div>
             <div class="col-sm-10">
                 <h4>
@@ -228,7 +229,7 @@
         </article>
         <article class="row justify-content-center pb-3 pt-5 ">
             <div class="col-lg-10">
-                <h1 class="text-center">Наші клієнти:</h1>
+                <h2 class="text-center mb-4">Наші клієнти:</h2>
             </div>
             <div class="row justify-content-center">
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center">

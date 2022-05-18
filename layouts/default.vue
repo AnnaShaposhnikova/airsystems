@@ -24,7 +24,7 @@
                 </div>
             </section>
 
-            <section class="row align-items-center justify-content-center">
+            <section class="row">
                 <div class="col p-0 m-0">
                     <NavBar />
                 </div>

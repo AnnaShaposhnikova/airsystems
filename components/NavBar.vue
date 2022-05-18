@@ -1,5 +1,5 @@
 <template>
-    <b-navbar toggleable="lg" type="light" variant="info">
+    <b-navbar toggleable="lg" type="dark" variant="info" class="">
         <b-navbar-brand to="/" class="d-lg-none"
             ><img src="/img/logo1111.png"
         /></b-navbar-brand>

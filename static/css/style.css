@@ -63,12 +63,12 @@ legend {
 
 h1,
 .h1 {
-    font-size: calc(1.375rem + 0.9vw);
+    font-size: calc(1.375rem + 0.7vw);
 }
 
 h2,
 .h2 {
-    font-size: calc(1.325rem + 0.7vw);
+    font-size: calc(1.325rem + 0.6vw);
 }
 
 h3,
@@ -108,20 +108,17 @@ body {
 
 header {
     background-color: #007d9c;
-    /* background-image: url(./../img/air-gray.jpg); */
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-.navbar-light .navbar-nav .nav-link {
-    color: white;
-}
-.nav-link :hover {
-    color: #6cc7d3 !important;
 }
 
 .dropdown-item {
-    color: white;
+    color: white !important;
     font-size: 16px;
+}
+.dropdown-item:hover {
+    color: #6cc7d3 !important;
+}
+.dropdown-item:hover {
+    background-color: inherit !important;
 }
 .dropdown-menu {
     background-color: #007d9c;
@@ -131,17 +128,10 @@ header {
     font-size: 18px;
 }
 
-.navbar-light :hover {
-    color: #6cc7d3;
-}
-.navbar-nav li .dropdown-menu {
-    background-color: #007d9c;
-}
-
 .nav-item {
     color: white;
-    margin-right: 3em;
-    margin-left: 3em;
+    margin-right: 1em;
+    margin-left: 1em;
 }
 
 main {
@@ -171,8 +161,9 @@ html {
 
 .contacts a,
 .socialmedia,
-.footernav {
-    color: white;
+.footernav,
+.navbar-nav .nav-link {
+    color: white !important;
 }
 
 .contacts-on-white a {
@@ -182,8 +173,9 @@ html {
 .contacts a:hover,
 .socialmedia:hover,
 .contacts-on-white a:hover,
-.footernav:hover {
-    color: #6cc7d3;
+.footernav:hover,
+.navbar-nav .nav-link:hover {
+    color: #6cc7d3 !important;
 }
 
 .contacts-nav a i,
