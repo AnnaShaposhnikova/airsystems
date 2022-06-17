@@ -37,7 +37,8 @@ export default {
     css: [
         "~/static/css/style.css",
         "~/static/css/style_cards.css",
-        "~/static/css/style_tables.css"
+        "~/static/css/style_tables.css",
+        "~/static/css/style_order_form.css"
     ],
 
     // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins

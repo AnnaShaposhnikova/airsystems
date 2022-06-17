@@ -352,10 +352,17 @@
                 </ul>
             </div>
         </article>
+        <OrderForm
+         >
+            <modal-footer></modal-footer>
+        </OrderForm>
+
     </div>
 </template>
 <script>
+import OrderForm from "../components/OrderForm";
 export default {
+    components: {OrderForm},
     layout: "default",
     head() {
         return {
@@ -364,7 +371,7 @@ export default {
                 {
                     hid: "description",
                     name: "description",
-                    content: "AirSystems - Гвинтовi компресори LMF",                  
+                    content: "AirSystems - Гвинтовi компресори LMF",
                 },
                  {
                     hid: "keywords",
