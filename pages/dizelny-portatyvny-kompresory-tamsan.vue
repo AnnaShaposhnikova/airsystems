@@ -309,10 +309,16 @@
                 </div>
             </div>
         </article>
+        <OrderForm
+        >
+            <modal-footer></modal-footer>
+        </OrderForm>
     </div>
 </template>
 <script>
+import OrderForm from "../components/OrderForm";
 export default {
+    components: {OrderForm},
     layout: "default",
     head() {
         return {
@@ -321,7 +327,7 @@ export default {
                 {
                     hid: "description",
                     name: "description",
-                    content: "AirSystems - Дизельнi портативнi гвинтовi компресори серії TVK",                    
+                    content: "AirSystems - Дизельнi портативнi гвинтовi компресори серії TVK",
                 },
                 {
                     hid: 'keywords',

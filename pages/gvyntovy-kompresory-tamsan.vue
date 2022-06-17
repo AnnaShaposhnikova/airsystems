@@ -926,10 +926,16 @@
                 </div>
             </div>
         </article>
+        <OrderForm
+        >
+            <modal-footer></modal-footer>
+        </OrderForm>
     </div>
 </template>
 <script>
+import OrderForm from "../components/OrderForm";
 export default {
+    components: {OrderForm},
     layout: "default",
     head() {
         return {
