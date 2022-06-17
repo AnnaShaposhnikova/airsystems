@@ -43,7 +43,9 @@
                         <div v-if="errors.message" class="error">{{errors.message}}</div>
                     </b-form>
                     <template #modal-footer>
-                        <b-btn class="submit-form-popup my-3 mx-auto order-btn" @click="handlerSubmit">Замовити</b-btn>
+                        <b-btn class="submit-form-popup my-3 mx-auto order-btn"
+                               @click="handlerSubmit"
+                        >Замовити</b-btn>
                     </template>
                 </b-modal>
             </div>
@@ -92,6 +94,13 @@ export default {
             event.preventDefault();
             this.clearAllErrors();
             this.validateForm();
+            if(!Object.keys(this.$data.errors).length){
+                grecaptcha.ready(function() {
+                    grecaptcha.execute('6LfdhnogAAAAADFMYpEvpswVA38j68sZwRtB7Dmi', {action: 'submit'}).then(function(token) {
+                        console.log(token)
+                    });
+                });
+            }
         },
 
         validateForm() {
@@ -145,3 +154,10 @@ export default {
     }
 }
 </script>
+
+
+
+
+
+
+

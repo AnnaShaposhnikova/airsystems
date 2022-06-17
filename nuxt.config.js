@@ -30,6 +30,10 @@ export default {
                 rel: "stylesheet",
                 href: "https://fonts.googleapis.com/css2?family=Poppins&display=swap"
             }
+        ],
+        script: [
+            {src: "https://www.google.com/recaptcha/api.js?render=6LfdhnogAAAAADFMYpEvpswVA38j68sZwRtB7Dmi"},
+
         ]
     },
 
