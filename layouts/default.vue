@@ -1,28 +1,26 @@
 <template>
     <div class="body">
         <header class="container-fluid ">
-            <section class=" d-lg-none">
-                <div class="text-center">
-                    <div>
-                        <Tel class="contacts" />
-                    </div>
-                    <div>
-                        <Mail class="contacts" />
-                    </div>
-                </div>
-            </section>
-            <section
-                class="row align-items-center justify-content-center d-none d-lg-flex"
-            >
-                <div class="col-lg-4 text-center">
-                    <Logo />
-                </div>
-                <div class="col-lg-5 text-center"></div>
-                <div class="col-lg-3">
-                    <Tel class="contacts" />
-                    <Mail class="contacts" />
-                </div>
-            </section>
+<!--            <section class="d-lg-none">-->
+<!--                <div class="text-center">-->
+<!--                    <div>-->
+<!--                        <Tel class="contacts" />-->
+<!--                    </div>-->
+<!--                    <div>-->
+<!--                        <Mail class="contacts" />-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </section>-->
+<!--            <section class="row align-items-center justify-content-center d-none d-lg-flex">-->
+<!--                <div class="col-lg-4 text-center">-->
+<!--                    <Logo />-->
+<!--                </div>-->
+<!--                <div class="col-lg-5 text-center"></div>-->
+<!--                <div class="col-lg-3">-->
+<!--                    <Tel class="contacts" />-->
+<!--                    <Mail class="contacts" />-->
+<!--                </div>-->
+<!--            </section>-->
 
             <section class="row">
                 <div class="col p-0 m-0">

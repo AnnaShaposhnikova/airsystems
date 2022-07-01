@@ -1,16 +1,16 @@
 <template>
-    <b-navbar toggleable="lg" type="dark" variant="info" class="">
-        <b-navbar-brand to="/" class="d-lg-none"
-            ><img src="/img/logo1111.png"
-        /></b-navbar-brand>
+    <b-navbar toggleable="lg"  class="">
+        <b-navbar-brand to="/" class="">
+            <img src="/img/logo555.png" height="55"/>
+        </b-navbar-brand>
 
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
         <b-collapse id="nav-collapse" is-nav>
             <b-navbar-nav class="mx-auto">
-                <b-nav-item to="/"
-                    ><b-icon icon="house-door-fill"></b-icon
-                ></b-nav-item>
+                <b-nav-item to="/">
+                    <b-icon icon="house-door-fill"></b-icon>
+                </b-nav-item>
                 <b-nav-item to="/o-nas">О нас</b-nav-item>
                 <b-nav-item-dropdown text="Каталог обладнання">
 
