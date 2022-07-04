@@ -40,7 +40,7 @@
                         </h2>
                     </div>
                 </div>
-        
+
                 <section class="row justify-content-center">
                     <div class="col-lg-3 col-sm-6 d-flex">
                         <Card>
@@ -206,7 +206,7 @@
                         </article>
                     </div>
                 </section>
-        
+
                 <article class="row justify-content-center pb-5 pt-5 ">
                     <div class="col-lg-10">
                         <h2 class="text-center mb-4">Наші переваги:</h2>
@@ -230,57 +230,57 @@
                     </div>
                 </article>
                 <article class="row justify-content-center pb-3 pt-5 ">
-            <div class="col-lg-10">
-                <h2 class="text-center mb-4">Наші клієнти:</h2>
-            </div>
-            <div class="row justify-content-center">
-                <div class="col-lg-4 col-md-6 col-sm-12 text-center my-2">
-                    <figure>
-                        <b-img fluid src="/img/clients/carlsberg.png"></b-img>
-                    </figure>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 text-center my-2">
-                    <figure>
-                        <b-img fluid src="/img/clients/kav.jpg"></b-img>
-                    </figure>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 text-center my-2">
-                    <figure>
-                        <b-img fluid src="/img/clients/knauf.png"></b-img>
-                    </figure>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 text-center my-2">
-                    <figure>
-                        <b-img fluid src="/img/clients/parash.png"></b-img>
-                    </figure>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 text-center my-2">
-                    <figure>
-                        <b-img fluid src="/img/clients/skf.jpg"></b-img>
-                    </figure>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 text-center my-2">
-                    <figure>
-                        <b-img fluid src="/img/clients/ashan.png"></b-img>
-                    </figure>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 text-center my-2">
-                    <figure>
-                        <b-img fluid src="/img/clients/rp275.png"></b-img>
-                    </figure>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 text-center my-2">
-                    <figure>
-                        <b-img fluid src="/img/clients/stol.png"></b-img>
-                    </figure>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12 text-center my-2">
-                    <figure>
-                        <b-img fluid src="/img/clients/kura.png"></b-img>
-                    </figure>
-                </div>
-            </div>
-        </article>
+                    <div class="col-lg-10">
+                        <h2 class="text-center mb-4">Наші клієнти:</h2>
+                    </div>
+                    <div class="row justify-content-center">
+                        <div class="col-lg-4 col-md-6 col-sm-12 text-center my-2">
+                            <figure>
+                                <b-img fluid src="/img/clients/carlsberg.png"></b-img>
+                            </figure>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-12 text-center my-2">
+                            <figure>
+                                <b-img fluid src="/img/clients/kav.jpg"></b-img>
+                            </figure>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-12 text-center my-2">
+                            <figure>
+                                <b-img fluid src="/img/clients/knauf.png"></b-img>
+                            </figure>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-12 text-center my-2">
+                            <figure>
+                                <b-img fluid src="/img/clients/parash.png"></b-img>
+                            </figure>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-12 text-center my-2">
+                            <figure>
+                                <b-img fluid src="/img/clients/skf.jpg"></b-img>
+                            </figure>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-12 text-center my-2">
+                            <figure>
+                                <b-img fluid src="/img/clients/ashan.png"></b-img>
+                            </figure>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-12 text-center my-2">
+                            <figure>
+                                <b-img fluid src="/img/clients/rp275.png"></b-img>
+                            </figure>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-12 text-center my-2">
+                            <figure>
+                                <b-img fluid src="/img/clients/stol.png"></b-img>
+                            </figure>
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-12 text-center my-2">
+                            <figure>
+                                <b-img fluid src="/img/clients/kura.png"></b-img>
+                            </figure>
+                        </div>
+                    </div>
+                </article>
             </div>
         </div>
     </div>

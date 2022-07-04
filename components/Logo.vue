@@ -1,13 +1,16 @@
 <template>
     <NuxtLink to="/">
-        <img src="/img/logo111.png">
+        <img src="/img/logo222.png" :height="height">
     </NuxtLink>
 
 </template>
 
 <script>
 export default {
-    name: "Logo"
+    name: "Logo",
+    props: {
+        height: Number,
+    },
 }
 </script>
 

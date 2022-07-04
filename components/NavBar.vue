@@ -1,8 +1,6 @@
 <template>
-    <b-navbar toggleable="lg" type="dark" variant="info" class="">
-        <b-navbar-brand to="/" class="d-lg-none"
-            ><img src="/img/logo1111.png"
-        /></b-navbar-brand>
+    <b-navbar toggleable="lg" type="light" variant="info" class="" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 5px;">
+        <b-navbar-brand to="/" class="d-lg-none"><Logo height="50"/></b-navbar-brand>
 
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
@@ -13,7 +11,6 @@
                 ></b-nav-item>
                 <b-nav-item to="/o-nas">О нас</b-nav-item>
                 <b-nav-item-dropdown text="Каталог обладнання">
-
                         <b-dropdown-group id="dropdown-group-1" style="color:white" header="LMF">
                             <b-dropdown-item  class ="nav-dropdown-items" to="/gvyntovy-kompresory-lmf">Гвинтовi компресори</b-dropdown-item>
                         </b-dropdown-group>

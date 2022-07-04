@@ -78,7 +78,7 @@ body {
 }
 
 header {
-    background-color: #007d9c;
+    background-color: white;
 }
 
 .dropdown-item {
@@ -133,7 +133,7 @@ html {
 .socialmedia,
 .footernav,
 .navbar-nav .nav-link {
-    color: white !important;
+    color: black !important;
 }
 
 .contacts-on-white a {
@@ -155,7 +155,7 @@ html {
 }
 
 .bg-info {
-    background-color: #007d9c !important;
+    background-color: white !important;
 }
 
 .carousel-slide {

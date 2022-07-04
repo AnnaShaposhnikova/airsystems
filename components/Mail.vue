@@ -1,6 +1,6 @@
 <template>
 <span>
-    <a href="mailto:info@airsystems.com.ua" ><b-icon-envelope></b-icon-envelope>  info@airsystems.com.ua</a>
+    <a href="mailto:info@airsystems.com.ua" ><b-icon-envelope></b-icon-envelope> info@airsystems.com.ua</a>
 
 </span>
 </template>
@@ -12,7 +12,7 @@ export default {
 import {
     BIcon,
     BIconEnvelope,
-   
+
 } from "bootstrap-vue";
 </script>
 
