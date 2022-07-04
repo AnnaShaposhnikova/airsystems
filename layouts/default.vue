@@ -38,7 +38,7 @@
                             <NuxtLink to="/contacts" class="footernav">Контакти</NuxtLink>
                         </div>
                     </div>
-                    <div class="col-lg-5 d-none d-lg-block catalog-footer">
+                    <div class="col-lg-4 d-none d-lg-block catalog-footer">
                         <div>LMF</div>
                         <div class="indent">
                             <NuxtLink to="/gvyntovy-kompresory-lmf" class="footernav">Гвинтовi компресори</NuxtLink>
