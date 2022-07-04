@@ -10,7 +10,6 @@
                 <b-img class="lmf-lg" fluid src="/img/vint_index.jpg"></b-img>
             </figure>
         </div>
-
         <div class="row">
             <div class="col">
                 <p class="indent">
@@ -297,7 +296,6 @@
                 </div>
             </div>
         </div>
-
         <div class="row">
             <div class="col">
                 <h4>Стандартні функції</h4>
@@ -353,14 +351,14 @@
             </div>
         </div>
         <OrderForm
-         >
+        >
             <modal-footer></modal-footer>
         </OrderForm>
-
     </div>
 </template>
 <script>
 import OrderForm from "../components/OrderForm";
+
 export default {
     components: {OrderForm},
     layout: "default",
@@ -373,7 +371,7 @@ export default {
                     name: "description",
                     content: "AirSystems - Гвинтовi компресори LMF",
                 },
-                 {
+                {
                     hid: "keywords",
                     name: "keywords",
                     content: "компрессор, компрессор винтовой, компресор Atlas Copco, компресор гвинтовий Atlas Copco, купити компресор Atlas Copco, компрессор Atlas Copco, компрессор винтовой Atlas Copco, купить компрессор Atlas Copco, компрессор электрический, компрессор турецкий, компрессор Tamsan, компрессор LMF, компрессор винтовой австрийский, купить компрессор винтовой, купити компресор гвинтовий, компресор, компресор гвинтовий, компресор електричний, компресор турецький, компресор Tamsan, компресор LMF, компресор гвинтовий австрійський, купить компрессор винтовой"

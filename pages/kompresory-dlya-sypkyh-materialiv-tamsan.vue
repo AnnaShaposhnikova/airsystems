@@ -112,13 +112,11 @@
                     </div>
                 </div>
             </div>
-
         <OrderForm
         >
             <modal-footer></modal-footer>
         </OrderForm>
     </article>
-
 </template>
 <script>
 import OrderForm from "../components/OrderForm";

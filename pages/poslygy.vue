@@ -26,13 +26,18 @@
                             </li>
                             <li>Повітряний аудит</li>
                             <li>Сервісне та післягарантійне обслуговування компресорного обладнання:
-                                Airpol, Aerzener, Almig, Alup, Atlas Copco, Atmos, Bottarini, Busch, Ceccato, CompАir, Demag,
-                                Dalgakiran, Donaldson, Ecoair, Ekomak, Fiac, Fini, Gardner Denver, Hydrovane, Ingersoll Rand,
-                                Kaeser, Mark, MTA, Rotorcomp, Worthington, WAN, Ремеза…</li>
+                                Airpol, Aerzener, Almig, Alup, Atlas Copco, Atmos, Bottarini, Busch, Ceccato, CompАir,
+                                Demag,
+                                Dalgakiran, Donaldson, Ecoair, Ekomak, Fiac, Fini, Gardner Denver, Hydrovane, Ingersoll
+                                Rand,
+                                Kaeser, Mark, MTA, Rotorcomp, Worthington, WAN, Ремеза…
+                            </li>
                             <li>
                                 Ремонт та капітальний ремонт гвинтових компресорів
-                                будь-яких марок: Airpol, Aerzener, Almig, Alup, Atlas Copco, Atmos, Bottarini, Busch, Ceccato, CompАir, Demag,
-                                Dalgakiran, Donaldson, Ecoair, Ekomak, Fiac, Fini, Gardner Denver, Hydrovane, Ingersoll Rand,
+                                будь-яких марок: Airpol, Aerzener, Almig, Alup, Atlas Copco, Atmos, Bottarini, Busch,
+                                Ceccato, CompАir, Demag,
+                                Dalgakiran, Donaldson, Ecoair, Ekomak, Fiac, Fini, Gardner Denver, Hydrovane, Ingersoll
+                                Rand,
                                 Kaeser, Mark, MTA, Rotorcomp, Worthington, WAN, Ремеза…
                             </li>
                         </ul>
