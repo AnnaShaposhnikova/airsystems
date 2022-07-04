@@ -30,6 +30,10 @@ export default {
                 rel: "stylesheet",
                 href: "https://fonts.googleapis.com/css2?family=Poppins&display=swap"
             }
+        ],
+        script: [
+            {src: "https://www.google.com/recaptcha/api.js?render=6LfdhnogAAAAADFMYpEvpswVA38j68sZwRtB7Dmi"},
+
         ]
     },
 
@@ -37,7 +41,8 @@ export default {
     css: [
         "~/static/css/style.css",
         "~/static/css/style_cards.css",
-        "~/static/css/style_tables.css"
+        "~/static/css/style_tables.css",
+        "~/static/css/style_order_form.css"
     ],
 
     // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins

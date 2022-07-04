@@ -1,8 +1,8 @@
 <template>
-    <div class="container-fluid">
-        <article>
-            <div class="row justify-content-center">
-                <div class="col-xl-8 col-lg-10">
+    <article class="container-fluid">
+
+            <div class="row">
+                <div class="col">
                     <h1>
                         Контакти
                     </h1>
@@ -23,8 +23,7 @@
                     </div>
                 </div>
             </div>
-        </article>
-    </div>
+    </article>
 </template>
 <script>
 export default {
