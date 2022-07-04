@@ -80,6 +80,9 @@ body {
 header {
     background-color: white;
 }
+.nav-wrapper{
+    box-shadow: rgba(108, 199, 211, 0.35) 0px 5px 5px;
+}
 
 .dropdown-item {
     color: white !important;
@@ -95,7 +98,8 @@ header {
     background-color: #007d9c;
 }
 .dropdown-header {
-    color: white;
+    background-color: #007d9c;
+    color:  white;
     font-size: 18px;
 }
 
@@ -131,10 +135,12 @@ html {
 }
 
 .contacts a,
-.socialmedia,
-.footernav,
+
 .navbar-nav .nav-link {
-    color: black !important;
+    color:  #007d9c !important;
+}
+.footernav,.socialmedia, footer .contacts a{
+    color:  white !important;
 }
 
 .contacts-on-white a {

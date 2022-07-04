@@ -2,10 +2,10 @@
     <div class="body">
         <header class="container-fluid ">
             <section class="row">
-                <div class="col d-none d-lg-flex">
+                <div class="col d-none d-lg-flex mt-2">
                     <Logo height="80"/>
                 </div>
-                <div class="col-auto mr-lg-auto mx-auto">
+                <div class="col-auto mr-lg-auto mx-auto mt-2">
                     <Tel class="contacts" />
                     <Tel2 class="contacts" />
                     <Mail class="contacts" />

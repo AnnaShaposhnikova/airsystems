@@ -1,5 +1,5 @@
 <template>
-    <b-navbar toggleable="lg" type="light" variant="info" class="" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 5px;">
+    <b-navbar toggleable="lg" type="light" variant="info" class="nav-wrapper">
         <b-navbar-brand to="/" class="d-lg-none"><Logo height="50"/></b-navbar-brand>
 
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
