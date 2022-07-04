@@ -11,7 +11,7 @@
             </figure>
         </div>
 
-        <article class="row">
+        <div class="row">
             <div class="col">
                 <p class="indent">
                     LMF - австрійський виробник з досвідом 166 років поршневих,
@@ -27,8 +27,8 @@
                     обслуговування.
                 </p>
             </div>
-        </article>
-        <article class="row">
+        </div>
+        <div class="row">
             <div class="col">
                 <h3>Гвинтові компресори:</h3>
 
@@ -42,8 +42,8 @@
                     </li>
                 </ul>
             </div>
-        </article>
-        <article class="row">
+        </div>
+        <div class="row">
             <div class="col">
                 <div>
                     <h3 class="justify-content-center">
@@ -65,7 +65,7 @@
                     витрати.
                 </p>
             </div>
-        </article>
+        </div>
         <div class="row justify-content-center">
             <div class="col-lg-4 col-sm-12">
                 <figure class="text-center">
@@ -298,7 +298,7 @@
             </div>
         </div>
 
-        <article class="row">
+        <div class="row">
             <div class="col">
                 <h4>Стандартні функції</h4>
                 <ul>
@@ -351,7 +351,7 @@
                     </li>
                 </ul>
             </div>
-        </article>
+        </div>
         <OrderForm
          >
             <modal-footer></modal-footer>

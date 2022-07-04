@@ -1,6 +1,6 @@
-<template>
-    <div class="container-fluid">
-        <article>
+<template xmlns="http://www.w3.org/1999/html">
+    <article class="container-fluid">
+
             <div class="row">
                 <div class="col">
                     <h1>
@@ -476,8 +476,8 @@
                     </p>
                 </div>
             </div>
-        </article>
-        <article>
+
+
             <div class="row justify-content-center pb-2 pt-2 m-2">
                 <h2>
                     Адсорбційні осушувачі стисненого повітря з холодною
@@ -753,12 +753,12 @@
                     </div>
                 </div>
             </div>
-        </article>
+
         <OrderForm
         >
             <modal-footer></modal-footer>
         </OrderForm>
-    </div>
+    </article>
 </template>
 <script>
 import OrderForm from "../components/OrderForm";

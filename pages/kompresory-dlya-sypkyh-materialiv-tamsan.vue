@@ -1,6 +1,5 @@
 <template>
-    <div class="container-fluid">
-        <article>
+    <article class="container-fluid">
             <div class="row">
                 <div class="col">
                     <h1>
@@ -113,12 +112,12 @@
                     </div>
                 </div>
             </div>
-        </article>
+
         <OrderForm
         >
             <modal-footer></modal-footer>
         </OrderForm>
-    </div>
+    </article>
 
 </template>
 <script>
