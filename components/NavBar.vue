@@ -1,6 +1,8 @@
 <template>
     <b-navbar toggleable="lg" type="light" variant="info" class="nav-wrapper">
-        <b-navbar-brand to="/" class="d-lg-none"><Logo height="50"/></b-navbar-brand>
+        <b-navbar-brand to="/" class="d-lg-none">
+            <Logo height="50"/>
+        </b-navbar-brand>
 
         <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 

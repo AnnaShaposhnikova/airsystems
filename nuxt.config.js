@@ -17,24 +17,31 @@ export default {
             lang: "en"
         },
         meta: [
-            {charset: "utf-8"},
+            {
+                charset: "utf-8",
+            },
             {
                 name: "viewport",
                 content: "width=device-width, initial-scale=1"
             },
         ],
         link: [
-            {rel: "icon", type: "image/x-icon", href: "/favicon.ico"},
-            {rel: "preconnect", href: "https://fonts.gstatic.com"},
+            {
+                rel: "icon",
+                type: "image/x-icon", href: "/favicon.ico"
+            },
+            {
+                rel: "preconnect",
+                href: "https://fonts.gstatic.com"
+            },
             {
                 rel: "stylesheet",
                 href: "https://fonts.googleapis.com/css2?family=Poppins&display=swap"
             }
         ],
-        script: [
-            {src: "https://www.google.com/recaptcha/api.js?render=6LfdhnogAAAAADFMYpEvpswVA38j68sZwRtB7Dmi"},
-
-        ]
+        // script: [
+        //     {src: "https://www.google.com/recaptcha/api.js?render=6LfdhnogAAAAADFMYpEvpswVA38j68sZwRtB7Dmi"},
+        // ]
     },
 
     // Global CSS: https://go.nuxtjs.dev/config-css

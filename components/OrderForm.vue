@@ -1,55 +1,55 @@
 <template>
     <div class="row justify-content-center d-none">
-        <div class="col-lg-4 col-sm-12 text-center">
-            <div>
-                <b-button v-b-modal.modal-1 class="order-btn">Замовити</b-button>
+<!--        <div class="col-lg-4 col-sm-12 text-center">-->
+<!--            <div>-->
+<!--                <b-button v-b-modal.modal-1 class="order-btn">Замовити</b-button>-->
 
-                <b-modal id="modal-1" title="Замовити">
-                    <b-form name="order">
-                        <label for="name" class="popup-label mt-2">Iм'я</label>
-                        <b-form-input
-                            id="name"
-                            :state="nameState"
-                            v-model="formData.name"
-                            type="text"
-                            placeholder="Введiть iм'я"
-                        ></b-form-input>
-                        <div v-if="errors.name" class="error">{{errors.name}}</div>
-                        <label for="email" class="popup-label mt-2" >Email</label>
-                        <b-form-input
-                            id="email"
-                            v-model="formData.email"
-                            type="email"
-                            :state="emailState"
-                            placeholder="Введiть email"
-                        ></b-form-input>
-                        <div v-if="errors.email" class="error">{{errors.email}}</div>
-                        <label for="tel" class="popup-label mt-2">Teлефон</label>
-                        <b-form-input
-                            id="tel"
-                            :state="telState"
-                            v-model="formData.tel"
-                            type="tel"
-                            placeholder="Введiть номер телефону"
-                        ></b-form-input>
-                        <div v-if="errors.tel" class="error">{{errors.tel}}</div>
-                        <label for="message" class="popup-label mt-2">Текст повiдомлення</label>
-                        <b-form-textarea
-                            id="message"
-                            :state="messageState"
-                            v-model="formData.message"
-                            placeholder="Введiть текст"
-                        ></b-form-textarea>
-                        <div v-if="errors.message" class="error">{{errors.message}}</div>
-                    </b-form>
-                    <template #modal-footer>
-                        <b-btn class="submit-form-popup my-3 mx-auto order-btn"
-                               @click="handlerSubmit"
-                        >Замовити</b-btn>
-                    </template>
-                </b-modal>
-            </div>
-        </div>
+<!--                <b-modal id="modal-1" title="Замовити">-->
+<!--                    <b-form name="order">-->
+<!--                        <label for="name" class="popup-label mt-2">Iм'я</label>-->
+<!--                        <b-form-input-->
+<!--                            id="name"-->
+<!--                            :state="nameState"-->
+<!--                            v-model="formData.name"-->
+<!--                            type="text"-->
+<!--                            placeholder="Введiть iм'я"-->
+<!--                        ></b-form-input>-->
+<!--                        <div v-if="errors.name" class="error">{{errors.name}}</div>-->
+<!--                        <label for="email" class="popup-label mt-2" >Email</label>-->
+<!--                        <b-form-input-->
+<!--                            id="email"-->
+<!--                            v-model="formData.email"-->
+<!--                            type="email"-->
+<!--                            :state="emailState"-->
+<!--                            placeholder="Введiть email"-->
+<!--                        ></b-form-input>-->
+<!--                        <div v-if="errors.email" class="error">{{errors.email}}</div>-->
+<!--                        <label for="tel" class="popup-label mt-2">Teлефон</label>-->
+<!--                        <b-form-input-->
+<!--                            id="tel"-->
+<!--                            :state="telState"-->
+<!--                            v-model="formData.tel"-->
+<!--                            type="tel"-->
+<!--                            placeholder="Введiть номер телефону"-->
+<!--                        ></b-form-input>-->
+<!--                        <div v-if="errors.tel" class="error">{{errors.tel}}</div>-->
+<!--                        <label for="message" class="popup-label mt-2">Текст повiдомлення</label>-->
+<!--                        <b-form-textarea-->
+<!--                            id="message"-->
+<!--                            :state="messageState"-->
+<!--                            v-model="formData.message"-->
+<!--                            placeholder="Введiть текст"-->
+<!--                        ></b-form-textarea>-->
+<!--                        <div v-if="errors.message" class="error">{{errors.message}}</div>-->
+<!--                    </b-form>-->
+<!--                    <template #modal-footer>-->
+<!--                        <b-btn class="submit-form-popup my-3 mx-auto order-btn"-->
+<!--                               @click="handlerSubmit"-->
+<!--                        >Замовити</b-btn>-->
+<!--                    </template>-->
+<!--                </b-modal>-->
+<!--            </div>-->
+<!--        </div>-->
     </div>
 
 </template>

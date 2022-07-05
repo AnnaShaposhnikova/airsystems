@@ -60,10 +60,7 @@
             </div>
             <div class="col-lg-3 col-sm-6  d-flex">
                 <Card>
-                    <CardTitle
-                    >Компресори для сипких <br/>матерiалiв
-                    </CardTitle
-                    >
+                    <CardTitle>Компресори для сипких <br/>матерiалiв</CardTitle>
                     <CardImage src="/img/silobas-yan-2.jpg"/>
                     <CardBody>
                         <ul>
@@ -109,7 +106,7 @@
                 </Card>
             </div>
         </section>
-        <section class="row justify-content-left">
+        <section class="row justify-content-center">
             <div class="col-lg-3 col-sm-6 d-flex">
                 <Card>
                     <CardTitle>Системи <br/>рекуперації тепла</CardTitle>
