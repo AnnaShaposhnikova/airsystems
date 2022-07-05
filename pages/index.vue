@@ -111,17 +111,10 @@
         </section>
         <section class="row justify-content-left">
             <div class="col-lg-3 col-sm-6 d-flex">
-                <article class="card card1 flex-fill">
-                    <h5 class="card-title py-3 text-center">
-                        Системи <br/>рекуперації тепла
-                    </h5>
-                    <figure class="card-img">
-                        <img
-                            class="card-img-top img-fluid "
-                            src="/img/recuperation.jpg"
-                        />
-                    </figure>
-                    <div class="card-body">
+                <Card>
+                    <CardTitle>Системи <br/>рекуперації тепла</CardTitle>
+                    <CardImage src="/img/recuperation.jpg"/>
+                    <CardBody>
                         <ul>
                             <li>
                                 <NuxtLink to="/systemy-recureratsii-tepla">
@@ -129,19 +122,14 @@
                                 </NuxtLink>
                             </li>
                         </ul>
-                    </div>
-                </article>
+                    </CardBody>
+                </Card>
             </div>
             <div class="col-lg-3 col-sm-6  d-flex">
-                <article class="card card1 flex-fill">
-                    <h5 class="card-title py-3 text-center">Ресiвери</h5>
-                    <figure class="card-img">
-                        <img
-                            class="card-img-top img-fluid "
-                            src="/img/reciver.jpg"
-                        />
-                    </figure>
-                    <div class="card-body">
+                <Card>
+                    <CardTitle>Ресiвери</CardTitle>
+                    <CardImage src="/img/reciver.jpg"/>
+                    <CardBody>
                         <ul>
                             <li>
                                 <NuxtLink to="/reciver">
@@ -149,57 +137,39 @@
                                 </NuxtLink>
                             </li>
                         </ul>
-                    </div>
-                </article>
-            </div>
+                    </CardBody>
+                </Card>
+             </div>
             <div class="col-lg-3 col-sm-6 d-flex">
-                <article class="card card1 flex-fill">
-                    <h5 class="card-title py-3 text-center">
-                        Витратні матеріали <br/>та запасні частини
-                    </h5>
-                    <figure class="card-img">
-                        <img
-                            class="card-img-top img-fluid "
-                            src="/img/consumables.jpg"
-                        />
-                    </figure>
-                    <div class="card-body">
+                <Card>
+                    <CardTitle>Витратні матеріали <br/>та запасні частини</CardTitle>
+                    <CardImage src="/img/consumables.jpg"/>
+                    <CardBody>
                         <ul>
                             <li>
-                                <NuxtLink
-                                    to="/vytratny-materialy-ta-zapasny-chastyny"
-                                >
+                                <NuxtLink to="/vytratny-materialy-ta-zapasny-chastyny">
                                     Витратні матеріали <br/>та запасні частини
                                 </NuxtLink>
                             </li>
                         </ul>
-                    </div>
-                </article>
+                    </CardBody>
+                </Card>
             </div>
             <div class="col-lg-3 col-sm-6 d-flex">
-                <article class="card card1 flex-fill">
-                    <h5 class="card-title py-3 text-center">
-                        Дизельнi портативнi гвинтові компресори серії TVK
-                    </h5>
-                    <figure class="card-img">
-                        <img
-                            class="card-img-top img-fluid "
-                            src="/img/dizel.jpg"
-                        />
-                    </figure>
-                    <div class="card-body">
+                <Card>
+                    <CardTitle>Дизельнi портативнi гвинтові компресори серії TVK</CardTitle>
+                    <CardImage src="/img/dizel.jpg"/>
+                    <CardBody>
                         <ul>
                             <li>
-                                <NuxtLink
-                                    to="/dizelny-portatyvny-kompresory-tamsan"
-                                >
+                                <NuxtLink to="/dizelny-portatyvny-kompresory-tamsan">
                                     Дизельнi портативнi гвинтові компресори
                                     серії TVK
                                 </NuxtLink>
                             </li>
                         </ul>
-                    </div>
-                </article>
+                    </CardBody>
+                </Card>
             </div>
         </section>
         <article class="row justify-content-center pb-5 pt-5 ">
@@ -279,7 +249,12 @@
     </div>
 </template>
 <script>
+import Card from "../components/Card";
+import CardBody from "../components/CardBody";
+import CardTitle from "../components/CardTitle";
+import CardImage from "../components/CardImage";
 export default {
+    components:{Card,CardBody, CardTitle, CardImage},
     layout: "default",
     head() {
         return {
