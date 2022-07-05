@@ -18,8 +18,12 @@
                 </div>
             </section>
         </header>
-        <main>
-            <Nuxt />
+        <main class="container-fluid">
+            <div class="row">
+                <div class="col-xl-8 col-lg-10 mx-auto">
+                    <Nuxt />
+                </div>
+            </div>
         </main>
         <footer>
             <section class="container-fluid">

@@ -18,11 +18,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <figure>
-                        <b-img
-                            fluid
-                            src="/img/tamsan-page/b-tamsan/b-tamsan1.jpg"
-                        >
-                        </b-img>
+                        <b-img fluid src="/img/tamsan-page/b-tamsan/b-tamsan1.jpg"></b-img>
                     </figure>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-12">

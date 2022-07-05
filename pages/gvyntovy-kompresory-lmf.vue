@@ -5,8 +5,8 @@
                 <h1>Гвинтовi компресори LMF</h1>
             </div>
         </div>
-        <div class="row justify-content-center pb-2">
-            <figure>
+        <div class="row pb-2">
+            <figure class="col-auto mx-auto">
                 <b-img class="lmf-lg" fluid src="/img/vint_index.jpg"></b-img>
             </figure>
         </div>
@@ -84,7 +84,7 @@
             </div>
         </div>
 
-        <div class="rowpb-3">
+        <div class="row pb-3">
             <div class="col">
                 <div class="table-responsive">
                     <table class="table table-bordered table-striped">
@@ -350,8 +350,7 @@
                 </ul>
             </div>
         </div>
-        <OrderForm
-        >
+        <OrderForm>
             <modal-footer></modal-footer>
         </OrderForm>
     </div>
