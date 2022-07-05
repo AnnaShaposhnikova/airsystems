@@ -1,5 +1,5 @@
 <template>
-    <div class="row justify-content-center">
+    <div class="row justify-content-center d-none">
         <div class="col-lg-4 col-sm-12 text-center">
             <div>
                 <b-button v-b-modal.modal-1 class="order-btn">Замовити</b-button>

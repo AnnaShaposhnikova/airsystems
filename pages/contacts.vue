@@ -15,6 +15,7 @@
                     <div class="pt-3">
                         <div>Телефон:</div>
                         <Tel class="contacts-on-white"/>
+                        <Tel2 class="contacts-on-white"/>
                     </div>
                     <div class="pt-3">
                         <div>email:</div>

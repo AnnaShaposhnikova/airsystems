@@ -10,14 +10,12 @@
         <div class="row justify-content-center">
             <div class="col-lg-6 col-sm-12 text-center">
                 <figure>
-                    <b-img fluid src="/img/tamsan-page/port/роrt-tam1.png">
-                    </b-img>
+                    <b-img fluid src="/img/tamsan-page/port/роrt-tam1.png"></b-img>
                 </figure>
             </div>
             <div class="col-lg-6 col-sm-12">
                 <figure>
-                    <b-img fluid src="/img/tamsan-page/port/port-tam2.png">
-                    </b-img>
+                    <b-img fluid src="/img/tamsan-page/port/port-tam2.png"></b-img>
                 </figure>
             </div>
         </div>

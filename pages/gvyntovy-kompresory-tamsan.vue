@@ -8,7 +8,7 @@
             </div>
         </div>
         <div class="row justify-content-center pb-2">
-            <figure>
+            <figure class="col mx-auto">
                 <b-img fluid src="/img/car1.jpg"></b-img>
             </figure>
         </div>
@@ -45,7 +45,7 @@
                 </p>
             </div>
         </div>
-        <div class="row ">
+        <div class="row">
             <div class="col">
                 <h3>
                     Гвинтові компресори на ресивері та з осушувачем повітря
@@ -251,247 +251,247 @@
                     замінити за допомогою шланга, знявши кришку біля бачка.
                 </p>
             </div>
-            <div class="row justify-content-center text-center">
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                    <figure>
-                        <b-img fluid src="/img/tamsan-page/tamsan8.png">
-                        </b-img>
-                    </figure>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                    <figure>
-                        <b-img fluid src="/img/tamsan-page/tamsan7.png">
-                        </b-img>
-                    </figure>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                    <figure>
-                        <b-img fluid src="/img/tamsan-page/tamsan9.png">
-                        </b-img>
-                    </figure>
-                </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-4 col-md-6 col-sm-12">
+                <figure>
+                    <b-img fluid src="/img/tamsan-page/tamsan8.png">
+                    </b-img>
+                </figure>
             </div>
-            <div class="row pb-3">
-                <div class="col">
-                    <div class="table-responsive ">
-                        <table class="table table-bordered table-striped">
-                            <thead>
-                            <tr>
-                                <th>Модель</th>
-                                <th>Тиск, бар</th>
-                                <th>
-                                    Продуктивнiсть, <br/>
-                                    м3/хв
-                                </th>
-                                <th>
-                                    Потужність, <br/>
-                                    кВт/ л.с
-                                </th>
-                                <th>
-                                    Приєднувальний
-                                    <br/>розмір,<br/>дюйм
-                                </th>
-                                <th>Розміри, мм</th>
-                                <th>Вага, кг</th>
-                            </tr>
-                            </thead>
-                            <tbody>
-                            <tr>
-                                <td rowspan="3">TVK 550 E</td>
-                                <td>7</td>
-                                <td>0.55</td>
-                                <td rowspan="3">4 / 5.5</td>
-                                <td rowspan="3">3/4</td>
-                                <td rowspan="3">
-                                    730×970×1100
-                                </td>
-                                <td rowspan="3">185</td>
-                            </tr>
-                            <tr>
-                                <td>10</td>
-                                <td>0.45</td>
-                            </tr>
-                            <tr>
-                                <td>13</td>
-                                <td>0.35</td>
-                            </tr>
-
-                            <tr>
-                                <td rowspan="3">TVK 800 E</td>
-                                <td>7</td>
-                                <td>0.8</td>
-                                <td rowspan="3">5.5 / 7.5</td>
-                                <td rowspan="3">3/4</td>
-                                <td rowspan="3">
-                                    730×970×1100
-                                </td>
-                                <td rowspan="3">240</td>
-                            </tr>
-                            <tr>
-                                <td>10</td>
-                                <td>0.65</td>
-                            </tr>
-                            <tr>
-                                <td>13</td>
-                                <td>0.55</td>
-                            </tr>
-
-                            <tr>
-                                <td rowspan="3">TVK 1100 E</td>
-                                <td>7</td>
-                                <td>1.1</td>
-                                <td rowspan="3">7.5/10</td>
-                                <td rowspan="3">3/4</td>
-                                <td rowspan="3">
-                                    800×1250×1220
-                                </td>
-                                <td rowspan="3">245</td>
-                            </tr>
-                            <tr>
-                                <td>10</td>
-                                <td>0.85</td>
-                            </tr>
-                            <tr>
-                                <td>13</td>
-                                <td>0.78</td>
-                            </tr>
-
-                            <tr>
-                                <td rowspan="3">TVK 1900 E</td>
-                                <td>7</td>
-                                <td>1.85</td>
-                                <td rowspan="3">11/15</td>
-                                <td rowspan="3">3/4</td>
-                                <td rowspan="3">
-                                    800×1250×1220
-                                </td>
-                                <td rowspan="3">360</td>
-                            </tr>
-                            <tr>
-                                <td>10</td>
-                                <td>1.6</td>
-                            </tr>
-                            <tr>
-                                <td>13</td>
-                                <td>1.4</td>
-                            </tr>
-
-                            <tr>
-                                <td rowspan="3">TVK 2400 E</td>
-                                <td>7</td>
-                                <td>2.42</td>
-                                <td rowspan="3">15/20</td>
-                                <td rowspan="3">3/4</td>
-                                <td rowspan="3">
-                                    800×1250×1220
-                                </td>
-                                <td rowspan="3">370</td>
-                            </tr>
-                            <tr>
-                                <td>10</td>
-                                <td>2.1</td>
-                            </tr>
-                            <tr>
-                                <td>13</td>
-                                <td>1.8</td>
-                            </tr>
-
-                            <tr>
-                                <td rowspan="3">TVK 3000 E</td>
-                                <td>7</td>
-                                <td>3.01</td>
-                                <td rowspan="3">18.5 / 25</td>
-                                <td rowspan="3">1</td>
-                                <td rowspan="3">
-                                    800×1310×1320
-                                </td>
-                                <td rowspan="3">475</td>
-                            </tr>
-                            <tr>
-                                <td>10</td>
-                                <td>2.6</td>
-                            </tr>
-                            <tr>
-                                <td>13</td>
-                                <td>2.1</td>
-                            </tr>
-
-                            <tr>
-                                <td rowspan="3">TVK 3600 E</td>
-                                <td>7</td>
-                                <td>3.6</td>
-                                <td rowspan="3">22 / 30</td>
-                                <td rowspan="3">1</td>
-                                <td rowspan="3">
-                                    800×1310×1320
-                                </td>
-                                <td rowspan="3">485</td>
-                            </tr>
-                            <tr>
-                                <td>10</td>
-                                <td>3.2</td>
-                            </tr>
-                            <tr>
-                                <td>13</td>
-                                <td>2.4</td>
-                            </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                </div>
+            <div class="col-lg-4 col-md-6 col-sm-12">
+                <figure>
+                    <b-img fluid src="/img/tamsan-page/tamsan7.png">
+                    </b-img>
+                </figure>
             </div>
-            <div class="row mb-5">
-                <div class="col">
-                    <ul>
-                        <li>Низька вартість обслуговування</li>
-                        <li>
-                            Розумний дизайн дозволяє керувати за допомогою
-                            навантажувача
-                        </li>
-                        <li>
-                            Операція без вібрації з антивібраційними
-                            накладками
-                        </li>
-                        <li>
-                            Легке змащування із застосуванням
-                            термостатичного масляного клапана забезпечує
-                            роботу навіть у холодну погоду
-                        </li>
-                        <li>
-                            Корпус захищений від корозії електростатичним
-                            порошковим покриттям
-                        </li>
-                        <li>Естетичний дизайн</li>
-                        <li>Економія місця, розумний дизайн</li>
-                        <li>
-                            Легке обслуговування завдяки знімним кришкам
-                            компресора
-                        </li>
-                        <li>Електрична безпека високого тиску</li>
-                        <li>Механічна безпека високого тиску</li>
-                        <li>Основний захист двигуна від перевантаження</li>
-                        <li>
-                            Гідравлічний шланг стійкий до високого тиску та
-                            температури
-                        </li>
-                    </ul>
+            <div class="col-lg-4 col-md-6 col-sm-12">
+                <figure>
+                    <b-img fluid src="/img/tamsan-page/tamsan9.png">
+                    </b-img>
+                </figure>
+            </div>
+        </div>
+        <div class="row pb-3">
+            <div class="col">
+                <div class="table-responsive ">
+                    <table class="table table-bordered table-striped">
+                        <thead>
+                        <tr>
+                            <th>Модель</th>
+                            <th>Тиск, бар</th>
+                            <th>
+                                Продуктивнiсть, <br/>
+                                м3/хв
+                            </th>
+                            <th>
+                                Потужність, <br/>
+                                кВт/ л.с
+                            </th>
+                            <th>
+                                Приєднувальний
+                                <br/>розмір,<br/>дюйм
+                            </th>
+                            <th>Розміри, мм</th>
+                            <th>Вага, кг</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr>
+                            <td rowspan="3">TVK 550 E</td>
+                            <td>7</td>
+                            <td>0.55</td>
+                            <td rowspan="3">4 / 5.5</td>
+                            <td rowspan="3">3/4</td>
+                            <td rowspan="3">
+                                730×970×1100
+                            </td>
+                            <td rowspan="3">185</td>
+                        </tr>
+                        <tr>
+                            <td>10</td>
+                            <td>0.45</td>
+                        </tr>
+                        <tr>
+                            <td>13</td>
+                            <td>0.35</td>
+                        </tr>
+
+                        <tr>
+                            <td rowspan="3">TVK 800 E</td>
+                            <td>7</td>
+                            <td>0.8</td>
+                            <td rowspan="3">5.5 / 7.5</td>
+                            <td rowspan="3">3/4</td>
+                            <td rowspan="3">
+                                730×970×1100
+                            </td>
+                            <td rowspan="3">240</td>
+                        </tr>
+                        <tr>
+                            <td>10</td>
+                            <td>0.65</td>
+                        </tr>
+                        <tr>
+                            <td>13</td>
+                            <td>0.55</td>
+                        </tr>
+
+                        <tr>
+                            <td rowspan="3">TVK 1100 E</td>
+                            <td>7</td>
+                            <td>1.1</td>
+                            <td rowspan="3">7.5/10</td>
+                            <td rowspan="3">3/4</td>
+                            <td rowspan="3">
+                                800×1250×1220
+                            </td>
+                            <td rowspan="3">245</td>
+                        </tr>
+                        <tr>
+                            <td>10</td>
+                            <td>0.85</td>
+                        </tr>
+                        <tr>
+                            <td>13</td>
+                            <td>0.78</td>
+                        </tr>
+
+                        <tr>
+                            <td rowspan="3">TVK 1900 E</td>
+                            <td>7</td>
+                            <td>1.85</td>
+                            <td rowspan="3">11/15</td>
+                            <td rowspan="3">3/4</td>
+                            <td rowspan="3">
+                                800×1250×1220
+                            </td>
+                            <td rowspan="3">360</td>
+                        </tr>
+                        <tr>
+                            <td>10</td>
+                            <td>1.6</td>
+                        </tr>
+                        <tr>
+                            <td>13</td>
+                            <td>1.4</td>
+                        </tr>
+
+                        <tr>
+                            <td rowspan="3">TVK 2400 E</td>
+                            <td>7</td>
+                            <td>2.42</td>
+                            <td rowspan="3">15/20</td>
+                            <td rowspan="3">3/4</td>
+                            <td rowspan="3">
+                                800×1250×1220
+                            </td>
+                            <td rowspan="3">370</td>
+                        </tr>
+                        <tr>
+                            <td>10</td>
+                            <td>2.1</td>
+                        </tr>
+                        <tr>
+                            <td>13</td>
+                            <td>1.8</td>
+                        </tr>
+
+                        <tr>
+                            <td rowspan="3">TVK 3000 E</td>
+                            <td>7</td>
+                            <td>3.01</td>
+                            <td rowspan="3">18.5 / 25</td>
+                            <td rowspan="3">1</td>
+                            <td rowspan="3">
+                                800×1310×1320
+                            </td>
+                            <td rowspan="3">475</td>
+                        </tr>
+                        <tr>
+                            <td>10</td>
+                            <td>2.6</td>
+                        </tr>
+                        <tr>
+                            <td>13</td>
+                            <td>2.1</td>
+                        </tr>
+
+                        <tr>
+                            <td rowspan="3">TVK 3600 E</td>
+                            <td>7</td>
+                            <td>3.6</td>
+                            <td rowspan="3">22 / 30</td>
+                            <td rowspan="3">1</td>
+                            <td rowspan="3">
+                                800×1310×1320
+                            </td>
+                            <td rowspan="3">485</td>
+                        </tr>
+                        <tr>
+                            <td>10</td>
+                            <td>3.2</td>
+                        </tr>
+                        <tr>
+                            <td>13</td>
+                            <td>2.4</td>
+                        </tr>
+                        </tbody>
+                    </table>
                 </div>
             </div>
         </div>
+        <div class="row mb-5">
+            <div class="col">
+                <ul>
+                    <li>Низька вартість обслуговування</li>
+                    <li>
+                        Розумний дизайн дозволяє керувати за допомогою
+                        навантажувача
+                    </li>
+                    <li>
+                        Операція без вібрації з антивібраційними
+                        накладками
+                    </li>
+                    <li>
+                        Легке змащування із застосуванням
+                        термостатичного масляного клапана забезпечує
+                        роботу навіть у холодну погоду
+                    </li>
+                    <li>
+                        Корпус захищений від корозії електростатичним
+                        порошковим покриттям
+                    </li>
+                    <li>Естетичний дизайн</li>
+                    <li>Економія місця, розумний дизайн</li>
+                    <li>
+                        Легке обслуговування завдяки знімним кришкам
+                        компресора
+                    </li>
+                    <li>Електрична безпека високого тиску</li>
+                    <li>Механічна безпека високого тиску</li>
+                    <li>Основний захист двигуна від перевантаження</li>
+                    <li>
+                        Гідравлічний шланг стійкий до високого тиску та
+                        температури
+                    </li>
+                </ul>
+            </div>
+        </div>
         <div class="row justify-content-center  text-center mb-5">
-            <div class="col-lg-4 col-md-6 col-sm-12">
+            <div class="col-lg-3 col-md-5 col-sm-12">
                 <figure>
                     <b-img fluid src="/img/tamsan-page/tamsan10.png">
                     </b-img>
                 </figure>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-12">
+            <div class="col-lg-3 col-md-5 col-sm-12">
                 <figure>
                     <b-img fluid src="/img/tamsan-page/tamsan11.png">
                     </b-img>
                 </figure>
             </div>
-            <div class="col-lg-4 col-md-6 col-sm-12">
+            <div class="col-lg-3 col-md-5 col-sm-12">
                 <figure>
                     <b-img fluid src="/img/tamsan-page/tamsan12.png">
                     </b-img>
@@ -539,20 +539,17 @@
         <div class="row justify-content-center text-center">
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <figure>
-                    <b-img fluid src="/img/tamsan-page/tamsan13.png">
-                    </b-img>
+                    <b-img fluid src="/img/tamsan-page/tamsan13.png"></b-img>
                 </figure>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <figure>
-                    <b-img fluid src="/img/tamsan-page/tamsan14.png">
-                    </b-img>
+                    <b-img fluid src="/img/tamsan-page/tamsan14.png"></b-img>
                 </figure>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <figure>
-                    <b-img fluid src="/img/tamsan-page/tamsan15.png">
-                    </b-img>
+                    <b-img fluid src="/img/tamsan-page/tamsan15.png"></b-img>
                 </figure>
             </div>
         </div>
@@ -877,33 +874,28 @@
             </div>
         </div>
         <div class="row justify-content-center text-center">
-            <div class="col-lg-3 col-md-6 col-sm-12">
+            <div class="col-lg-3 col-md-5 col-sm-12">
                 <figure>
-                    <b-img fluid src="/img/tamsan-page/tamsan16.jpg">
-                    </b-img>
+                    <b-img fluid src="/img/tamsan-page/tamsan16.jpg"></b-img>
                 </figure>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
+            <div class="col-lg-3 col-md-5 col-sm-12">
                 <figure>
-                    <b-img fluid src="/img/tamsan-page/tamsan17.jpg">
-                    </b-img>
+                    <b-img fluid src="/img/tamsan-page/tamsan17.jpg"></b-img>
                 </figure>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
+            <div class="col-lg-3 col-md-5 col-sm-12">
                 <figure>
-                    <b-img fluid src="/img/tamsan-page/tamsan18.jpg">
-                    </b-img>
+                    <b-img fluid src="/img/tamsan-page/tamsan18.jpg"></b-img>
                 </figure>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-12">
+            <div class="col-lg-3 col-md-5 col-sm-12">
                 <figure>
-                    <b-img fluid src="/img/tamsan-page/tamsan19.jpg">
-                    </b-img>
+                    <b-img fluid src="/img/tamsan-page/tamsan19.jpg"></b-img>
                 </figure>
             </div>
         </div>
-        <OrderForm
-        >
+        <OrderForm>
             <modal-footer></modal-footer>
         </OrderForm>
     </article>
