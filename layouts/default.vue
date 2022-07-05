@@ -20,7 +20,7 @@
         </header>
         <main class="container-fluid">
             <div class="row">
-                <div class="col-xl-8 col-lg-10 mx-auto">
+                <div class="col-xl-10 col-lg-10 mx-auto">
                     <Nuxt />
                 </div>
             </div>
