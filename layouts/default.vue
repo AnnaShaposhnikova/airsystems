@@ -3,25 +3,25 @@
         <header class="container-fluid ">
             <section class="row">
                 <div class="col d-none d-lg-flex mt-2">
-                    <Logo height="70"/>
+                    <Logo height="70"></Logo>
                 </div>
                 <div class="col-auto mr-lg-auto mx-auto mt-2">
-                    <Tel class="contacts" />
-                    <Tel2 class="contacts" />
-                    <Mail class="contacts" />
+                    <Tel class="contacts"></Tel>
+                    <Tel2 class="contacts"></Tel2>
+                    <Mail class="contacts"></Mail>
                 </div>
             </section>
 
             <section class="row">
                 <div class="col p-0 m-0">
-                    <NavBar />
+                    <NavBar></NavBar>
                 </div>
             </section>
         </header>
         <main class="container-fluid">
             <div class="row">
                 <div class="col-xl-10 col-lg-10 mx-auto">
-                    <Nuxt />
+                    <Nuxt></Nuxt>
                 </div>
             </div>
         </main>
@@ -83,13 +83,13 @@
                         <h5 class="mb-3">Наші контакти</h5>
                         <div class="text-center">
                             <div class="contacts">
-                                <Tel/>
+                                <Tel></Tel>
                             </div>
                             <div class="contacts">
-                                <Tel2/>
+                                <Tel2></Tel2>
                             </div>
                             <div class="contacts">
-                                <Mail/>
+                                <Mail></Mail>
                             </div>
                         </div>
                     </div>

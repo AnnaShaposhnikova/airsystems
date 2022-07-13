@@ -14,12 +14,12 @@
                     </div>
                     <div class="pt-3">
                         <div>Телефон:</div>
-                        <Tel class="contacts-on-white"/>
-                        <Tel2 class="contacts-on-white"/>
+                        <Tel class="contacts-on-white"></Tel>
+                        <Tel2 class="contacts-on-white"></Tel2>
                     </div>
                     <div class="pt-3">
                         <div>email:</div>
-                        <Mail class="contacts-on-white"/>
+                        <Mail class="contacts-on-white"></Mail>
                     </div>
                 </div>
             </div>

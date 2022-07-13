@@ -41,7 +41,7 @@
             <div class="col-lg-3 col-sm-6 d-flex">
                 <Card>
                     <CardTitle>Гвинтовi <br/>компресори</CardTitle>
-                    <CardImage src="/img/vint_index.jpg"/>
+                    <CardImage src="/img/vint_index.jpg"></CardImage>
                     <CardBody>
                         <ul>
                             <li>
@@ -61,7 +61,7 @@
             <div class="col-lg-3 col-sm-6  d-flex">
                 <Card>
                     <CardTitle>Компресори для сипких <br/>матерiалiв</CardTitle>
-                    <CardImage src="/img/silobas-yan-2.jpg"/>
+                    <CardImage src="/img/silobas-yan-2.jpg"></CardImage>
                     <CardBody>
                         <ul>
                             <li>
@@ -78,7 +78,7 @@
             <div class="col-lg-3 col-sm-6 d-flex">
                 <Card>
                     <CardTitle>Высокобарнi<br/>компресори</CardTitle>
-                    <CardImage src="/img/highbarcompressor.jpg"/>
+                    <CardImage src="/img/highbarcompressor.jpg"></CardImage>
                     <CardBody>
                         <ul>
                             <li>
@@ -93,7 +93,7 @@
             <div class="col-lg-3 col-sm-6 d-flex">
                 <Card>
                     <CardTitle>Осушувачі повітря</CardTitle>
-                    <CardImage src="/img/dry.jpg"/>
+                    <CardImage src="/img/dry.jpg"></CardImage>
                     <CardBody>
                         <ul>
                             <li>
@@ -110,7 +110,7 @@
             <div class="col-lg-3 col-sm-6 d-flex">
                 <Card>
                     <CardTitle>Системи <br/>рекуперації тепла</CardTitle>
-                    <CardImage src="/img/recuperation.jpg"/>
+                    <CardImage src="/img/recuperation.jpg"></CardImage>
                     <CardBody>
                         <ul>
                             <li>
@@ -125,7 +125,7 @@
             <div class="col-lg-3 col-sm-6  d-flex">
                 <Card>
                     <CardTitle>Ресiвери</CardTitle>
-                    <CardImage src="/img/reciver.jpg"/>
+                    <CardImage src="/img/reciver.jpg"></CardImage>
                     <CardBody>
                         <ul>
                             <li>
@@ -140,7 +140,7 @@
             <div class="col-lg-3 col-sm-6 d-flex">
                 <Card>
                     <CardTitle>Витратні матеріали <br/>та запасні частини</CardTitle>
-                    <CardImage src="/img/consumables.jpg"/>
+                    <CardImage src="/img/consumables.jpg"></CardImage>
                     <CardBody>
                         <ul>
                             <li>
@@ -155,7 +155,7 @@
             <div class="col-lg-3 col-sm-6 d-flex">
                 <Card>
                     <CardTitle>Дизельнi портативнi гвинтові компресори серії TVK</CardTitle>
-                    <CardImage src="/img/dizel.jpg"/>
+                    <CardImage src="/img/dizel.jpg"></CardImage>
                     <CardBody>
                         <ul>
                             <li>
