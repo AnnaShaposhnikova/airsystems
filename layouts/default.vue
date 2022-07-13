@@ -3,7 +3,7 @@
         <header class="container-fluid ">
             <section class="row">
                 <div class="col d-none d-lg-flex mt-2">
-                    <Logo height="60"/>
+                    <Logo height="70"/>
                 </div>
                 <div class="col-auto mr-lg-auto mx-auto mt-2">
                     <Tel class="contacts" />
@@ -61,7 +61,7 @@
                             <NuxtLink to="/vysokobarny-kompresory-tamsan" class="footernav" >Високобарнi компресори</NuxtLink>
                         </div>
                         <div class="indent">
-                            <NuxtLink to="/dizelny-portatyvny-kompresory-tamsan" class="footernav" >Дизельнi портативнi гвинтові компресори серіїTVK</NuxtLink>
+                            <NuxtLink to="/dizelny-portatyvny-kompresory-tamsan" class="footernav" >Дизельнi портативнi гвинтові компресори серії TVK</NuxtLink>
                         </div>
                         <div>
                             <NuxtLink to="/vytratny-materialy-ta-zapasny-chastyny" class="footernav" >Витратні матеріали та запасні частини</NuxtLink>

@@ -1,5 +1,5 @@
 <template>
-    <b-navbar toggleable="lg" type="light" variant="info" class="nav-wrapper">
+    <b-navbar toggleable="lg" type="dark" variant="info" class="nav-wrapper">
         <b-navbar-brand to="/" class="d-lg-none">
             <Logo height="50"/>
         </b-navbar-brand>
@@ -13,7 +13,7 @@
                 ></b-nav-item>
                 <b-nav-item to="/o-nas">О нас</b-nav-item>
                 <b-nav-item-dropdown text="Каталог обладнання">
-                        <b-dropdown-group id="dropdown-group-1" style="color:white" header="LMF">
+                        <b-dropdown-group id="dropdown-group-1" header="LMF">
                             <b-dropdown-item  class ="nav-dropdown-items" to="/gvyntovy-kompresory-lmf">Гвинтовi компресори</b-dropdown-item>
                         </b-dropdown-group>
                         <b-dropdown-group id="dropdown-group-2" header="Tamsan">

@@ -1,8 +1,7 @@
 <template>
-<span>
-    <a href="mailto:info@airsystems.com.ua" ><b-icon-envelope></b-icon-envelope> info@airsystems.com.ua</a>
-
-</span>
+    <div>
+        <a href="mailto:info@airsystems.com.ua" ><b-icon-envelope></b-icon-envelope> info@airsystems.com.ua</a>
+    </div>
 </template>
 
 <script>
