@@ -78,15 +78,15 @@ body {
 }
 
 header {
-    background-color: #3397b0;
+    background-color: white;
 }
 .nav-wrapper{
-    box-shadow: rgba(0, 125, 156, 0.8) 0px 5px 5px;
+    border-bottom: 7px solid rgb(0, 125, 156);
 }
 
 .dropdown-item {
-    color: white !important;
-    font-size: 16px;
+    color: rgb(0, 125, 156) !important;
+    font-size: inherit;
 }
 .dropdown-item:hover {
     color: #6cc7d3 !important;
@@ -95,18 +95,27 @@ header {
     background-color: transparent !important;
 }
 .dropdown-menu {
-    background-color: #3397b0;
+    background-color: white;
 }
 
 .dropdown-header {
-    color:  white;
-    font-size: 18px;
+    color: rgb(0, 125, 156);
+    font-size: inherit;
     background-color: transparent;
+    padding: 0.3em 1em;
 }
 
 .nav-item {
     margin-right: 1em;
     margin-left: 1em;
+}
+
+.navbar-collapse.show .nav-item {
+    margin-right: 0;
+    margin-left: 0;
+}
+.navbar-collapse.show .dropdown-menu {
+    border: 0;
 }
 
 main {
@@ -134,11 +143,11 @@ html {
 }
 
 .contacts a {
-    color:  white !important;
+    color: rgb(0, 125, 156) !important;
 }
 
 .navbar-nav .nav-link {
-    color:  white !important;
+    color:  rgb(0, 125, 156) !important;
     font-weight: bold;
 }
 .footernav,.socialmedia, footer .contacts a{
@@ -213,7 +222,7 @@ li {
 }
 
 .nav-dropdown-items {
-    padding-left: 40px;
+    padding-left: 20px;
 }
 
 .error-wrapper{
