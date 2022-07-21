@@ -241,3 +241,7 @@ li {
     font-size: x-large;
     background-color: #007d9c;
 }
+
+.grecaptcha-badge {
+    visibility: hidden;
+}

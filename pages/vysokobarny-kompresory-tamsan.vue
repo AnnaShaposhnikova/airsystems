@@ -111,10 +111,11 @@
                 </div>
             </div>
         </div>
-        <OrderForm
-        >
-            <modal-footer></modal-footer>
-        </OrderForm>
+        <div class="row justify-content-center py-4">
+            <div class="col-auto">
+                <OrderForm></OrderForm>
+            </div>
+        </div>
     </article>
 </template>
 <script>
