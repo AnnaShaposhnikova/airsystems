@@ -30,57 +30,57 @@
                 <div class="row justify-content-center pt-5 pb-3">
                     <div class="col-lg-2 d-none d-lg-block catalog-footer">
                         <div>
-                            <NuxtLink to="/" class="footernav">Головна</NuxtLink>
+                            <NuxtLink to="/" class="footernav"> {{$t("Головна")}}</NuxtLink>
                         </div>
                         <div>
                             <NuxtLink to="/o-nas" class="footernav">О нас</NuxtLink>
                         </div>
                         <div>
-                            <NuxtLink to="/poslygy" class="footernav">Послуги</NuxtLink>
+                            <NuxtLink to="/poslygy" class="footernav">{{$t("Послуги")}}</NuxtLink>
                         </div>
                         <div>
-                            <NuxtLink to="/contacts" class="footernav">Контакти</NuxtLink>
+                            <NuxtLink to="/contacts" class="footernav">{{$t("Контакти")}}</NuxtLink>
                         </div>
                     </div>
                     <div class="col-lg-4 d-none d-lg-block catalog-footer">
                         <div>LMF</div>
                         <div class="indent">
-                            <NuxtLink to="/gvyntovy-kompresory-lmf" class="footernav">Гвинтовi компресори</NuxtLink>
+                            <NuxtLink to="/gvyntovy-kompresory-lmf" class="footernav">{{$t("Гвинтовi компресори")}}</NuxtLink>
                         </div>
                         <div>Tamsan</div>
                         <div class="indent">
-                            <NuxtLink to="/gvyntovy-kompresory-tamsan" class="footernav" >Гвинтовi компресори</NuxtLink>
+                            <NuxtLink to="/gvyntovy-kompresory-tamsan" class="footernav" >{{$t("Гвинтовi компресори")}}</NuxtLink>
                         </div>
                         <div class="indent">
-                            <NuxtLink to="/osyshyvachi-povitrya-tamsan" class="footernav" >Осушувачi повiтря</NuxtLink>
+                            <NuxtLink to="/osyshyvachi-povitrya-tamsan" class="footernav" >{{$t("Осушувачi повiтря")}}</NuxtLink>
                         </div>
                         <div class="indent">
-                            <NuxtLink to="/kompresory-dlya-sypkyh-materialiv-tamsan" class="footernav" >Компресори для сипких матеріалів</NuxtLink>
+                            <NuxtLink to="/kompresory-dlya-sypkyh-materialiv-tamsan" class="footernav" >{{$t("Компресори для сипких матеріалів")}}</NuxtLink>
                         </div>
                         <div class="indent">
-                            <NuxtLink to="/vysokobarny-kompresory-tamsan" class="footernav" >Високобарнi компресори</NuxtLink>
+                            <NuxtLink to="/vysokobarny-kompresory-tamsan" class="footernav" >{{$t("Високобарнi компресори")}}</NuxtLink>
                         </div>
                         <div class="indent">
-                            <NuxtLink to="/dizelny-portatyvny-kompresory-tamsan" class="footernav" >Дизельнi портативнi гвинтові компресори серії TVK</NuxtLink>
+                            <NuxtLink to="/dizelny-portatyvny-kompresory-tamsan" class="footernav" >{{$t("Дизельнi портативнi гвинтові компресори серії TVK")}}</NuxtLink>
                         </div>
                         <div>
-                            <NuxtLink to="/vytratny-materialy-ta-zapasny-chastyny" class="footernav" >Витратні матеріали та запасні частини</NuxtLink>
+                            <NuxtLink to="/vytratny-materialy-ta-zapasny-chastyny" class="footernav" >{{$t("Витратні матеріали та запасні частини")}}</NuxtLink>
                         </div>
                         <div>
-                            <NuxtLink to="/systemy-recureratsii-tepla" class="footernav" >Системи рекуперації тепла</NuxtLink>
+                            <NuxtLink to="/systemy-recureratsii-tepla" class="footernav" >{{$t("Системи рекуперації тепла")}}</NuxtLink>
                         </div>
                         <div>
-                            <NuxtLink to="/reciver" class="footernav">Ресiвери</NuxtLink>
+                            <NuxtLink to="/reciver" class="footernav">{{$t("Ресiвери")}}</NuxtLink>
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-6 col-lg-2 text-center">
-                        <h5 class="mb-3">Ми у соцмережах</h5>
+                        <h5 class="mb-3">{{$t("Ми у соцмережах")}}</h5>
                         <a href="https://www.facebook.com" class="socialmedia"><b-icon-facebook class="h1 mx-2"></b-icon-facebook></a>
                         <a href="https://www.instagram.com" class="socialmedia"><b-icon-instagram class="h1 mx-2"></b-icon-instagram></a>
                     </div>
 
                     <div class="col-sm-12  col-md-6 col-lg-3 text-center">
-                        <h5 class="mb-3">Наші контакти</h5>
+                        <h5 class="mb-3">{{$t("Контакти")}}</h5>
                         <div class="text-center">
                             <div class="contacts">
                                 <Tel></Tel>

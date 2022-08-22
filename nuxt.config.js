@@ -64,7 +64,32 @@ export default {
     // Modules: https://go.nuxtjs.dev/config-modules
     modules: [
         // https://go.nuxtjs.dev/bootstrap
-        "bootstrap-vue/nuxt"
+        "bootstrap-vue/nuxt",
+        ['nuxt-i18n', {
+            detectBrowserLanguage: {
+                useCookie: true,
+                cookieKey: 'i18n_redirected',
+                alwaysRedirect: false,
+                fallbackLocale: 'ua'
+            },
+            locales: [
+                {
+                    name: 'Ukrainian',
+                    code: 'ua',
+                    iso: 'ua-UA',
+                    file: 'ua-UA.js'
+                },
+                {
+                    name: 'Russian',
+                    code: 'ru',
+                    iso: 'ru-RU',
+                    file: 'ru-RU.js'
+                },
+            ],
+            lazy: true,
+            langDir: 'lang/',
+            defaultLocale: 'ua',
+        }]
     ],
 
     bootstrapVue: {
