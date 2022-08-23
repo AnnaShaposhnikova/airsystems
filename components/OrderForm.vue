@@ -12,7 +12,7 @@
                     type="text"
                     :placeholder="$t('Введiть iм\'я')"
                 ></b-form-input>
-                <div v-if="errors.name" class="error">{{errors.name}}</div>
+                <div v-if="errors.name" class="error">{{$t(errors.name)}}</div>
                 <label for="email" class="popup-label mt-2" >Email</label>
                 <b-form-input
                     id="email"
@@ -21,7 +21,7 @@
                     :state="emailState"
                     :placeholder="$t('Введiть email')"
                 ></b-form-input>
-                <div v-if="errors.email" class="error">{{errors.email}}</div>
+                <div v-if="errors.email" class="error">{{$t(errors.email)}}</div>
                 <label for="tel" class="popup-label mt-2">Teлефон</label>
                 <b-form-input
                     id="tel"
@@ -30,7 +30,7 @@
                     type="tel"
                     :placeholder="$t('Введiть номер телефону')"
                 ></b-form-input>
-                <div v-if="errors.tel" class="error">{{errors.tel}}</div>
+                <div v-if="errors.tel" class="error">{{$t(errors.tel)}}</div>
                 <label for="message" class="popup-label mt-2">{{$t("Текст повiдомлення")}}</label>
                 <b-form-textarea
                     id="message"
@@ -39,7 +39,7 @@
                     :placeholder="$t('Введiть текст')"
                     rows="5"
                 ></b-form-textarea>
-                <div v-if="errors.message" class="error">{{errors.message}}</div>
+                <div v-if="errors.message" class="error">{{$t(errors.message)}}</div>
             </b-form>
             <template #modal-footer>
                 <b-btn class="submit-form-popup my-3 mx-auto order-btn" @click="handlerSubmit">{{$t("Замовити")}}</b-btn>
@@ -58,7 +58,7 @@
 <script>
 
 const ERROR_MSG = {
-    empty: "Це поле e обов'язковим",
+    empty: "Це поле є обов'язковим",
     lengthName:"Довжина iм'я не може бути меньше нiж 3 букви",
     lengthTel:"Довжина номера телефона не може бути меньше нiж 5 цифр",
     email: "Введiть корректний email",

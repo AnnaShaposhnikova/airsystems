@@ -31,7 +31,7 @@ export default {
     layout: "default",
     head() {
         return {
-            title: ` Контакти - ${process.env.siteName}`,
+            title: `${this.$t("Контакти")} - ${process.env.siteName}`,
             meta: [
                 {
                     name: "description",
