@@ -1,16 +1,16 @@
 <template>
     <div>
-        <b-button v-b-modal.modal-1 class="order-btn">Замовити</b-button>
+        <b-button v-b-modal.modal-1 class="order-btn">{{$t("Замовити")}}</b-button>
 
-        <b-modal id="modal-1" title="Замовити">
+        <b-modal id="modal-1" :title='$t("Замовити")'>
             <b-form name="order">
-                <label for="name" class="popup-label mt-2">Iм'я</label>
+                <label for="name" class="popup-label mt-2">{{$t("Iм'я")}}</label>
                 <b-form-input
                     id="name"
                     :state="nameState"
                     v-model="formData.name"
                     type="text"
-                    placeholder="Введiть iм'я"
+                    :placeholder="$t('Введiть iм\'я')"
                 ></b-form-input>
                 <div v-if="errors.name" class="error">{{errors.name}}</div>
                 <label for="email" class="popup-label mt-2" >Email</label>
@@ -19,7 +19,7 @@
                     v-model="formData.email"
                     type="email"
                     :state="emailState"
-                    placeholder="Введiть email"
+                    :placeholder="$t('Введiть email')"
                 ></b-form-input>
                 <div v-if="errors.email" class="error">{{errors.email}}</div>
                 <label for="tel" class="popup-label mt-2">Teлефон</label>
@@ -28,26 +28,26 @@
                     :state="telState"
                     v-model="formData.tel"
                     type="tel"
-                    placeholder="Введiть номер телефону"
+                    :placeholder="$t('Введiть номер телефону')"
                 ></b-form-input>
                 <div v-if="errors.tel" class="error">{{errors.tel}}</div>
-                <label for="message" class="popup-label mt-2">Текст повiдомлення</label>
+                <label for="message" class="popup-label mt-2">{{$t("Текст повiдомлення")}}</label>
                 <b-form-textarea
                     id="message"
                     :state="messageState"
                     v-model="formData.message"
-                    placeholder="Введiть текст"
+                    :placeholder="$t('Введiть текст')"
                     rows="5"
                 ></b-form-textarea>
                 <div v-if="errors.message" class="error">{{errors.message}}</div>
             </b-form>
             <template #modal-footer>
-                <b-btn class="submit-form-popup my-3 mx-auto order-btn" @click="handlerSubmit">Замовити</b-btn>
+                <b-btn class="submit-form-popup my-3 mx-auto order-btn" @click="handlerSubmit">{{$t("Замовити")}}</b-btn>
             </template>
         </b-modal>
 
         <b-modal id="modal-2" size="sm" variant="success">
-            <p class="my-4">Відправлено</p>
+            <p class="my-4">{{$t("Відправлено")}}</p>
             <template #modal-footer>
                 <b-btn class="" @click="$bvModal.hide('modal-2')">OK</b-btn>
             </template>
