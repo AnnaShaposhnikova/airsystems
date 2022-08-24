@@ -315,7 +315,7 @@ export default {
     layout: "default",
     head() {
         return {
-            title: `${this.$t("Дизельнi портативнi гвинтовi компресори серії TVK")}TVK - ${process.env.siteName}`,
+            title: `${this.$t("Дизельнi портативнi гвинтовi компресори серії TVK")} - ${process.env.siteName}`,
             meta: [
                 {
                     hid: "description",
