@@ -3,15 +3,16 @@
         <div class="row">
             <div class="col">
                 <h1>
-                    Компресори для сипких матеріалів Tamsan
+                    {{$t("Компресори для сипких матеріалів")}} Tamsan
                 </h1>
             </div>
         </div>
         <div class="row">
             <div class="col">
                 <p>
-                    Поршневі компресори Tamko спеціально виготовлені для
-                    розвантаження цементу з цементовозів.
+                    {{
+                        $t("bulk-material-p1")
+                    }}
                 </p>
             </div>
         </div>
@@ -43,7 +44,7 @@
 
         <div class="row justify-content-center pb-3 pt-3">
             <div class="col-sm-12">
-                <h4>Технічні параметри компресорів TAMKO</h4>
+                <h4>{{$t("Технічні параметри компресорів")}} TAMKO</h4>
             </div>
         </div>
         <div class="row pb-3">
@@ -52,8 +53,8 @@
                     <table class="table table-bordered table-striped">
                         <thead>
                         <tr>
-                            <th>Технічні параметри</th>
-                            <th>Одиниці вимірювання</th>
+                            <th>{{ $t("Технічні параметри") }}</th>
+                            <th>{{ $t("Одиниці вимірювання") }}</th>
                             <th>
                                     <span style="font-weight: bold;"
                                     >TAMKO 7200</span
@@ -68,37 +69,37 @@
                         </thead>
                         <tbody>
                         <tr>
-                            <td>Продуктивність при тиску 2 бар</td>
+                            <td>{{ $t("Продуктивність при тиску") }} 2 бар</td>
                             <td>м3/хв</td>
                             <td>7,2</td>
                             <td>10,2</td>
                         </tr>
                         <tr>
-                            <td>Максимальний тиск</td>
+                            <td>{{ $t("Максимальний тиск") }}</td>
                             <td>Бар</td>
                             <td>2</td>
                             <td>2</td>
                         </tr>
                         <tr>
-                            <td>Потужність электродвигуна</td>
+                            <td>{{ $t("Потужність электродвигуна") }}</td>
                             <td>кВт</td>
                             <td>18,5</td>
                             <td>22</td>
                         </tr>
                         <tr>
-                            <td>Електроживлення</td>
+                            <td>{{ $t("Електроживлення") }}</td>
                             <td></td>
                             <td>400V–3ф-50Гц</td>
                             <td>400V–3ф-50Гц</td>
                         </tr>
                         <tr>
-                            <td>Poзміри, ДхШхВ</td>
+                            <td>{{ $t("Розміри") }}, ДхШхВ</td>
                             <td>мм</td>
                             <td>100×1500×1000</td>
                             <td>900×1500×800</td>
                         </tr>
                         <tr>
-                            <td>Вага</td>
+                            <td>{{ $t("Вага") }}</td>
                             <td>кг</td>
                             <td>480</td>
                             <td>572</td>
@@ -122,12 +123,12 @@ export default {
     layout: "default",
     head() {
         return {
-            title: `Компресори для сипких матерiалiв Tamsan - ${process.env.siteName}`,
+            title: `${this.$t("Компресори для сипких матерiалiв")} Tamsan - ${process.env.siteName}`,
             meta: [
                 {
                     hid: "description",
                     name: "description",
-                    content: "AirSystems - Компресори для сипких матерiалiв Tamsan"
+                    content: `AirSystems - ${this.$t("Компресори для сипких матерiалiв")} Tamsan`
                 },
                 {
                     hid: "keywords",

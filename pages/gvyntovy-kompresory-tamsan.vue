@@ -859,7 +859,7 @@ export default {
                 {
                     hid: "description",
                     name: "description",
-                    content: "AirSystems - Гвинтовi компресори Tamsan"
+                    content: `AirSystems - ${this.$t("Гвинтовi компресори")} Tamsan`
                 },
                 {
                     hid: "keywords",
