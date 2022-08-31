@@ -3,9 +3,9 @@
         <div class="row">
             <div class="col">
                 <h1 class="text-center">
-                    "Повітряні Системи" &mdash; робимо стиснене повітря швидко та якісно
+                    {{ $t("index-p1") }}
                 </h1>
-                <h4 class="text-center text-secondary">Продаж та обслуговування компресорного обладнання</h4>
+                <h4 class="text-center text-secondary">{{ $t("Продаж та обслуговування компресорного обладнання") }}</h4>
             </div>
         </div>
         <section class="row justify-content-center pb-5 pt-5">
@@ -33,14 +33,14 @@
         <div class="row">
             <div class="col">
                 <h2 class="text-center mb-4">
-                    Каталог обладнання
+                    {{ $t("Каталог обладнання") }}
                 </h2>
             </div>
         </div>
         <section class="row justify-content-center">
             <div class="col-lg-3 col-sm-6 d-flex">
                 <Card>
-                    <CardTitle>Гвинтовi <br/>компресори</CardTitle>
+                    <CardTitle>{{ $t("Гвинтові") }} <br/>{{ $t("компресори") }}</CardTitle>
                     <CardImage src="/img/vint_index.jpg"></CardImage>
                     <CardBody>
                         <ul>
@@ -60,7 +60,7 @@
             </div>
             <div class="col-lg-3 col-sm-6  d-flex">
                 <Card>
-                    <CardTitle>Компресори для сипких <br/>матерiалiв</CardTitle>
+                    <CardTitle>{{ $t("Компресори для сипких") }} <br/>{{ $t("матеріалів") }}</CardTitle>
                     <CardImage src="/img/silobas-yan-2.jpg"></CardImage>
                     <CardBody>
                         <ul>
@@ -77,7 +77,7 @@
             </div>
             <div class="col-lg-3 col-sm-6 d-flex">
                 <Card>
-                    <CardTitle>Высокобарнi<br/>компресори</CardTitle>
+                    <CardTitle>{{ $t("Високобарні")}}<br/>{{ $t("компресори")}}</CardTitle>
                     <CardImage src="/img/highbarcompressor.jpg"></CardImage>
                     <CardBody>
                         <ul>
@@ -92,7 +92,7 @@
             </div>
             <div class="col-lg-3 col-sm-6 d-flex">
                 <Card>
-                    <CardTitle>Осушувачі повітря</CardTitle>
+                    <CardTitle>{{ $t("Осушувачі повітря") }}</CardTitle>
                     <CardImage src="/img/dry.jpg"></CardImage>
                     <CardBody>
                         <ul>
@@ -109,13 +109,13 @@
         <section class="row justify-content-center">
             <div class="col-lg-3 col-sm-6 d-flex">
                 <Card>
-                    <CardTitle>Системи <br/>рекуперації тепла</CardTitle>
+                    <CardTitle>{{ $t("Системи")}} <br/>{{ $t("рекуперації тепла")}}</CardTitle>
                     <CardImage src="/img/recuperation.jpg"></CardImage>
                     <CardBody>
                         <ul>
                             <li>
                                 <NuxtLink to="/systemy-recureratsii-tepla">
-                                    Системи <br/>рекуперації тепла
+                                    {{ $t("Системи")}} <br/>{{ $t("рекуперації тепла")}}
                                 </NuxtLink>
                             </li>
                         </ul>
@@ -124,13 +124,13 @@
             </div>
             <div class="col-lg-3 col-sm-6  d-flex">
                 <Card>
-                    <CardTitle>Ресiвери</CardTitle>
+                    <CardTitle>{{ $t("Ресівери") }}</CardTitle>
                     <CardImage src="/img/reciver.jpg"></CardImage>
                     <CardBody>
                         <ul>
                             <li>
                                 <NuxtLink to="/reciver">
-                                    Ресiвери
+                                    {{ $t("Ресівери") }}
                                 </NuxtLink>
                             </li>
                         </ul>
@@ -139,13 +139,13 @@
              </div>
             <div class="col-lg-3 col-sm-6 d-flex">
                 <Card>
-                    <CardTitle>Витратні матеріали <br/>та запасні частини</CardTitle>
+                    <CardTitle>{{ $t("Витратні матеріали") }} <br/>{{ $t("та запасні частини")}}</CardTitle>
                     <CardImage src="/img/consumables.jpg"></CardImage>
                     <CardBody>
                         <ul>
                             <li>
                                 <NuxtLink to="/vytratny-materialy-ta-zapasny-chastyny">
-                                    Витратні матеріали <br/>та запасні частини
+                                    {{ $t("Витратні матеріали") }} <br/>{{ $t("та запасні частини")}}
                                 </NuxtLink>
                             </li>
                         </ul>
@@ -154,14 +154,13 @@
             </div>
             <div class="col-lg-3 col-sm-6 d-flex">
                 <Card>
-                    <CardTitle>Дизельнi портативнi гвинтові компресори серії TVK</CardTitle>
+                    <CardTitle>{{ $t("Дизельні портативні гвинтові компресори серії TVK") }}</CardTitle>
                     <CardImage src="/img/dizel.jpg"></CardImage>
                     <CardBody>
                         <ul>
                             <li>
                                 <NuxtLink to="/dizelny-portatyvny-kompresory-tamsan">
-                                    Дизельнi портативнi гвинтові компресори
-                                    серії TVK
+                                    {{$t("Дизельні портативні гвинтові компресори серії TVK")}}
                                 </NuxtLink>
                             </li>
                         </ul>
@@ -171,29 +170,26 @@
         </section>
         <article class="row justify-content-center pb-5 pt-5 ">
             <div class="col-lg-10">
-                <h2 class="text-center mb-4">Наші переваги:</h2>
+                <h2 class="text-center mb-4">{{ $t("Наші переваги") }}:</h2>
             </div>
             <div class="col-sm-10">
                 <h4>
                     <b-icon font-scale="2" icon="check"></b-icon>
-                    Надійне, якісне
-                    обладнання та сервіс
+                    {{ $t("Надійне, якісне обладнання та сервіс") }}
                 </h4>
                 <h4>
                     <b-icon font-scale="2" icon="check"></b-icon>
-                    Великий досвід
-                    роботи на ринку України
+                    {{$t("Великий досвід роботи на ринку України")}}}
                 </h4>
                 <h4>
                     <b-icon font-scale="2" icon="check"></b-icon>
-                    Індивідуальний
-                    підхід до кожного клієнта
+                    {{$t("Індивідуальний підхід до кожного клієнта")}}
                 </h4>
             </div>
         </article>
         <article class="row justify-content-center pb-3 pt-5 ">
             <div class="col-lg-10">
-                <h2 class="text-center mb-4">Наші клієнти:</h2>
+                <h2 class="text-center mb-4">{{ $t("Наші клієнти") }}:</h2>
             </div>
             <div class="row justify-content-center">
                 <div class="col-lg-4 col-md-6 col-sm-12 text-center my-2">
@@ -255,11 +251,11 @@ export default {
     layout: "default",
     head() {
         return {
-            title: `Повітряні Системи - продаж та обслуговування компресорного обладнання  - ${process.env.siteName}`,
+            title: `${this.$t("index-p1")}  - ${process.env.siteName}`,
             meta: [
                 {
                     name: "description",
-                    content: "AirSystems - Головна"
+                    content: `AirSystems - ${this.$t("Головна")}`
                 }
             ]
         };

@@ -12,15 +12,15 @@
                 <b-nav-item to="/o-nas">О нас</b-nav-item>
                 <b-nav-item-dropdown text="Каталог">
                     <b-dropdown-group header="LMF">
-                        <b-dropdown-item  class ="nav-dropdown-items" to="/gvyntovy-kompresory-lmf">{{$t("Гвинтовi компресори")}}</b-dropdown-item>
+                        <b-dropdown-item  class ="nav-dropdown-items" to="/gvyntovy-kompresory-lmf">{{$t("Гвинтові компресори")}}</b-dropdown-item>
                     </b-dropdown-group>
                     <b-dropdown-group header="Tamsan">
-                        <b-dropdown-item class ="nav-dropdown-items" to="/gvyntovy-kompresory-tamsan">{{$t("Гвинтовi компресори")}}</b-dropdown-item>
-                        <b-dropdown-item class ="nav-dropdown-items" to="/osyshyvachi-povitrya-tamsan">{{$t("Осушувачi повiтря")}}</b-dropdown-item>
+                        <b-dropdown-item class ="nav-dropdown-items" to="/gvyntovy-kompresory-tamsan">{{$t("Гвинтові компресори")}}</b-dropdown-item>
+                        <b-dropdown-item class ="nav-dropdown-items" to="/osyshyvachi-povitrya-tamsan">{{$t("Осушувачі повітря")}}</b-dropdown-item>
                         <b-dropdown-item class ="nav-dropdown-items" to="/kompresory-dlya-sypkyh-materialiv-tamsan">{{$t("Компресори для сипких матеріалів")}}</b-dropdown-item>
-                        <b-dropdown-item class ="nav-dropdown-items" to="/vysokobarny-kompresory-tamsan">{{$t("Високобарнi компресори")}}</b-dropdown-item>
+                        <b-dropdown-item class ="nav-dropdown-items" to="/vysokobarny-kompresory-tamsan">{{$t("Високобарні компресори")}}</b-dropdown-item>
                         <b-dropdown-item class ="nav-dropdown-items" to="/dizelny-portatyvny-kompresory-tamsan">
-                            {{ $t("Дизельнi портативнi гвинтові компресори серії TVK") }}</b-dropdown-item>
+                            {{ $t("Дизельні портативні гвинтові компресори серії TVK") }}</b-dropdown-item>
                     </b-dropdown-group>
 
                     <b-dropdown-item  to="/vytratny-materialy-ta-zapasny-chastyny">
@@ -30,7 +30,7 @@
                         {{$t("Системи рекуперації тепла")}}
                     </b-dropdown-item>
                     <b-dropdown-item  to="/reciver">
-                        {{$t('Ресiвери')}}
+                        {{$t('Ресівери')}}
                     </b-dropdown-item>
 
                 </b-nav-item-dropdown>
