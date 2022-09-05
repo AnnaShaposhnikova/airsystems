@@ -45,23 +45,23 @@
                     <div class="col-lg-4 d-none d-lg-block catalog-footer">
                         <div>LMF</div>
                         <div class="indent">
-                            <NuxtLink to="/gvyntovy-kompresory-lmf" class="footernav">{{$t("Гвинтовi компресори")}}</NuxtLink>
+                            <NuxtLink to="/gvyntovy-kompresory-lmf" class="footernav">{{$t("Гвинтові компресори")}}</NuxtLink>
                         </div>
                         <div>Tamsan</div>
                         <div class="indent">
-                            <NuxtLink to="/gvyntovy-kompresory-tamsan" class="footernav" >{{$t("Гвинтовi компресори")}}</NuxtLink>
+                            <NuxtLink to="/gvyntovy-kompresory-tamsan" class="footernav" >{{$t("Гвинтові компресори")}}</NuxtLink>
                         </div>
                         <div class="indent">
-                            <NuxtLink to="/osyshyvachi-povitrya-tamsan" class="footernav" >{{$t("Осушувачi повiтря")}}</NuxtLink>
+                            <NuxtLink to="/osyshyvachi-povitrya-tamsan" class="footernav" >{{$t("Осушувачі повітря")}}</NuxtLink>
                         </div>
                         <div class="indent">
                             <NuxtLink to="/kompresory-dlya-sypkyh-materialiv-tamsan" class="footernav" >{{$t("Компресори для сипких матеріалів")}}</NuxtLink>
                         </div>
                         <div class="indent">
-                            <NuxtLink to="/vysokobarny-kompresory-tamsan" class="footernav" >{{$t("Високобарнi компресори")}}</NuxtLink>
+                            <NuxtLink to="/vysokobarny-kompresory-tamsan" class="footernav" >{{$t("Високобарні компресори")}}</NuxtLink>
                         </div>
                         <div class="indent">
-                            <NuxtLink to="/dizelny-portatyvny-kompresory-tamsan" class="footernav" >{{$t("Дизельнi портативнi гвинтові компресори серії TVK")}}</NuxtLink>
+                            <NuxtLink to="/dizelny-portatyvny-kompresory-tamsan" class="footernav" >{{$t("Дизельні портативні гвинтові компресори серії TVK")}}</NuxtLink>
                         </div>
                         <div>
                             <NuxtLink to="/vytratny-materialy-ta-zapasny-chastyny" class="footernav" >{{$t("Витратні матеріали та запасні частини")}}</NuxtLink>
@@ -70,7 +70,7 @@
                             <NuxtLink to="/systemy-recureratsii-tepla" class="footernav" >{{$t("Системи рекуперації тепла")}}</NuxtLink>
                         </div>
                         <div>
-                            <NuxtLink to="/reciver" class="footernav">{{$t("Ресiвери")}}</NuxtLink>
+                            <NuxtLink to="/reciver" class="footernav">{{$t("Ресівери")}}</NuxtLink>
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-6 col-lg-2 text-center">

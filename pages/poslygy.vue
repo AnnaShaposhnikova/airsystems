@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col">
                 <h1>
-                    Послуги
+                    {{ $t("Послуги") }}
                 </h1>
             </div>
         </div>
@@ -18,20 +18,18 @@
             <div class="col">
                 <ul>
                     <li>
-                        Продаж та встановлення компресорного обладнання: Atlas
-                        Copco (Бельгія), LMF (Австрія), Tamsan (Туреччина), VANCK(Україна)
+                        {{$t("poslygy-p1")}}
                     </li>
-                    <li>Повітряний аудит</li>
-                    <li>Сервісне та післягарантійне обслуговування компресорного обладнання:
+                    <li>{{ $t("Повітряний аудит") }}</li>
+                    <li>{{$t("poslygy-p2")}}
                         Airpol, Aerzener, Almig, Alup, Atlas Copco, Atmos, Bottarini, Busch, Ceccato, CompАir,
                         Demag,
                         Dalgakiran, Donaldson, Ecoair, Ekomak, Fiac, Fini, Gardner Denver, Hydrovane, Ingersoll
                         Rand,
                         Kaeser, Mark, MTA, Rotorcomp, Worthington, WAN, Ремеза…
                     </li>
-                    <li>
-                        Ремонт та капітальний ремонт гвинтових компресорів
-                        будь-яких марок: Airpol, Aerzener, Almig, Alup, Atlas Copco, Atmos, Bottarini, Busch,
+                    <li>{{$t("poslygy-p3")}}
+                       Airpol, Aerzener, Almig, Alup, Atlas Copco, Atmos, Bottarini, Busch,
                         Ceccato, CompАir, Demag,
                         Dalgakiran, Donaldson, Ecoair, Ekomak, Fiac, Fini, Gardner Denver, Hydrovane, Ingersoll
                         Rand,
@@ -47,12 +45,12 @@ export default {
     layout: "default",
     head() {
         return {
-            title: `Послуги - ${process.env.siteName}`,
+            title: `${this.$t("Послуги")} - ${process.env.siteName}`,
             meta: [
                 {
                     hid: "description",
                     name: "description",
-                    content: "AirSystems - Послуги"
+                    content: `AirSystems - ${this.$t("Послуги")}`
                 },
                 {
                     hid: "keywords",
