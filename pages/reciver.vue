@@ -2,9 +2,7 @@
     <article class="container-fluid">
         <div class="row">
             <div class="col">
-                <h1>
-                    Ресивери для стисненого повітря горизонтальне та
-                    вертикальне виконання
+                <h1>{{$t("Ресівери для стисненого повітря горизонтальне та вертикальне виконання")}}
                 </h1>
             </div>
         </div>
@@ -16,16 +14,16 @@
         <div class="row pb-3">
             <div class="col">
                 <p class="indent">
-                    Максимальний тиск 11 бар(и).
+                    {{ $t(("Максимальний тиск")) }} 11 бар(и).
                 </p>
                 <p class="indent">
                     Комплект поставки:
                 </p>
                 <ul>
                     <li>паспорт</li>
-                    <li>запобіжний клапан</li>
+                    <li>{{ $t("запобіжний клапан") }}</li>
                     <li>манометр</li>
-                    <li>кран зливу конденсату</li>
+                    <li>{{ $t("кран зливу конденсату") }}</li>
                 </ul>
             </div>
         </div>
@@ -35,10 +33,10 @@
                     <table class="table table-bordered table-striped">
                         <thead>
                         <tr>
-                            <th>Типорозмір ресивера</th>
-                            <th>Номінальна місткість. м3</th>
-                            <th>Робочий тиск (МПа)</th>
-                            <th>Спосіб установки</th>
+                            <th>{{$t("Типорозмір ресивера")}}</th>
+                            <th>{{$t("Номінальна місткість")}}, м3</th>
+                            <th>{{ $t("Робочий тиск") }} (МПа)</th>
+                            <th>{{ $t("Спосіб установки") }}</th>
                         </tr>
                         </thead>
                         <tbody>
@@ -200,12 +198,12 @@ export default {
     layout: "default",
     head() {
         return {
-            title: `Ресiвери - ${process.env.siteName}`,
+            title: `${this.$t("Ресівери")} - ${process.env.siteName}`,
             meta: [
                 {
                     hid: "description",
                     name: "description",
-                    content: "AirSystems - Ресiвери"
+                    content: `AirSystems - ${this.$t("Ресівери")}`
                 },
                 {
                     hid: "keywords",
