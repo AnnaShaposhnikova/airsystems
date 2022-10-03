@@ -1,5 +1,5 @@
 <template>
-    <NuxtLink to="/">
+    <NuxtLink :to="localePath('/')">
         <img src="/img/logo333.png" :height="height"/>
     </NuxtLink>
 </template>

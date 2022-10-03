@@ -1,12 +1,12 @@
 <template>
 <div class="error-wrapper">
-   <div class="error-404">    
+   <div class="error-404">
     <h1 v-if="error.statusCode === 404">Сторiнка не знайдена</h1>
     <h1 v-else>An error occurred</h1>
-    <NuxtLink to="/">На головну</NuxtLink>
+    <NuxtLink :to="localePath('/')">На головну</NuxtLink>
   </div>
 </div>
- 
+
 </template>
 
 <script>

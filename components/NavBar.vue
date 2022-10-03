@@ -8,38 +8,37 @@
 
         <b-collapse id="nav-collapse" is-nav>
             <b-navbar-nav class="mx-auto">
-                <b-nav-item to="/"><b-icon icon="house-door-fill"></b-icon></b-nav-item>
-                <b-nav-item to="/o-nas">О нас</b-nav-item>
+                <b-nav-item :to="localePath('/')"><b-icon icon="house-door-fill"></b-icon></b-nav-item>
+                <b-nav-item :to="localePath('/o-nas')">О нас</b-nav-item>
                 <b-nav-item-dropdown text="Каталог">
                     <b-dropdown-group header="LMF">
-                        <b-dropdown-item  class ="nav-dropdown-items" to="/gvyntovy-kompresory-lmf">{{$t("Гвинтові компресори")}}</b-dropdown-item>
+                        <b-dropdown-item  class ="nav-dropdown-items" :to="localePath('/gvyntovy-kompresory-lmf')">{{$t("Гвинтові компресори")}}</b-dropdown-item>
                     </b-dropdown-group>
                     <b-dropdown-group header="Tamsan">
-                        <b-dropdown-item class ="nav-dropdown-items" to="/gvyntovy-kompresory-tamsan">{{$t("Гвинтові компресори")}}</b-dropdown-item>
-                        <b-dropdown-item class ="nav-dropdown-items" to="/osyshyvachi-povitrya-tamsan">{{$t("Осушувачі повітря")}}</b-dropdown-item>
-                        <b-dropdown-item class ="nav-dropdown-items" to="/kompresory-dlya-sypkyh-materialiv-tamsan">{{$t("Компресори для сипких матеріалів")}}</b-dropdown-item>
-                        <b-dropdown-item class ="nav-dropdown-items" to="/vysokobarny-kompresory-tamsan">{{$t("Високобарні компресори")}}</b-dropdown-item>
-                        <b-dropdown-item class ="nav-dropdown-items" to="/dizelny-portatyvny-kompresory-tamsan">
+                        <b-dropdown-item class ="nav-dropdown-items" :to="localePath('/gvyntovy-kompresory-tamsan')">{{$t("Гвинтові компресори")}}</b-dropdown-item>
+                        <b-dropdown-item class ="nav-dropdown-items" :to="localePath('/osyshyvachi-povitrya-tamsan')">{{$t("Осушувачі повітря")}}</b-dropdown-item>
+                        <b-dropdown-item class ="nav-dropdown-items" :to="localePath('/kompresory-dlya-sypkyh-materialiv-tamsan')">{{$t("Компресори для сипких матеріалів")}}</b-dropdown-item>
+                        <b-dropdown-item class ="nav-dropdown-items" :to="localePath('/vysokobarny-kompresory-tamsan')">{{$t("Високобарні компресори")}}</b-dropdown-item>
+                        <b-dropdown-item class ="nav-dropdown-items" :to="localePath('/dizelny-portatyvny-kompresory-tamsan')">
                             {{ $t("Дизельні портативні гвинтові компресори серії TVK") }}</b-dropdown-item>
                     </b-dropdown-group>
 
-                    <b-dropdown-item  to="/vytratny-materialy-ta-zapasny-chastyny">
+                    <b-dropdown-item :to="localePath('/vytratny-materialy-ta-zapasny-chastyny')">
                         {{ $t("Витратні матеріали та запасні частини") }}
                     </b-dropdown-item>
-                    <b-dropdown-item  to="/systemy-recureratsii-tepla">
+                    <b-dropdown-item :to="localePath('/systemy-recureratsii-tepla')">
                         {{$t("Системи рекуперації тепла")}}
                     </b-dropdown-item>
-                    <b-dropdown-item  to="/reciver">
+                    <b-dropdown-item :to="localePath('/reciver')">
                         {{$t('Ресівери')}}
                     </b-dropdown-item>
 
                 </b-nav-item-dropdown>
-                <b-nav-item to="/poslygy">{{$t("Послуги")}}</b-nav-item>
-                <b-nav-item to="/contacts">{{$t("Контакти")}}</b-nav-item>
-                <b-nav-item >
-                    <nuxt-link :to="switchLocalePath('ua')">UA</nuxt-link>
-                    <nuxt-link :to="switchLocalePath('ru')">RU</nuxt-link>
-                </b-nav-item>
+                <b-nav-item :to="localePath('/poslygy')">{{$t("Послуги")}}</b-nav-item>
+                <b-nav-item :to="localePath('/contacts')">{{$t("Контакти")}}</b-nav-item>
+                <b-nav-text>
+                    <nuxt-link v-if="'ua' !== $i18n.locale" class="lang" :to="switchLocalePath('ua')">Укр</nuxt-link><span v-else style="font-weight: bold">Укр</span> | <nuxt-link v-if="'ru' !== $i18n.locale" class="lang" :to="switchLocalePath('ru')">Рус</nuxt-link><span v-else style="font-weight: bold">Рус</span>
+                </b-nav-text>
             </b-navbar-nav>
         </b-collapse>
     </b-navbar>

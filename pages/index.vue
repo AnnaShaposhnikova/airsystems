@@ -45,12 +45,12 @@
                     <CardBody>
                         <ul>
                             <li>
-                                <NuxtLink to="/gvyntovy-kompresory-lmf">
+                                <NuxtLink :to="localePath('/gvyntovy-kompresory-lmf')">
                                     LMF
                                 </NuxtLink>
                             </li>
                             <li>
-                                <NuxtLink to="/gvyntovy-kompresory-tamsan">
+                                <NuxtLink :to="localePath('/gvyntovy-kompresory-tamsan')">
                                     Tamsan
                                 </NuxtLink>
                             </li>
@@ -66,7 +66,7 @@
                         <ul>
                             <li>
                                 <NuxtLink
-                                    to="/kompresory-dlya-sypkyh-materialiv-tamsan"
+                                    :to="localePath('/kompresory-dlya-sypkyh-materialiv-tamsan')"
                                 >
                                     Tamsan
                                 </NuxtLink>
@@ -82,7 +82,7 @@
                     <CardBody>
                         <ul>
                             <li>
-                                <NuxtLink to="/vysokobarny-kompresory-tamsan">
+                                <NuxtLink :to="localePath('/vysokobarny-kompresory-tamsan')">
                                     Tamsan
                                 </NuxtLink>
                             </li>
@@ -97,7 +97,7 @@
                     <CardBody>
                         <ul>
                             <li>
-                                <NuxtLink to="/osyshyvachi-povitrya-tamsan">
+                                <NuxtLink :to="localePath('/osyshyvachi-povitrya-tamsan')">
                                     Tamsan
                                 </NuxtLink>
                             </li>
@@ -114,7 +114,7 @@
                     <CardBody>
                         <ul>
                             <li>
-                                <NuxtLink to="/systemy-recureratsii-tepla">
+                                <NuxtLink :to="localePath('/systemy-recureratsii-tepla')">
                                     {{ $t("Системи")}} <br/>{{ $t("рекуперації тепла")}}
                                 </NuxtLink>
                             </li>
@@ -129,7 +129,7 @@
                     <CardBody>
                         <ul>
                             <li>
-                                <NuxtLink to="/reciver">
+                                <NuxtLink :to="localePath('/reciver')">
                                     {{ $t("Ресівери") }}
                                 </NuxtLink>
                             </li>
@@ -144,7 +144,7 @@
                     <CardBody>
                         <ul>
                             <li>
-                                <NuxtLink to="/vytratny-materialy-ta-zapasny-chastyny">
+                                <NuxtLink :to="localePath('/vytratny-materialy-ta-zapasny-chastyny')">
                                     {{ $t("Витратні матеріали") }} <br/>{{ $t("та запасні частини")}}
                                 </NuxtLink>
                             </li>
@@ -159,7 +159,7 @@
                     <CardBody>
                         <ul>
                             <li>
-                                <NuxtLink to="/dizelny-portatyvny-kompresory-tamsan">
+                                <NuxtLink :to="localePath('/dizelny-portatyvny-kompresory-tamsan')">
                                     {{$t("Дизельні портативні гвинтові компресори серії TVK")}}
                                 </NuxtLink>
                             </li>

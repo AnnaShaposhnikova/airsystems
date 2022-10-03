@@ -30,47 +30,47 @@
                 <div class="row justify-content-center pt-5 pb-3">
                     <div class="col-lg-2 d-none d-lg-block catalog-footer">
                         <div>
-                            <NuxtLink to="/" class="footernav"> {{$t("Головна")}}</NuxtLink>
+                            <NuxtLink :to="localePath('/')" class="footernav"> {{$t("Головна")}}</NuxtLink>
                         </div>
                         <div>
-                            <NuxtLink to="/o-nas" class="footernav">О нас</NuxtLink>
+                            <NuxtLink :to="localePath('/o-nas')" class="footernav">О нас</NuxtLink>
                         </div>
                         <div>
-                            <NuxtLink to="/poslygy" class="footernav">{{$t("Послуги")}}</NuxtLink>
+                            <NuxtLink :to="localePath('/poslygy')" class="footernav">{{$t("Послуги")}}</NuxtLink>
                         </div>
                         <div>
-                            <NuxtLink to="/contacts" class="footernav">{{$t("Контакти")}}</NuxtLink>
+                            <NuxtLink :to="localePath('/contacts')" class="footernav">{{$t("Контакти")}}</NuxtLink>
                         </div>
                     </div>
                     <div class="col-lg-4 d-none d-lg-block catalog-footer">
                         <div>LMF</div>
                         <div class="indent">
-                            <NuxtLink to="/gvyntovy-kompresory-lmf" class="footernav">{{$t("Гвинтові компресори")}}</NuxtLink>
+                            <NuxtLink :to="localePath('/gvyntovy-kompresory-lmf')" class="footernav">{{$t("Гвинтові компресори")}}</NuxtLink>
                         </div>
                         <div>Tamsan</div>
                         <div class="indent">
-                            <NuxtLink to="/gvyntovy-kompresory-tamsan" class="footernav" >{{$t("Гвинтові компресори")}}</NuxtLink>
+                            <NuxtLink :to="localePath('/gvyntovy-kompresory-tamsan')" class="footernav" >{{$t("Гвинтові компресори")}}</NuxtLink>
                         </div>
                         <div class="indent">
-                            <NuxtLink to="/osyshyvachi-povitrya-tamsan" class="footernav" >{{$t("Осушувачі повітря")}}</NuxtLink>
+                            <NuxtLink :to="localePath('/osyshyvachi-povitrya-tamsan')" class="footernav" >{{$t("Осушувачі повітря")}}</NuxtLink>
                         </div>
                         <div class="indent">
-                            <NuxtLink to="/kompresory-dlya-sypkyh-materialiv-tamsan" class="footernav" >{{$t("Компресори для сипких матеріалів")}}</NuxtLink>
+                            <NuxtLink :to="localePath('/kompresory-dlya-sypkyh-materialiv-tamsan')" class="footernav" >{{$t("Компресори для сипких матеріалів")}}</NuxtLink>
                         </div>
                         <div class="indent">
-                            <NuxtLink to="/vysokobarny-kompresory-tamsan" class="footernav" >{{$t("Високобарні компресори")}}</NuxtLink>
+                            <NuxtLink :to="localePath('/vysokobarny-kompresory-tamsan')" class="footernav" >{{$t("Високобарні компресори")}}</NuxtLink>
                         </div>
                         <div class="indent">
-                            <NuxtLink to="/dizelny-portatyvny-kompresory-tamsan" class="footernav" >{{$t("Дизельні портативні гвинтові компресори серії TVK")}}</NuxtLink>
+                            <NuxtLink :to="localePath('/dizelny-portatyvny-kompresory-tamsan')" class="footernav" >{{$t("Дизельні портативні гвинтові компресори серії TVK")}}</NuxtLink>
                         </div>
                         <div>
-                            <NuxtLink to="/vytratny-materialy-ta-zapasny-chastyny" class="footernav" >{{$t("Витратні матеріали та запасні частини")}}</NuxtLink>
+                            <NuxtLink :to="localePath('/vytratny-materialy-ta-zapasny-chastyny')" class="footernav" >{{$t("Витратні матеріали та запасні частини")}}</NuxtLink>
                         </div>
                         <div>
-                            <NuxtLink to="/systemy-recureratsii-tepla" class="footernav" >{{$t("Системи рекуперації тепла")}}</NuxtLink>
+                            <NuxtLink :to="localePath('/systemy-recureratsii-tepla')" class="footernav" >{{$t("Системи рекуперації тепла")}}</NuxtLink>
                         </div>
                         <div>
-                            <NuxtLink to="/reciver" class="footernav">{{$t("Ресівери")}}</NuxtLink>
+                            <NuxtLink :to="localePath('/reciver')" class="footernav">{{$t("Ресівери")}}</NuxtLink>
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-6 col-lg-2 text-center">

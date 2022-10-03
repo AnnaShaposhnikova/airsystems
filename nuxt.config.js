@@ -76,19 +76,19 @@ export default {
                 {
                     name: 'Ukrainian',
                     code: 'ua',
-                    iso: 'ua-UA',
-                    file: 'ua-UA.js'
+                    iso: 'ua',
+                    file: 'ua.js'
                 },
                 {
                     name: 'Russian',
                     code: 'ru',
-                    iso: 'ru-RU',
-                    file: 'ru-RU.js'
+                    iso: 'ru',
+                    file: 'ru.js'
                 },
             ],
-            lazy: true,
             langDir: 'lang/',
             defaultLocale: 'ua',
+            seo: true,
         }]
     ],
 
