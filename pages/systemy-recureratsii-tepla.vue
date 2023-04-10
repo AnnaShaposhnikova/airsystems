@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col">
                 <h1>
-                    Рекупрація тепла, виробленого компресором
+                    {{$t("systemy-recureratsii-tepla-h1")}}
                 </h1>
             </div>
         </div>
