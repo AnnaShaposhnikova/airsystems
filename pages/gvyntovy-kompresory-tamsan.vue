@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col">
                 <h1>
-                    {{$t("Гвинтовi компресори")}} Tamsan
+                    {{$t("gvyntovy-kompresory")}} Tamsan
                 </h1>
             </div>
         </div>
@@ -854,12 +854,12 @@ export default {
     layout: "default",
     head() {
         return {
-            title: `${this.$t("Гвинтовi компресори")} Tamsan - ${process.env.siteName}`,
+            title: `${this.$t("gvyntovy-kompresory")} Tamsan - ${process.env.siteName}`,
             meta: [
                 {
                     hid: "description",
                     name: "description",
-                    content: `AirSystems - ${this.$t("Гвинтовi компресори")} Tamsan`
+                    content: `AirSystems - ${this.$t("gvyntovy-kompresory")} Tamsan`
                 },
                 {
                     hid: "keywords",

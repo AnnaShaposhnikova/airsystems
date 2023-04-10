@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col">
-                <h1>{{ $t("Гвинтовi компресори") }} LMF</h1>
+                <h1>{{ $t("gvyntovy-kompresory") }} LMF</h1>
             </div>
         </div>
         <div class="row pb-2">
@@ -23,7 +23,7 @@
         </div>
         <div class="row">
             <div class="col">
-                <h3>{{$t("Гвинтовi компресори")}}:</h3>
+                <h3>{{$t("gvyntovy-kompresory")}}:</h3>
 
                 <ul>
                     <li>{{ $t("Одно- та двоступеневі рішення") }}</li>
@@ -340,7 +340,7 @@ export default {
     layout: "default",
     head() {
         return {
-            title: `${this.$t("Гвинтовi компресори")} LMF - ${process.env.siteName}`,
+            title: `${this.$t("gvyntovy-kompresory")} LMF - ${process.env.siteName}`,
             meta: [
                 {
                     hid: "description",

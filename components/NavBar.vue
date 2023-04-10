@@ -12,10 +12,10 @@
                 <b-nav-item :to="localePath('/o-nas')">О нас</b-nav-item>
                 <b-nav-item-dropdown text="Каталог">
                     <b-dropdown-group header="LMF">
-                        <b-dropdown-item  class ="nav-dropdown-items" :to="localePath('/gvyntovy-kompresory-lmf')">{{$t("Гвинтові компресори")}}</b-dropdown-item>
+                        <b-dropdown-item  class ="nav-dropdown-items" :to="localePath('/gvyntovy-kompresory-lmf')">{{$t("gvyntovy-kompresory")}}</b-dropdown-item>
                     </b-dropdown-group>
                     <b-dropdown-group header="Tamsan">
-                        <b-dropdown-item class ="nav-dropdown-items" :to="localePath('/gvyntovy-kompresory-tamsan')">{{$t("Гвинтові компресори")}}</b-dropdown-item>
+                        <b-dropdown-item class ="nav-dropdown-items" :to="localePath('/gvyntovy-kompresory-tamsan')">{{$t("gvyntovy-kompresory")}}</b-dropdown-item>
                         <b-dropdown-item class ="nav-dropdown-items" :to="localePath('/osyshyvachi-povitrya-tamsan')">{{$t("Осушувачі повітря")}}</b-dropdown-item>
                         <b-dropdown-item class ="nav-dropdown-items" :to="localePath('/kompresory-dlya-sypkyh-materialiv-tamsan')">{{$t("Компресори для сипких матеріалів")}}</b-dropdown-item>
                         <b-dropdown-item class ="nav-dropdown-items" :to="localePath('/vysokobarny-kompresory-tamsan')">{{$t("Високобарні компресори")}}</b-dropdown-item>

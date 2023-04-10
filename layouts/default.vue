@@ -45,11 +45,11 @@
                     <div class="col-lg-4 d-none d-lg-block catalog-footer">
                         <div>LMF</div>
                         <div class="indent">
-                            <NuxtLink :to="localePath('/gvyntovy-kompresory-lmf')" class="footernav">{{$t("Гвинтові компресори")}}</NuxtLink>
+                            <NuxtLink :to="localePath('/gvyntovy-kompresory-lmf')" class="footernav">{{$t("gvyntovy-kompresory")}}</NuxtLink>
                         </div>
                         <div>Tamsan</div>
                         <div class="indent">
-                            <NuxtLink :to="localePath('/gvyntovy-kompresory-tamsan')" class="footernav" >{{$t("Гвинтові компресори")}}</NuxtLink>
+                            <NuxtLink :to="localePath('/gvyntovy-kompresory-tamsan')" class="footernav" >{{$t("gvyntovy-kompresory")}}</NuxtLink>
                         </div>
                         <div class="indent">
                             <NuxtLink :to="localePath('/osyshyvachi-povitrya-tamsan')" class="footernav" >{{$t("Осушувачі повітря")}}</NuxtLink>
