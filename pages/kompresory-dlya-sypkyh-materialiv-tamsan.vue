@@ -137,6 +137,12 @@ export default {
                 }
             ]
         };
-    }
+    },
+    nuxtI18n: {
+        paths: {
+            ua: '/kompresory-dlya-sypkyh-materialiv-tamsan',
+            ru: '/kompressory-dlya-sypuchih-materialov-tamsan'
+        }
+    },
 };
 </script>
