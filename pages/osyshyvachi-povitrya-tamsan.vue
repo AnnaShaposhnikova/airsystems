@@ -19,6 +19,11 @@
                         $t("osyshyvachi-p1")
                     }}
                 </p>
+                <p class="indent">
+                    {{
+                        $t("osyshyvachi-p10")
+                    }}
+                </p>
             </div>
         </div>
         <div class="row justify-content-center text-center pb-2">
