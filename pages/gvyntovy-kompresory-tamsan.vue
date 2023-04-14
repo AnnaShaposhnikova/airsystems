@@ -24,6 +24,12 @@
                 <p class="indent">
                     {{$t("gvyntovy-kompresory-tamsan-p3")}}
                 </p>
+                <p class="indent">
+                    {{$t("gvyntovy-kompresory-tamsan-p11")}}
+                </p>
+                <p class="indent">
+                    {{$t("gvyntovy-kompresory-tamsan-p12")}}
+                </p>
             </div>
         </div>
         <div class="row">
