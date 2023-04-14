@@ -47,6 +47,14 @@
                     {{$t("gvyntovy-kompresory-lmf-p3")}}
 
                 </p>
+                <p class="indent">
+                    {{$t("gvyntovy-kompresory-lmf-p17")}}
+
+                </p>
+                <p class="indent">
+                    {{$t("gvyntovy-kompresory-lmf-p18")}}
+
+                </p>
             </div>
         </div>
         <div class="row justify-content-center">
