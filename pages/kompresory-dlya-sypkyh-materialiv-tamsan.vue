@@ -14,6 +14,22 @@
                         $t("bulk-material-p1")
                     }}
                 </p>
+                <h4>
+                    {{$t("bulk-material-h2")}}
+                </h4>
+                <p>
+                    {{
+                        $t("bulk-material-p2")
+                    }}
+                </p>
+                <h4>
+                    {{$t("bulk-material-h3")}}
+                </h4>
+                <p>
+                    {{
+                        $t("bulk-material-p3")
+                    }}
+                </p>
             </div>
         </div>
         <div class="row justify-content-center">
