@@ -6,6 +6,19 @@
                 </h1>
             </div>
         </div>
+        <div class="row">
+            <div class="col">
+                <p class="indent">
+                    {{$t(("reciver-p1"))}}
+                </p>
+                <p class="indent">
+                    {{$t(("reciver-p2"))}}
+                </p>
+                <p class="indent">
+                    {{$t(("reciver-p3"))}}
+                </p>
+            </div>
+        </div>
         <div class="row justify-content-center pb-2">
             <figure>
                 <b-img fluid src="/img/reciver1.jpg"></b-img>
