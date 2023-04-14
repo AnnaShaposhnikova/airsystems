@@ -34,6 +34,9 @@
                 <p class="indent">
                     {{$t("systemy-recureratsii-tepla-p5")}}
                 </p>
+                <p class="indent">
+                    {{$t("systemy-recureratsii-tepla-p6")}}
+                </p>
             </div>
         </div>
         <div class="row">
