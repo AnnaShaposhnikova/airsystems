@@ -1,17 +1,16 @@
-
 th,
 .th {
-    padding: 0px !important;
-    margin: auto;
-    text-align: center;
+  padding: 0 !important;
+  margin: auto;
+  text-align: center;
 }
 td,
 th {
-     padding: 0px !important;
-    text-align: center;
-    vertical-align: middle;
+  padding: 0 !important;
+  text-align: center;
+  vertical-align: middle;
 }
 .table-left {
-    text-align: start;
-    vertical-align: middle;
+  text-align: start;
+  vertical-align: middle;
 }

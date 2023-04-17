@@ -1,41 +1,36 @@
-.card{
-    color:black;
-    background-color: rgba(108, 199, 211, 0.7);
+.card {
+  color: black;
+  background-color: rgba(108, 199, 211, 0.7);
 }
-.card1{
-    margin-bottom : 2em;
-    height: auto;
+.card1 {
+  margin-bottom: 2em;
+  height: auto;
 }
-.card1 ul{
-    padding: 0;
-    
+.card1 ul {
+  padding: 0;
 }
-.card1 ul li{    
-    list-style-type: none;
-}
-
-.card1 ul li a{
-    color:black;
-    text-decoration:none;
-}
-.card1 ul li a:hover{
-    color: white;
-    text-decoration:none;
-}
-.card h5{
-    height: 4em;
-}
-.card1:hover{
-    box-shadow : 3px 3px 8px hsl(0, 0%, 70%);
-    -webkit-box-shadow: 3px 3px 8px hsl(0, 0%, 70%);
-}
-p{
-    text-indent: 25px;
-   
-}
-.text-center{
-    text-align: center;
+.card1 ul li {
+  list-style-type: none;
 }
 
-
-
+.card1 ul li a {
+  color: black;
+  text-decoration: none;
+}
+.card1 ul li a:hover {
+  color: white;
+  text-decoration: none;
+}
+.card h5 {
+  height: 4em;
+}
+.card1:hover {
+  box-shadow: 3px 3px 8px hsl(0, 0%, 70%);
+  -webkit-box-shadow: 3px 3px 8px hsl(0, 0%, 70%);
+}
+p {
+  text-indent: 25px;
+}
+.text-center {
+  text-align: center;
+}

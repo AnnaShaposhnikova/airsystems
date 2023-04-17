@@ -1,0 +1,65 @@
+# dependencies
+/node_modules
+/.nuxt
+/dist
+
+# testing
+/coverage
+/coverageUnitTests
+/.nyc_output
+/apidoc
+
+# production
+/build
+
+# Editors
+.idea
+*.iml
+.vscode
+
+.tmp
+/explorer
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env
+.gitignore
+.prettierignore
+.eslintcache
+.sailsrc
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+yarn.lock
+
+*.jpg
+*.jpeg
+*.psd
+*.vtl
+*.png
+*.svg
+*.gif
+*.puml
+*.feature
+*.state
+*.disabled
+*.sh
+*.jar
+*.txt
+*.ico
+*.zip
+*.drawio
+*.jfif
+
+*.html
+*.mp3
+
+*.xml
+*.info
+
+*.sample

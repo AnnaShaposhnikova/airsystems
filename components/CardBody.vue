@@ -1,11 +1,11 @@
 <template>
-    <div class="card-body">
-        <slot></slot>
-    </div>
+  <div class="card-body">
+    <slot></slot>
+  </div>
 </template>
 
 <script>
 export default {
-    name: "CardBody"
-}
+  name: 'CardBody',
+};
 </script>
