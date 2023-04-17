@@ -9,9 +9,7 @@ export default {
     name: "Mail"
 }
 import {
-    BIcon,
     BIconEnvelope,
-
 } from "bootstrap-vue";
 </script>
 

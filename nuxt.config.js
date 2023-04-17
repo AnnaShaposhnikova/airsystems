@@ -93,7 +93,16 @@ export default {
     ],
 
     bootstrapVue: {
-        icons: true
+        bvCSS: false,
+        components: ['BNavbar', 'BNavbarNav', 'BNavbarToggle', 'BNavbarBrand', 'BNavText', 'BNavItemDropdown', 'BNavItem',
+            'BIconHouseDoorFill', 'BButton', 'BModal', 'BForm', 'BFormInput', 'BFormTextarea', 'BIconEnvelope', 'BIconTelephone',
+            'BCard', 'BCardHeader', 'BCardBody', 'BCardText', 'BCollapse', 'BIconFacebook', 'BIconInstagram',
+            'BImg',
+        ],
+        componentPlugins: [
+            'ModalPlugin',
+            'NavbarPlugin',
+        ],
     },
 
     // Build Configuration: https://go.nuxtjs.dev/config-build

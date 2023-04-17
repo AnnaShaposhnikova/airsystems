@@ -5,7 +5,7 @@
                 <b-button v-b-toggle.accordion-2 variant="info"
                     >
                     {{link}}
-                    
+
                     </b-button>
             </b-card-header>
             <b-collapse
@@ -15,9 +15,9 @@
             >
                 <b-card-body>
                     <b-card-text>
-                        
+
                         <slot></slot>
-                       
+
                     </b-card-text>
                 </b-card-body>
             </b-collapse>
@@ -26,6 +26,7 @@
 </template>
 
 <script>
+import {BCard, BCardHeader, BCardBody, BCardText, BButton, BCollapse} from 'bootstrap-vue'
 export default {
     name: "NavDropdownCard",
       props: {

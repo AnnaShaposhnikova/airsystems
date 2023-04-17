@@ -101,11 +101,8 @@
 
 <script>
 import {
-    BIcon,
-    BIconArrowUp,
     BIconFacebook,
     BIconInstagram,
-    BIconCheck
 } from "bootstrap-vue";
 export default {};
 </script>

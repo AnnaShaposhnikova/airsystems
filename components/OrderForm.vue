@@ -42,20 +42,21 @@
                 <div v-if="errors.message" class="error">{{$t(errors.message)}}</div>
             </b-form>
             <template #modal-footer>
-                <b-btn class="submit-form-popup my-3 mx-auto order-btn" @click="handlerSubmit">{{$t("Замовити")}}</b-btn>
+                <b-button class="submit-form-popup my-3 mx-auto order-btn" @click="handlerSubmit">{{$t("Замовити")}}</b-button>
             </template>
         </b-modal>
 
         <b-modal id="modal-2" size="sm" variant="success">
             <p class="my-4">{{$t("Відправлено")}}</p>
             <template #modal-footer>
-                <b-btn class="" @click="$bvModal.hide('modal-2')">OK</b-btn>
+                <b-button class="" @click="$bvModal.hide('modal-2')">OK</b-button>
             </template>
         </b-modal>
     </div>
 </template>
 
 <script>
+import {BButton, BModal, BForm, BFormInput, BFormTextarea} from 'bootstrap-vue'
 
 const ERROR_MSG = {
     empty: "Це поле є обов'язковим",

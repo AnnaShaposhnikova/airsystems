@@ -8,7 +8,7 @@
 
         <b-collapse id="nav-collapse" is-nav>
             <b-navbar-nav class="mx-auto">
-                <b-nav-item :to="localePath('/')"><b-icon icon="house-door-fill"></b-icon></b-nav-item>
+                <b-nav-item :to="localePath('/')"><b-icon-house-door-fill></b-icon-house-door-fill></b-nav-item>
                 <b-nav-item :to="localePath('/o-nas')">О нас</b-nav-item>
                 <b-nav-item-dropdown text="Каталог">
                     <b-dropdown-group header="LMF">
@@ -45,7 +45,7 @@
 </template>
 
 <script>
-import { HouseDoorFill } from "bootstrap-vue";
+import { BIconHouseDoorFill, BNavbar, BNavbarNav, BNavbarToggle, BNavbarBrand, BNavText, BNavItemDropdown, BNavItem } from "bootstrap-vue";
 
 export default {
     name: "NavBar"
