@@ -151,15 +151,15 @@
       </div>
       <div class="col-sm-10">
         <h4>
-          <b-icon font-scale="2" icon="check"></b-icon>
+          <b-icon-check font-scale="2" icon="check"></b-icon-check>
           {{ $t('Надійне, якісне обладнання та сервіс') }}
         </h4>
         <h4>
-          <b-icon font-scale="2" icon="check"></b-icon>
+          <b-icon-check font-scale="2" icon="check"></b-icon-check>
           {{ $t('Великий досвід роботи на ринку України') }}
         </h4>
         <h4>
-          <b-icon font-scale="2" icon="check"></b-icon>
+          <b-icon-check font-scale="2" icon="check"></b-icon-check>
           {{ $t('Індивідуальний підхід до кожного клієнта') }}
         </h4>
       </div>
@@ -219,10 +219,12 @@
   </div>
 </template>
 <script>
+import {BCarousel, BCarouselSlide, BIconCheck} from 'bootstrap-vue'
 import Card from '../components/Card';
 import CardBody from '../components/CardBody';
 import CardTitle from '../components/CardTitle';
 import CardImage from '../components/CardImage';
+
 export default {
   components: {Card, CardBody, CardTitle, CardImage},
   layout: 'default',

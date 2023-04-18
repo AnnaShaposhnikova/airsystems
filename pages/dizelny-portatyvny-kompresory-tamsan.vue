@@ -10,12 +10,12 @@
     <div class="row justify-content-center">
       <div class="col-lg-6 col-sm-12 text-center">
         <figure>
-          <b-img fluid src="/img/tamsan-page/port/роrt-tam1.png"></b-img>
+          <nuxt-img class="img-fluid" src="/img/tamsan-page/port/роrt-tam1.png" width="480" height="400"></nuxt-img>
         </figure>
       </div>
       <div class="col-lg-6 col-sm-12">
         <figure>
-          <b-img fluid src="/img/tamsan-page/port/port-tam2.png"></b-img>
+          <nuxt-img class="img-fluid" src="/img/tamsan-page/port/port-tam2.png" width="480" height="400"></nuxt-img>
         </figure>
       </div>
     </div>

@@ -10,7 +10,7 @@
     <div class="row pb-3">
       <div class="col">
         <figure>
-          <b-img class="mx-auto d-block" fluid src="/img/services.png"></b-img>
+          <nuxt-img class="mx-auto d-block img-fluid" src="/img/services.png" :placeholder="[50, 25, 10]" width="887" height="400"/>
         </figure>
       </div>
     </div>

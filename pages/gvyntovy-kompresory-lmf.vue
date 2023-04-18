@@ -7,7 +7,7 @@
     </div>
     <div class="row pb-2">
       <figure class="col-auto mx-auto">
-        <b-img class="lmf-lg" fluid src="/img/vint_index.jpg"></b-img>
+        <nuxt-img class="lmf-lg img-fluid" src="/img/vint_index.jpg" width="640" height="400"></nuxt-img>
       </figure>
     </div>
     <div class="row">
@@ -56,18 +56,18 @@
     <div class="row justify-content-center">
       <div class="col-lg-4 col-sm-12">
         <figure class="text-center">
-          <b-img fluid src="/img/lmf1.jpg"></b-img>
+          <nuxt-img class="img-fluid" src="/img/lmf1.jpg" width="400" height="344"></nuxt-img>
         </figure>
       </div>
       <div class="col-lg-4 col-sm-12">
         <figure class="text-center">
-          <b-img fluid src="/img/lmf2.jpg"></b-img>
+          <nuxt-img class="img-fluid" src="/img/lmf2.jpg" width="400" height="344"></nuxt-img>
         </figure>
       </div>
 
       <div class="col-lg-4 col-sm-12">
         <figure class="text-center">
-          <b-img fluid src="/img/lmf3.jpg"></b-img>
+          <nuxt-img class="img-fluid" src="/img/lmf3.jpg" width="377" height="263"></nuxt-img>
         </figure>
       </div>
     </div>

@@ -7,7 +7,7 @@
     </div>
     <div class="row justify-content-center pb-2">
       <figure class="col mx-auto">
-        <b-img fluid src="/img/car1.jpg"></b-img>
+        <nuxt-img class="img-fluid" src="/img/car1.jpg" width="1361" height="504"></nuxt-img>
       </figure>
     </div>
     <div class="row">
@@ -39,12 +39,12 @@
     <div class="row justify-content-center text-center">
       <div class="col-lg-6 col-sm-12">
         <figure>
-          <b-img fluid src="/img/tamsan-page/tamsan1.png"></b-img>
+          <nuxt-img clss="img-fluid" src="/img/tamsan-page/tamsan1.png" width="464" height="400"></nuxt-img>
         </figure>
       </div>
       <div class="col-lg-6 col-sm-12">
         <figure>
-          <b-img fluid src="/img/tamsan-page/tamsan2.png"></b-img>
+          <nuxt-img clss="img-fluid" src="/img/tamsan-page/tamsan2.png" width="464" height="400"></nuxt-img>
         </figure>
       </div>
     </div>
@@ -185,24 +185,24 @@
     <div class="row justify-content-center mb-3">
       <div class="col-lg-4 col-md-6 col-sm-12">
         <figure>
-          <b-img fluid src="/img/tamsan-page/tamsan3.png"></b-img>
+          <nuxt-img class="img-fluid" src="/img/tamsan-page/tamsan3.png" width="602" height="400"></nuxt-img>
         </figure>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
         <figure>
-          <b-img fluid src="/img/tamsan-page/tamsan4.png"></b-img>
+          <nuxt-img class="img-fluid" src="/img/tamsan-page/tamsan4.png" width="602" height="400"></nuxt-img>
         </figure>
       </div>
     </div>
     <div class="row justify-content-center">
       <div class="col-lg-4 col-md-6 col-sm-12">
         <figure>
-          <b-img fluid src="/img/tamsan-page/tamsan5.png"></b-img>
+          <nuxt-img class="img-fluid" src="/img/tamsan-page/tamsan5.png" width="602" height="400"></nuxt-img>
         </figure>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
         <figure>
-          <b-img fluid src="/img/tamsan-page/tamsan6.png"></b-img>
+          <nuxt-img class="img-fluid" src="/img/tamsan-page/tamsan6.png" width="602" height="400"></nuxt-img>
         </figure>
       </div>
     </div>
@@ -222,17 +222,17 @@
     <div class="row justify-content-center">
       <div class="col-lg-4 col-md-6 col-sm-12">
         <figure>
-          <b-img fluid src="/img/tamsan-page/tamsan8.png"> </b-img>
+          <nuxt-img class="img-fluid" src="/img/tamsan-page/tamsan8.png" width="506" height="532"></nuxt-img>
         </figure>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
         <figure>
-          <b-img fluid src="/img/tamsan-page/tamsan7.png"> </b-img>
+          <nuxt-img class="img-fluid" src="/img/tamsan-page/tamsan7.png" width="879" height="764"></nuxt-img>
         </figure>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
         <figure>
-          <b-img fluid src="/img/tamsan-page/tamsan9.png"> </b-img>
+          <nuxt-img class="img-fluid" src="/img/tamsan-page/tamsan9.png" width="1110" height="1000"></nuxt-img>
         </figure>
       </div>
     </div>
@@ -426,17 +426,17 @@
     <div class="row justify-content-center text-center mb-5">
       <div class="col-lg-3 col-md-5 col-sm-12">
         <figure>
-          <b-img fluid src="/img/tamsan-page/tamsan10.png"> </b-img>
+          <nuxt-img class="img-fluid" src="/img/tamsan-page/tamsan10.png" width="587" height="400"> </nuxt-img>
         </figure>
       </div>
       <div class="col-lg-3 col-md-5 col-sm-12">
         <figure>
-          <b-img fluid src="/img/tamsan-page/tamsan11.png"> </b-img>
+          <nuxt-img class="img-fluid" src="/img/tamsan-page/tamsan11.png" width="602" height="400"> </nuxt-img>
         </figure>
       </div>
       <div class="col-lg-3 col-md-5 col-sm-12">
         <figure>
-          <b-img fluid src="/img/tamsan-page/tamsan12.png"> </b-img>
+          <nuxt-img class="img-fluid" src="/img/tamsan-page/tamsan12.png" width="602" height="400"> </nuxt-img>
         </figure>
       </div>
     </div>
@@ -468,17 +468,17 @@
     <div class="row justify-content-center text-center">
       <div class="col-lg-4 col-md-6 col-sm-12">
         <figure>
-          <b-img fluid src="/img/tamsan-page/tamsan13.png"></b-img>
+          <nuxt-img class="img-fluid" src="/img/tamsan-page/tamsan13.png" width="480" height="400"></nuxt-img>
         </figure>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
         <figure>
-          <b-img fluid src="/img/tamsan-page/tamsan14.png"></b-img>
+          <nuxt-img class="img-fluid" src="/img/tamsan-page/tamsan14.png" width="437" height="400"></nuxt-img>
         </figure>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
         <figure>
-          <b-img fluid src="/img/tamsan-page/tamsan15.png"></b-img>
+          <nuxt-img class="img-fluid" src="/img/tamsan-page/tamsan15.png" width="571" height="400"></nuxt-img>
         </figure>
       </div>
     </div>
@@ -770,22 +770,22 @@
     <div class="row justify-content-center text-center">
       <div class="col-lg-3 col-md-5 col-sm-12">
         <figure>
-          <b-img fluid src="/img/tamsan-page/tamsan16.jpg"></b-img>
+          <nuxt-img class="img-fluid" src="/img/tamsan-page/tamsan16.jpg" width="560" height="400"></nuxt-img>
         </figure>
       </div>
       <div class="col-lg-3 col-md-5 col-sm-12">
         <figure>
-          <b-img fluid src="/img/tamsan-page/tamsan17.jpg"></b-img>
+          <nuxt-img class="img-fluid" src="/img/tamsan-page/tamsan17.jpg" width="700" height="500"></nuxt-img>
         </figure>
       </div>
       <div class="col-lg-3 col-md-5 col-sm-12">
         <figure>
-          <b-img fluid src="/img/tamsan-page/tamsan18.jpg"></b-img>
+          <nuxt-img class="img-fluid" src="/img/tamsan-page/tamsan18.jpg" width="560" height="400"></nuxt-img>
         </figure>
       </div>
       <div class="col-lg-3 col-md-5 col-sm-12">
         <figure>
-          <b-img fluid src="/img/tamsan-page/tamsan19.jpg"></b-img>
+          <nuxt-img class="img-fluid" src="/img/tamsan-page/tamsan19.jpg" width="560" height="400"></nuxt-img>
         </figure>
       </div>
     </div>
