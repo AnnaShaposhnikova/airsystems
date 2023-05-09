@@ -16,7 +16,7 @@
     </div>
     <div class="row justify-content-center pb-2">
       <figure>
-        <b-img fluid src="/img/recuperation/recuperation1.jpg"> </b-img>
+        <nuxt-img class="img-fluid" width="" height="" src="/img/recuperation/recuperation1.jpg"> </nuxt-img>
       </figure>
     </div>
     <div class="row pb-3">
@@ -117,16 +117,16 @@
             <tbody>
               <tr>
                 <td>
-                  <b-img fluid src="/img/recuperation/rec1.jpg"> </b-img>
+                  <nuxt-img class="img-fluid" width="100" height="100" src="/img/recuperation/rec1.jpg"> </nuxt-img>
                 </td>
                 <td>
-                  <b-img fluid src="/img/recuperation/rec2.jpg"> </b-img>
+                  <nuxt-img class="img-fluid" width="100" height="100" src="/img/recuperation/rec2.jpg"> </nuxt-img>
                 </td>
                 <td>
-                  <b-img fluid src="/img/recuperation/rec3.jpg"> </b-img>
+                  <nuxt-img class="img-fluid" width="88" height="100" src="/img/recuperation/rec3.jpg"> </nuxt-img>g>
                 </td>
                 <td>
-                  <b-img fluid src="/img/recuperation/rec4.jpg"> </b-img>
+                  <nuxt-img class="img-fluid" width="123" height="100" src="/img/recuperation/rec4.jpg"> </nuxt-img>
                 </td>
               </tr>
               <tr>

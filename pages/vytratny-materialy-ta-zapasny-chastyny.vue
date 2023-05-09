@@ -6,7 +6,7 @@
           {{ $t('Витратні матеріали та запасні частини') }}
         </h1>
         <figure class="text-center m-3">
-          <b-img fluid src="/img/consumables.jpg"></b-img>
+          <nuxt-img class="img-fluid" width="640" height="400" src="/img/consumables.jpg"></nuxt-img>
         </figure>
       </div>
     </div>

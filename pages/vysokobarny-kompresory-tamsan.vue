@@ -8,12 +8,12 @@
     <div class="row justify-content-center text-center">
       <div class="col-lg-6 col-sm-12">
         <figure>
-          <b-img fluid src="/img/tamsan-page/high-tamsan/high-tamsan1.png"> </b-img>
+          <nuxt-img class="img-fluid" width="520" height="400" src="/img/tamsan-page/high-tamsan/high-tamsan1.png"> </nuxt-img>
         </figure>
       </div>
       <div class="col-lg-6 col-sm-12">
         <figure>
-          <b-img fluid src="/img/tamsan-page/high-tamsan/high-tamsan2.jpg"> </b-img>
+          <nuxt-img class="img-fluid" width="520" height="400" src="/img/tamsan-page/high-tamsan/high-tamsan2.jpg"> </nuxt-img>
         </figure>
       </div>
     </div>
