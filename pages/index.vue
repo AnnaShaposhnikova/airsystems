@@ -171,47 +171,47 @@
       <div class="row justify-content-center">
         <div class="col-lg-4 col-md-6 col-sm-12 text-center my-2">
           <figure>
-            <b-img fluid src="/img/clients/carlsberg.png"></b-img>
+            <nuxt-img class="img-fluid" width="170" height="70" src="/img/clients/carlsberg.png"></nuxt-img>
           </figure>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12 text-center my-2">
           <figure>
-            <b-img fluid src="/img/clients/kav.jpg"></b-img>
+            <nuxt-img class="img-fluid" width="211" height="70" src="/img/clients/kav.jpg"></nuxt-img>
           </figure>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12 text-center my-2">
           <figure>
-            <b-img fluid src="/img/clients/knauf.png"></b-img>
+            <nuxt-img class="img-fluid" width="141" height="70" src="/img/clients/knauf.png"></nuxt-img>
           </figure>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12 text-center my-2">
           <figure>
-            <b-img fluid src="/img/clients/parash.png"></b-img>
+            <nuxt-img class="img-fluid" width="131" height="70" src="/img/clients/parash.png"></nuxt-img>
           </figure>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12 text-center my-2">
           <figure>
-            <b-img fluid src="/img/clients/skf.jpg"></b-img>
+            <nuxt-img class="img-fluid" width="137" height="70" src="/img/clients/skf.jpg"></nuxt-img>
           </figure>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12 text-center my-2">
           <figure>
-            <b-img fluid src="/img/clients/ashan.png"></b-img>
+            <nuxt-img class="img-fluid" width="229" height="70" src="/img/clients/ashan.png"></nuxt-img>
           </figure>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12 text-center my-2">
           <figure>
-            <b-img fluid src="/img/clients/rp275.png"></b-img>
+            <nuxt-img class="img-fluid" width="326" height="70" src="/img/clients/rp275.png"></nuxt-img>
           </figure>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12 text-center my-2">
           <figure>
-            <b-img fluid src="/img/clients/stol.png"></b-img>
+            <nuxt-img class="img-fluid" width="170" height="100" src="/img/clients/stol.png"></nuxt-img>
           </figure>
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12 text-center my-2">
           <figure>
-            <b-img fluid src="/img/clients/kura.png"></b-img>
+            <nuxt-img class="img-fluid" width="150" height="150" src="/img/clients/kura.png"></nuxt-img>
           </figure>
         </div>
       </div>

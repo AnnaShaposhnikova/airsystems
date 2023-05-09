@@ -9,7 +9,7 @@
     </div>
     <div class="row justify-content-center pb-2">
       <figure>
-        <b-img fluid src="/img/dry/dry1.jpg"></b-img>
+        <nuxt-img class="img-fluid" width="726" height="400" src="/img/dry/dry1.jpg"></nuxt-img>
       </figure>
     </div>
     <div class="row pb-3">
@@ -25,12 +25,12 @@
     <div class="row justify-content-center text-center pb-2">
       <div class="col-lg-6 col-sm-12">
         <figure>
-          <b-img fluid src="/img/dry/dry2.png"></b-img>
+          <nuxt-img class="img-fluid" width="317" height="400" src="/img/dry/dry2.png"></nuxt-img>
         </figure>
       </div>
       <div class="col-lg-6 col-sm-12">
         <figure>
-          <b-img fluid src="/img/dry/dry3.jpg"></b-img>
+          <nuxt-img class="img-fluid" width="302" height="400" src="/img/dry/dry3.jpg"></nuxt-img>
         </figure>
       </div>
     </div>
@@ -438,12 +438,12 @@
     <div class="row justify-content-center text-center pb-2">
       <div class="col-lg-6 col-sm-12">
         <figure>
-          <b-img fluid src="/img/dry/dry4.png"></b-img>
+          <nuxt-img class="img-fluid" width="268" height="400" src="/img/dry/dry4.png"></nuxt-img>
         </figure>
       </div>
       <div class="col-lg-6 col-sm-12">
         <figure>
-          <b-img fluid src="/img/dry/dry5.png"></b-img>
+          <nuxt-img class="img-fluid" width="256" height="400" src="/img/dry/dry5.png"></nuxt-img>
         </figure>
       </div>
     </div>

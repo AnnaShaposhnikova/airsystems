@@ -27,17 +27,17 @@
     <div class="row justify-content-center">
       <div class="col-lg-4 col-md-6 col-sm-12">
         <figure>
-          <b-img fluid src="/img/tamsan-page/b-tamsan/b-tamsan1.jpg"></b-img>
+          <nuxt-img class="img-fluid" width="520" height="400" src="/img/tamsan-page/b-tamsan/b-tamsan1.jpg"></nuxt-img>
         </figure>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
         <figure>
-          <b-img fluid src="/img/tamsan-page/b-tamsan/b-tamsan2.jpg"> </b-img>
+          <nuxt-img class="img-fluid" width="520" height="400" src="/img/tamsan-page/b-tamsan/b-tamsan2.jpg"> </nuxt-img>
         </figure>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-12">
         <figure>
-          <b-img fluid src="/img/tamsan-page/b-tamsan/b-tamsan3.png"> </b-img>
+          <nuxt-img class="img-fluid" width="520" height="400" src="/img/tamsan-page/b-tamsan/b-tamsan3.png"> </nuxt-img>
         </figure>
       </div>
     </div>

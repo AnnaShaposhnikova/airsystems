@@ -20,7 +20,7 @@
     </div>
     <div class="row justify-content-center pb-2">
       <figure>
-        <b-img fluid src="/img/reciver1.jpg"></b-img>
+        <nuxt-img class="img-fluid" width="554" height="400" src="/img/reciver1.jpg"></nuxt-img>
       </figure>
     </div>
     <div class="row pb-3">
